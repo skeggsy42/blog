@@ -1,1 +1,23 @@
 snort -i3 -vde -c c:\snort\etc\snort.conf -l c:\snort.log
+
+     
+
+Useful SQL Scripts
+12th April 2018 ~ skrggsy06	~ Edit "Useful SQL Scripts"	
+
+restore filelistonly
+from NetPerfMon
+
+use master
+restore database NetPerfMon
+from NetPerfMon with replace, move ‘NetPerfMon’ TO ‘D:\Program Files\Microsoft SQL Server\MSSQL10_50.MSSQLSERVER\MSSQL\DATA\NetPerfMon.mdf’,
+move ‘NetPerfMon_FG1’ TO ‘D:\Program Files\Microsoft SQL Server\MSSQL10_50.MSSQLSERVER\MSSQL\DATA\NetPerfMon_FG1.mdf’,
+move ‘NetPerfMon_FG2’ TO ‘D:\Program Files\Microsoft SQL Server\MSSQL10_50.MSSQLSERVER\MSSQL\DATA\NetPerfMon_FG2.mdf’,
+move ‘NetPerfMon_FG3’ TO ‘D:\Program Files\Microsoft SQL Server\MSSQL10_50.MSSQLSERVER\MSSQL\DATA\NetPerfMon_FG3.mdf’,
+move ‘NetPerfMon_FG4’ TO ‘D:\Program Files\Microsoft SQL Server\MSSQL10_50.MSSQLSERVER\MSSQL\DATA\NetPerfMon_FG4.mdf’,
+move ‘NetPerfMon_log’ TO ‘D:\Program Files\Microsoft SQL Server\MSSQL10_50.MSSQLSERVER\MSSQL\DATA\NetPerfMon_log.ldf’
+
+CREATE LOGIN [SolarWindsNPM] WITH PASSWORD=********, DEFAULT_DATABASE=[NetPerfMon], DEFAULT_LANGUAGE=[us_english], CHECK_EXPIRATION=OFF, CHECK_POLICY=OFF
+
+USE [NetPerfMon]
+ALTER USER [SolarWindsNPM] WITH LOGIN = SolarWindsNPM
