@@ -3,14 +3,19 @@
 <html>
  <head>
   <style>
+
 pre {
-  display: block;
   font-family: monospace;
-  white-space: pre;
-  margin: 1em 0;
   background-color: powderblue;
   color:black;
-} 
+  text-overflow: ellipsis;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+}    
 </style>
  </head>
 
@@ -24,11 +29,13 @@ pre {
 <div class="w3-row-padding">
  <div class="w3-third">  
  <p>      
-   snort -i3 -vde -c c:\snort\etc\snort.conf -l c:\snort.log
+  <pre>snort -i3 -vde -c c:\snort\etc\snort.conf -l c:\snort.log</pre>
  </p>
  </div>
  <div class="w3-third">  
-    <p>Use netstat to check listening ports on Windows: netstat -ab | FIND "LISTEN"</p>
+    <p>
+  <pre>Use netstat to check listening ports on Windows: netstat -ab | FIND "LISTEN"</pre>
+  </p>
  </div>     
 
 Useful SQL Scripts
