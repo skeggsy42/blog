@@ -34,10 +34,13 @@ pre {
  </div>
  <div class="w3-third">  
     <p>
-  <pre>Use netstat to check listening ports on Windows: netstat -ab | FIND "LISTEN"</pre>
+  Use netstat to check listening ports on Windows: <pre>netstat -ab | FIND "LISTEN"</pre>
   </p>
+  <p>DNS lookup<pre>dig @8.8.8.8 brooksmacdonald.com MX</pre></p>
+ <p>Reverse DNS lookup<pre>dig -x 212.58.244.26</pre></p>
  </div>     
-
+<div class="w3-third">  
+    <p>
 Useful SQL Scripts
 12th April 2018 ~ skrggsy06	~ Edit "Useful SQL Scripts"	
 
@@ -57,5 +60,5 @@ CREATE LOGIN [SolarWindsNPM] WITH PASSWORD=********, DEFAULT_DATABASE=[NetPerfMo
 
 USE [NetPerfMon]
 ALTER USER [SolarWindsNPM] WITH LOGIN = SolarWindsNPM
-      
+ </p></div>     
      </body>
