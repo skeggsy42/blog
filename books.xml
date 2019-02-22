@@ -21,13 +21,53 @@
     <AMZN>https://www.amazon.co.uk/Absolute-OpenBSD-Unix-Practical-Paranoid/dp/1593274769/</AMZN>
   </BOOK>
  <BOOK>
-    <TITLE></TITLE>
+    <TITLE>The C++ Programming Language</TITLE>
     <AUTHOR></ARTIST>
     <Publisher></Publisher>
     <PRICE></PRICE>
     <YEAR></YEAR>
     <ISBN-10></ISBN-10>
     <ASIN></ASIN>
+    <AMZN></AMZN>
+  </BOOK>
+<BOOK>
+    <TITLE>A Tour of C++ (C++ In-Depth)</TITLE>
+    <AUTHOR></ARTIST>
+    <Publisher></Publisher>
+    <PRICE></PRICE>
+    <YEAR></YEAR>
+    <ISBN-10></ISBN-10>
+    <ASIN>B00F8CWGOS</ASIN>
+    <AMZN></AMZN>
+  </BOOK>
+<BOOK>
+    <TITLE></TITLE>
+    <AUTHOR></ARTIST>
+    <Publisher></Publisher>
+    <PRICE></PRICE>
+    <YEAR></YEAR>
+    <ISBN-10></ISBN-10>
+    <ASIN>321958322</ASIN>
+    <AMZN></AMZN>
+  </BOOK>
+<BOOK>
+    <TITLE></TITLE>
+    <AUTHOR></ARTIST>
+    <Publisher></Publisher>
+    <PRICE></PRICE>
+    <YEAR></YEAR>
+    <ISBN-10></ISBN-10>
+    <ASIN>321958322</ASIN>
+    <AMZN></AMZN>
+  </BOOK>
+<BOOK>
+    <TITLE></TITLE>
+    <AUTHOR></ARTIST>
+    <Publisher></Publisher>
+    <PRICE></PRICE>
+    <YEAR></YEAR>
+    <ISBN-10></ISBN-10>
+    <ASIN>321958322</ASIN>
     <AMZN></AMZN>
   </BOOK>
 </CATALOG>
