@@ -151,7 +151,7 @@
     <AMZN>na</AMZN>
   </BOOK>
   <BOOK>
-    <TITLE>Design Patterns Elements of Reusable Object Oriented Software</TITLE>
+    <TITLE>Design Patterns</TITLE>
     <AUTHOR>Gang of four</AUTHOR>
     <Publisher>na</Publisher>
     <PRICE>na</PRICE>
@@ -191,7 +191,7 @@
     <AMZN>na</AMZN>
   </BOOK>
   <BOOK>
-    <TITLE>Warren Buffett and the Interpretation of Financial Statements</TITLE>
+    <TITLE>Warren Buffett and the interpretation of financial statements</TITLE>
     <AUTHOR>Mary Buffett</AUTHOR>
     <Publisher>na</Publisher>
     <PRICE>na</PRICE>
