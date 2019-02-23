@@ -11,7 +11,7 @@
     <AMZN>na</AMZN>
   </BOOK>
   <BOOK>
-    <TITLE>Absolute OpenBSD: Unix for the Practical Paranoid</TITLE>
+    <TITLE>Absolute OpenBSD Unix for the Practical Paranoid</TITLE>
     <AUTHOR>Michael W Lucas</AUTHOR>
     <Publisher>Starch Press</Publisher>
     <PRICE>na</PRICE>
@@ -21,7 +21,7 @@
     <AMZN></AMZN>
   </BOOK>
   <BOOK>
-    <TITLE>The C++ Programming Language, 4th edition</TITLE>
+    <TITLE>The C++ Programming Language 4th edition</TITLE>
     <AUTHOR>na</AUTHOR>
     <Publisher>na</Publisher>
     <PRICE>na</PRICE>
@@ -31,7 +31,7 @@
     <AMZN>na</AMZN>
   </BOOK>
   <BOOK>
-    <TITLE>A Tour of C++ (C++ In-Depth)</TITLE>
+    <TITLE>A Tour of C++</TITLE>
     <AUTHOR>na</AUTHOR>
     <Publisher>na</Publisher>
     <PRICE>na</PRICE>
@@ -41,7 +41,7 @@
     <AMZN>na</AMZN>
   </BOOK>
   <BOOK>
-    <TITLE>Down to Earth: Gardening Wisdom</TITLE>
+    <TITLE>Down to Earth Gardening Wisdom</TITLE>
     <AUTHOR>Monty Don</AUTHOR>
     <Publisher>na</Publisher>
     <PRICE>na</PRICE>
@@ -51,7 +51,7 @@
     <AMZN>na</AMZN>
   </BOOK>
   <BOOK>
-    <TITLE>HTML and CSS:Design and Build Websites</TITLE>
+    <TITLE>HTML and CSSDesign and Build Websites</TITLE>
     <AUTHOR>Jon Duckett</AUTHOR>
     <Publisher>na</Publisher>
     <PRICE>na</PRICE>
@@ -61,7 +61,7 @@
     <AMZN>na</AMZN>
   </BOOK>
   <BOOK>
-    <TITLE>Financial Shenanigans: How to Detect Accounting Gimmicks and Fraud in Financial Reports</TITLE>
+    <TITLE>Financial Shenanigans How to Detect Accounting Gimmicks and Fraud in Financial Reports</TITLE>
     <AUTHOR>Howard Schilit</AUTHOR>
     <Publisher>na</Publisher>
     <PRICE>na</PRICE>
@@ -81,7 +81,7 @@
     <AMZN>na</AMZN>
   </BOOK>
   <BOOK>
-    <TITLE>Adobe Photoshop Lightroom CC/Lightroom 6 Book:The Complete Guide for Photographers</TITLE>
+    <TITLE>Adobe Photoshop Lightroom CC and Lightroom 6 BookThe Complete Guide for Photographers</TITLE>
     <AUTHOR>Martin Evening</AUTHOR>
     <Publisher>na</Publisher>
     <PRICE>na</PRICE>
@@ -101,7 +101,7 @@
     <AMZN>na</AMZN>
   </BOOK>
   <BOOK>
-    <TITLE>The Essays of Warren Buffett:Lessons for Corporate America, Fourth Ed</TITLE>
+    <TITLE>The Essays of Warren BuffettLessons for Corporate America Fourth Ed</TITLE>
     <AUTHOR>Lawrence A Cunningham</AUTHOR>
     <Publisher>na</Publisher>
     <PRICE>na</PRICE>
@@ -121,7 +121,7 @@
     <AMZN>na</AMZN>
   </BOOK>
   <BOOK>
-    <TITLE>The Life-Changing Magic of Tidying: A simple, effective way to banish clutter forever</TITLE>
+    <TITLE>The Life-Changing Magic of Tidying A simple effective way to banish clutter forever</TITLE>
     <AUTHOR>Marie Kondo</AUTHOR>
     <Publisher>na</Publisher>
     <PRICE>na</PRICE>
@@ -151,7 +151,7 @@
     <AMZN>na</AMZN>
   </BOOK>
   <BOOK>
-    <TITLE>Design Patterns:Elements of Reusable Object-Oriented Software</TITLE>
+    <TITLE>Design PatternsElements of Reusable Object-Oriented Software</TITLE>
     <AUTHOR>Gang of four</AUTHOR>
     <Publisher>na</Publisher>
     <PRICE>na</PRICE>
@@ -221,7 +221,7 @@
     <AMZN>na</AMZN>
   </BOOK>
   <BOOK>
-    <TITLE>Security Analysis: The Classic 1934 Edition</TITLE>
+    <TITLE>Security Analysis The Classic 1934 Edition</TITLE>
     <AUTHOR>Benjamin Graham and David Dodd</AUTHOR>
     <Publisher>na</Publisher>
     <PRICE>na</PRICE>
