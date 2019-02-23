@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div id='showBOOKS'></div>
+
+<script>
+displayCD(0);
+
+function displayCD(i) {
+    var xmlhttp = new XMLHttpRequest();
+    xmlhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+            myFunction(this, i);
+        }
+    };
+    xmlhttp.open("GET", "books.xml", true);
+    xmlhttp.send();
+}
+
+function myFunction(xml, i) {
+    var xmlDoc = xml.responseXML; 
+    x = xmlDoc.getElementsByTagName("BOOKS");
+    document.getElementById("showBOOKS").innerHTML =
+    "Title: " +
+    x[i].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue +
+    "<br>Author: " +
+    x[i].getElementsByTagName("AUTHOR")[0].childNodes[0].nodeValue +
+    "<br>Publisher: " + 
+    x[i].getElementsByTagName("Publisher")[0].childNodes[0].nodeValue +
+     "<br>Price: " + 
+    x[i].getElementsByTagName("Price")[0].childNodes[0].nodeValue +
+     "<br>Year: " + 
+    x[i].getElementsByTagName("YEAR")[0].childNodes[0].nodeValue +
+     "<br>ISBN-10: " + 
+    x[i].getElementsByTagName("ISBN-10")[0].childNodes[0].nodeValue +
+     "<br>ASIN: " + 
+    x[i].getElementsByTagName("ASIN")[0].childNodes[0].nodeValue +
+     "<br>Amazon url: " + 
+    x[i].getElementsByTagName("AMZN")[0].childNodes[0].nodeValue;
+}
+</script>
+
+</body>
+</html>
