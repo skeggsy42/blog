@@ -27,12 +27,33 @@ pre {
   <h1>Cheatsheet</h1> 
 </div>
 <div class="w3-row-padding">
+ 
+ <div class="w3-third">  
+ <p>  
+  GPG2</br>
+  Handbook</br>
+  https://gnupg.org/gph/en/manual.html</br>
+  generate a key</br>
+  <pre>gpg2 --gen-key</pre>
+  list keys on keyring</br>
+  <pre>gpg --list-keys</pre>
+  encrypt document</br>
+  <pre>gpg --output encrypteddoc.doc.gpg --encrypt --recipient recipient@email.com doctoencrypt.doc</doc>
+  decrypt document
+  <pre>gpg2 --output unencrypteddoc.doc --decrypt encrypteddoc.doc.gpg
+  export public key in ASCII-armored format for sharing by email</br>
+  <pre>gpg2 --armor --export myemail@address.net > mypublickey.gpg
+  
+ </p>
+ </div>
+ 
+ 
  <div class="w3-third">  
  <p>      
   <pre>snort -i3 -vde -c c:\snort\etc\snort.conf -l c:\snort.log</pre>
  </p>
  </div>
- >
+ 
 <div class="w3-third"> 
  <p>Mirror Websites</p>
  <p><pre>wget -mirror -convert-content -N https://www.skeggs.net</pre></p>
