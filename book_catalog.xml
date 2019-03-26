@@ -3,8 +3,8 @@
   <BOOK>
     <TITLE>The Complete Manual of Woodworking</TITLE>
     <AUTHOR>Albert Jackson</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
-    <PRICE>nana</PRICE>
+    <Publisher>na</Publisher>
+    <PRICE>na</PRICE>
     <YEAR>na1997</YEAR>
     <ISBN>na9780679766117</ISBN10>
     <ASIN>na0679766111</ASIN>
@@ -13,7 +13,7 @@
   <BOOK>
     <TITLE>Absolute OpenBSD Unix for the Practical Paranoid</TITLE>
     <AUTHOR>Michael W Lucas</AUTHOR>
-    <PUBLISHER>naStarch Press</PUBLISHER>
+    <Publisher>Starch Press</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>na1593274769</ISBN10>
@@ -23,7 +23,7 @@
   <BOOK>
     <TITLE>The C++ Programming Language 4th edition</TITLE>
     <AUTHOR>na</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>na0321958322</ISBN10>
@@ -33,7 +33,7 @@
   <BOOK>
     <TITLE>A Tour of C++</TITLE>
     <AUTHOR>na</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -43,7 +43,7 @@
   <BOOK>
     <TITLE>Down to Earth Gardening Wisdom</TITLE>
     <AUTHOR>Monty Don</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -53,7 +53,7 @@
   <BOOK>
     <TITLE>HTML and CSSDesign and Build Websites</TITLE>
     <AUTHOR>Jon Duckett</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>na1118008189</ISBN10>
@@ -63,7 +63,7 @@
   <BOOK>
     <TITLE>Financial Shenanigans</TITLE>
     <AUTHOR>Howard Schilit</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>na126011726X</ISBN10>
@@ -73,7 +73,7 @@
   <BOOK>
     <TITLE>The Well Tempered Garden</TITLE>
     <AUTHOR>Christopher Lloyd</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -83,7 +83,7 @@
   <BOOK>
     <TITLE>Adobe Photoshop Lightroom CC and Lightroom 6 Book</TITLE>
     <AUTHOR>Martin Evening</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -93,7 +93,7 @@
   <BOOK>
     <TITLE>Building Surveys</TITLE>
     <AUTHOR>Peter Glover</AUTHOR>
-    <PUBLISHER>naRoutledge</PUBLISHER>
+    <Publisher>Routledge</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -103,7 +103,7 @@
   <BOOK>
     <TITLE>The Essays of Warren Buffett</TITLE>
     <AUTHOR>Lawrence A Cunningham</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -113,7 +113,7 @@
   <BOOK>
     <TITLE>Gustav Stickleys Craftsman Homes and Bungalows</TITLE>
     <AUTHOR>Gustav Stickley</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -123,7 +123,7 @@
   <BOOK>
     <TITLE>The Life changing Magic of Tidying</TITLE>
     <AUTHOR>Marie Kondo</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -133,7 +133,7 @@
   <BOOK>
     <TITLE>The Invincible</TITLE>
     <AUTHOR>Stanislaw Lem</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -143,7 +143,7 @@
   <BOOK>
     <TITLE>The Origins and History of Consciousness</TITLE>
     <AUTHOR>Eric Neumann</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -153,7 +153,7 @@
   <BOOK>
     <TITLE>Design Patterns</TITLE>
     <AUTHOR>Gang of four</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -163,7 +163,7 @@
   <BOOK>
     <TITLE>Psychological Types</TITLE>
     <AUTHOR>Carl Jung</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -173,7 +173,7 @@
   <BOOK>
     <TITLE>Building Construction Handbook</TITLE>
     <AUTHOR>Roy Chudley</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -183,7 +183,7 @@
   <BOOK>
     <TITLE>Meditations</TITLE>
     <AUTHOR>Marcus Aurealius</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -193,7 +193,7 @@
   <BOOK>
     <TITLE>Warren Buffett and the interpretation of financial statements</TITLE>
     <AUTHOR>Mary Buffett</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -203,7 +203,7 @@
   <BOOK>
     <TITLE>Please Understand me 2</TITLE>
     <AUTHOR>David Keirsey</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -213,7 +213,7 @@
   <BOOK>
     <TITLE>Roadside Picnic</TITLE>
     <AUTHOR>Boris Strugatsky</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -223,7 +223,7 @@
   <BOOK>
     <TITLE>Security Analysis The Classic 1934 Edition</TITLE>
     <AUTHOR>Benjamin Graham and David Dodd</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -233,7 +233,7 @@
   <BOOK>
     <TITLE>The Great Crash 1929</TITLE>
     <AUTHOR>John Kenneth Galbraith</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -243,7 +243,7 @@
 <BOOK>
     <TITLE>Architectural Design with Sketchup: 3D Modeling, Extensions, Bim, Rendering, Making, and Scripting, Second Edition </TITLE>
     <AUTHOR>Alexander C. Schreyer </AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -253,7 +253,7 @@
 <BOOK>
     <TITLE>Norwegian Wood</TITLE>
     <AUTHOR>Lars Mytting</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
+    <Publisher>na</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -263,7 +263,7 @@
 <BOOK>
     <TITLE>Bonsai</TITLE>
     <AUTHOR></AUTHOR>
-    <PUBLISHER>naDK</PUBLISHER>
+    <Publisher>DK</Publisher>
     <PRICE>nana</PRICE>
     <YEAR>nana</YEAR>
     <ISBN>nana</ISBN10>
@@ -273,27 +273,27 @@
 <BOOK>
     <TITLE>Lawnmower Manual</TITLE>
     <AUTHOR>Brian Radam</AUTHOR>
-    <PUBLISHER>naHaynes Manuals</PUBLISHER>
-    <PRICE>nana</PRICE>
-    <YEAR>nana</YEAR>
-    <ISBN>nana</ISBN10>
-    <ASIN>nana</ASIN>
-    <AMZN>nana</AMZN>
+    <Publisher>Haynes Manuals</Publisher>
+    <PRICE>na</PRICE>
+    <YEAR>na</YEAR>
+    <ISBN>na</ISBN10>
+    <ASIN>na</ASIN>
+    <AMZN>na</AMZN>
   </BOOK>
 <BOOK>
     <TITLE>Feng Shui Your Life</TITLE>
     <AUTHOR>Jayme Barrett</AUTHOR>
-    <PUBLISHER>nana</PUBLISHER>
-    <PRICE>nana</PRICE>
-    <YEAR>nana</YEAR>
-    <ISBN>na1402797125</ISBN10>
-    <ASIN>nana</ASIN>
-    <AMZN>nana</AMZN>
+    <Publisher>na</Publisher>
+    <PRICE>na</PRICE>
+    <YEAR>na</YEAR>
+    <ISBN>1402797125</ISBN10>
+    <ASIN>na</ASIN>
+    <AMZN>na</AMZN>
   </BOOK>
   <BOOK>
       <TITLE>Studies in Zen</TITLE>
       <AUTHOR>Daisetz Teitaro Suzuki</AUTHOR>
-      <PUBLISHER>na</PUBLISHER>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -303,7 +303,7 @@
    <BOOK>
       <TITLE>Raja Yoga</TITLE>
       <AUTHOR>Swami Vivekananda</AUTHOR>
-      <PUBLISHER>na</PUBLISHER>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -313,7 +313,7 @@
    <BOOK>
       <TITLE>Hard to be a god</TITLE>
       <AUTHOR>Arkady and Boris Strugatsky</AUTHOR>
-      <PUBLISHER>na</PUBLISHER>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -323,7 +323,7 @@
    <BOOK>
       <TITLE>The Miracle of Mindfulness</TITLE>
       <AUTHOR>Thich Nhat Hanh</AUTHOR>
-      <PUBLISHER>na</PUBLISHER>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -333,7 +333,7 @@
    <BOOK>
       <TITLE>Mythology</TITLE>
       <AUTHOR>Edith Hamilton</AUTHOR>
-      <PUBLISHER>na</PUBLISHER>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -343,7 +343,7 @@
    <BOOK>
       <TITLE>The Man in the High Castle </TITLE>
       <AUTHOR>Philip K Dick</AUTHOR>
-      <PUBLISHER>na</PUBLISHER>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -353,7 +353,7 @@
    <BOOK>
       <TITLE>Do Androids Dream of Electric Sheep</TITLE>
       <AUTHOR>Philip K Dick</AUTHOR>
-      <PUBLISHER>na</PUBLISHER>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -363,7 +363,7 @@
    <BOOK>
       <TITLE>The Simulcra</TITLE>
       <AUTHOR>Philip K Dick</AUTHOR>
-      <PUBLISHER>na</PUBLISHER>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -373,7 +373,7 @@
    <BOOK>
       <TITLE>I am alive and you are dead a journey inside the mind of philip k dick</TITLE>
       <AUTHOR>Emmanuel Carrere</AUTHOR>
-      <PUBLISHER>na</PUBLISHER>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -383,7 +383,7 @@
    <BOOK>
       <TITLE>A Scanner Darkly</TITLE>
       <AUTHOR>Philip K Dick</AUTHOR>
-      <PUBLISHER>na</PUBLISHER>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -393,7 +393,7 @@
    <BOOK>
       <TITLE>The Bhagavad Gita</TITLE>
       <AUTHOR>Laurie L Patton</AUTHOR>
-      <PUBLISHER>na</PUBLISHER>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -403,7 +403,7 @@
    <BOOK>
       <TITLE>Field Guide to British Birds</TITLE>
       <AUTHOR>Robert Burton</AUTHOR>
-      <PUBLISHER>na</PUBLISHER>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -413,7 +413,7 @@
    <BOOK>
       <TITLE>Ramayana</TITLE>
       <AUTHOR>C Rajagopalachari</AUTHOR>
-      <PUBLISHER>na</PUBLISHER>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -423,7 +423,7 @@
    <BOOK>
       <TITLE>The Viking Gods</TITLE>
       <AUTHOR></AUTHOR>
-      <PUBLISHER>naGudrun</PUBLISHER>
+      <publisher>Gudrun</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -433,7 +433,7 @@
    <BOOK>
       <TITLE>The Prose Edda</TITLE>
       <AUTHOR>Snorri Sturluson</AUTHOR>
-      <PUBLISHER>na</PUBLISHER>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -441,3 +441,4 @@
       <AMZN>na</AMZN>
    </BOOK>
 </CATALOG>
+
