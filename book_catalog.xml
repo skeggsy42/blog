@@ -274,26 +274,26 @@
     <TITLE>Lawnmower Manual</TITLE>
     <AUTHOR>Brian Radam</AUTHOR>
     <Publisher>Haynes Manuals</Publisher>
-    <PRICE>nana</PRICE>
-    <YEAR>nana</YEAR>
-    <ISBN>nana</ISBN10>
-    <ASIN>nana</ASIN>
-    <AMZN>nana</AMZN>
+    <PRICE>na</PRICE>
+    <YEAR>na</YEAR>
+    <ISBN>na</ISBN10>
+    <ASIN>na</ASIN>
+    <AMZN>na</AMZN>
   </BOOK>
 <BOOK>
     <TITLE>Feng Shui Your Life</TITLE>
     <AUTHOR>Jayme Barrett</AUTHOR>
     <Publisher>na</Publisher>
-    <PRICE>nana</PRICE>
-    <YEAR>nana</YEAR>
-    <ISBN>na1402797125</ISBN10>
-    <ASIN>nana</ASIN>
-    <AMZN>nana</AMZN>
+    <PRICE>na</PRICE>
+    <YEAR>na</YEAR>
+    <ISBN>1402797125</ISBN10>
+    <ASIN>na</ASIN>
+    <AMZN>na</AMZN>
   </BOOK>
   <BOOK>
       <TITLE>Studies in Zen</TITLE>
       <AUTHOR>Daisetz Teitaro Suzuki</AUTHOR>
-      <publisher></publisher>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -303,7 +303,7 @@
    <BOOK>
       <TITLE>Raja Yoga</TITLE>
       <AUTHOR>Swami Vivekananda</AUTHOR>
-      <publisher></publisher>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -313,7 +313,7 @@
    <BOOK>
       <TITLE>Hard to be a god</TITLE>
       <AUTHOR>Arkady and Boris Strugatsky</AUTHOR>
-      <publisher></publisher>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -323,7 +323,7 @@
    <BOOK>
       <TITLE>The Miracle of Mindfulness</TITLE>
       <AUTHOR>Thich Nhat Hanh</AUTHOR>
-      <publisher></publisher>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -333,7 +333,7 @@
    <BOOK>
       <TITLE>Mythology</TITLE>
       <AUTHOR>Edith Hamilton</AUTHOR>
-      <publisher></publisher>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -343,7 +343,7 @@
    <BOOK>
       <TITLE>The Man in the High Castle </TITLE>
       <AUTHOR>Philip K Dick</AUTHOR>
-      <publisher></publisher>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -353,7 +353,7 @@
    <BOOK>
       <TITLE>Do Androids Dream of Electric Sheep</TITLE>
       <AUTHOR>Philip K Dick</AUTHOR>
-      <publisher></publisher>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -363,7 +363,7 @@
    <BOOK>
       <TITLE>The Simulcra</TITLE>
       <AUTHOR>Philip K Dick</AUTHOR>
-      <publisher></publisher>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -373,7 +373,7 @@
    <BOOK>
       <TITLE>I am alive and you are dead a journey inside the mind of philip k dick</TITLE>
       <AUTHOR>Emmanuel Carrere</AUTHOR>
-      <publisher></publisher>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -383,7 +383,7 @@
    <BOOK>
       <TITLE>A Scanner Darkly</TITLE>
       <AUTHOR>Philip K Dick</AUTHOR>
-      <publisher></publisher>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -393,7 +393,7 @@
    <BOOK>
       <TITLE>The Bhagavad Gita</TITLE>
       <AUTHOR>Laurie L Patton</AUTHOR>
-      <publisher></publisher>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -403,7 +403,7 @@
    <BOOK>
       <TITLE>Field Guide to British Birds</TITLE>
       <AUTHOR>Robert Burton</AUTHOR>
-      <publisher></publisher>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -413,7 +413,7 @@
    <BOOK>
       <TITLE>Ramayana</TITLE>
       <AUTHOR>C Rajagopalachari</AUTHOR>
-      <publisher></publisher>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
@@ -433,7 +433,7 @@
    <BOOK>
       <TITLE>The Prose Edda</TITLE>
       <AUTHOR>Snorri Sturluson</AUTHOR>
-      <publisher></publisher>
+      <publisher>na</publisher>
       <PRICE>na</PRICE>
       <YEAR>na</YEAR>
       <ISBN>na</ISBN10>
