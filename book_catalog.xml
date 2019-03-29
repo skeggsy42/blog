@@ -51,7 +51,7 @@
     <AMZN>nana</AMZN>
   </BOOK>
   <BOOK>
-    <TITLE>HTML and CSSDesign and Build Websites</TITLE>
+    <TITLE>HTML and CSS Design and Build Websites</TITLE>
     <AUTHOR>Jon Duckett</AUTHOR>
     <PUBLISHER>na</PUBLISHER>
     <PRICE>nana</PRICE>
@@ -439,5 +439,285 @@
       <ISBN10>na</ISBN10>
       <ASIN>na</ASIN>
       <AMZN>na</AMZN>
+   </BOOK>
+ <BOOK>
+      <TITLE>Stars and Planets</TITLE>
+      <AUTHOR>NA </AUTHOR>
+      <PUBLISHER>NA </PUBLISHER>
+      <PRICE>NA</PRICE>
+      <YEAR>NA</YEAR>
+      <ISBN10>NA</ISBN10>
+      <ASIN>NA</ASIN>
+      <AMZN>NA</AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>Wonderfoods</TITLE>
+      <AUTHOR>Natalie Savona</AUTHOR>
+      <PUBLISHER>NA </PUBLISHER>
+      <PRICE>NA</PRICE>
+      <YEAR>NA</YEAR>
+      <ISBN10>NA</ISBN10>
+      <ASIN>NA</ASIN>
+      <AMZN>NA</AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>The little book that beats the market</TITLE>
+      <AUTHOR>Joel Greenblatt</AUTHOR>
+      <PUBLISHER>NA </PUBLISHER>
+      <PRICE>NA</PRICE>
+      <YEAR>NA</YEAR>
+      <ISBN10>NA</ISBN10>
+      <ASIN>NA</ASIN>
+      <AMZN>NA</AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>2001 a space odyssey</TITLE>
+      <AUTHOR>Arthur C Clarke</AUTHOR>
+      <PUBLISHER>NA </PUBLISHER>
+      <PRICE>NA</PRICE>
+      <YEAR>NA</YEAR>
+      <ISBN10>NA</ISBN10>
+      <ASIN>NA</ASIN>
+      <AMZN>NA</AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>Reduce, reusem recycle</TITLE>
+      <AUTHOR>Nicky Scott</AUTHOR>
+      <PUBLISHER>NA</PUBLISHER>
+      <PRICE>NA</PRICE>
+      <YEAR>NA </YEAR>
+      <ISBN10>NA</ISBN10>
+      <ASIN>NA</ASIN>
+      <AMZN>NA</AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>100 Film Noirs</TITLE>
+      <AUTHOR>Jim Hillier and Alastair Phillips</AUTHOR>
+      <PUBLISHER>BFI Screen Guide</PUBLISHER>
+      <PRICE>NA</PRICE>
+      <YEAR>NA</YEAR>
+      <ISBN10>NA</ISBN10>
+      <ASIN>NA</ASIN>
+      <AMZN>NA</AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>100 Bollywood Films</TITLE>
+      <AUTHOR>Rachel Dwyer</AUTHOR>
+      <PUBLISHER>BFI Screen Guide</PUBLISHER>
+      <PRICE>NA</PRICE>
+      <YEAR>NA</YEAR>
+      <ISBN10>NA</ISBN10>
+      <ASIN>NA</ASIN>
+      <AMZN>NA</AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>Walking on the Breacon Beacons</TITLE>
+      <AUTHOR>Andrew Davies</AUTHOR>
+      <PUBLISHER>Cicerone</PUBLISHER>
+      <PRICE>NA</PRICE>
+      <YEAR>NA</YEAR>
+      <ISBN10>NA</ISBN10>
+      <ASIN>NA</ASIN>
+      <AMZN>NA</AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>Walking The Jurassic Coast</TITLE>
+      <AUTHOR>Ronald Turnbull</AUTHOR>
+      <PUBLISHER>Cicerone</PUBLISHER>
+      <PRICE>NA</PRICE>
+      <YEAR>NA</YEAR>
+      <ISBN10>NA</ISBN10>
+      <ASIN>NA</ASIN>
+      <AMZN>NA</AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>Oxford Russian Grammar and Verbs</TITLE>
+      <AUTHOR>NA </AUTHOR>
+      <PUBLISHER>NA </PUBLISHER>
+      <PRICE>NA</PRICE>
+      <YEAR>NA</YEAR>
+      <ISBN10>NA</ISBN10>
+      <ASIN>NA</ASIN>
+      <AMZN>NA</AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>Oxford concise Russian</TITLE>
+      <AUTHOR>NA </AUTHOR>
+      <PUBLISHER>NA </PUBLISHER>
+      <PRICE>NA</PRICE>
+      <YEAR>NA</YEAR>
+      <ISBN10>NA</ISBN10>
+      <ASIN>NA</ASIN>
+      <AMZN>NA</AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>International Wealth and power</TITLE>
+      <AUTHOR>NA </AUTHOR>
+      <PUBLISHER>NA </PUBLISHER>
+      <PRICE>NA</PRICE>
+      <YEAR>NA</YEAR>
+      <ISBN10>NA</ISBN10>
+      <ASIN>NA</ASIN>
+      <AMZN>NA</AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>Online Investing Hacks</TITLE>
+      <AUTHOR>NA </AUTHOR>
+      <PUBLISHER>oreilly</PUBLISHER>
+      <PRICE>NA</PRICE>
+      <YEAR>NA</YEAR>
+      <ISBN10>NA</ISBN10>
+      <ASIN>NA</ASIN>
+      <AMZN>NA</AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>Linux in a nutshell</TITLE>
+      <AUTHOR>NA </AUTHOR>
+      <PUBLISHER>oreilly</PUBLISHER>
+      <PRICE>NA</PRICE>
+      <YEAR>NA</YEAR>
+      <ISBN10>NA</ISBN10>
+      <ASIN>NA</ASIN>
+      <AMZN>NA</AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>Programming the Z80</TITLE>
+      <AUTHOR>NA </AUTHOR>
+      <PUBLISHER>sybex</PUBLISHER>
+      <PRICE>NA</PRICE>
+      <YEAR>NA</YEAR>
+      <ISBN10>NA</ISBN10>
+      <ASIN>NA</ASIN>
+      <AMZN>NA</AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>The Hatha Yoga Pridipika</TITLE>
+      <AUTHOR>NA </AUTHOR>
+      <PUBLISHER>NA </PUBLISHER>
+      <PRICE>NA </PRICE>
+      <YEAR>NA </YEAR>
+      <ISBN10>NA </ISBN10>
+      <ASIN>NA </ASIN>
+      <AMZN>NA </AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>The Daily Telegraph Tax Guide 2017</TITLE>
+      <AUTHOR>NA </AUTHOR>
+      <PUBLISHER>NA </PUBLISHER>
+      <PRICE>NA </PRICE>
+      <YEAR>NA </YEAR>
+      <ISBN10>NA </ISBN10>
+      <ASIN>NA </ASIN>
+      <AMZN>NA </AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>Yoga Immortality and freedom</TITLE>
+      <AUTHOR>Mercia Eliade</AUTHOR>
+      <PUBLISHER>NA </PUBLISHER>
+      <PRICE>NA </PRICE>
+      <YEAR>NA </YEAR>
+      <ISBN10>NA </ISBN10>
+      <ASIN>NA </ASIN>
+      <AMZN>NA </AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>Digital Logic Gates and Flip Flops</TITLE>
+      <AUTHOR>Ian R Sinclair</AUTHOR>
+      <PUBLISHER>NA </PUBLISHER>
+      <PRICE>NA </PRICE>
+      <YEAR>NA </YEAR>
+      <ISBN10>NA </ISBN10>
+      <ASIN>NA </ASIN>
+      <AMZN>NA </AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>An Introduction to Zen Buddhism</TITLE>
+      <AUTHOR>D T Suzuki</AUTHOR>
+      <PUBLISHER>NA </PUBLISHER>
+      <PRICE>NA </PRICE>
+      <YEAR>NA </YEAR>
+      <ISBN10>NA </ISBN10>
+      <ASIN>NA </ASIN>
+      <AMZN>NA </AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>Self Analysis</TITLE>
+      <AUTHOR>Karen Horney</AUTHOR>
+      <PUBLISHER>NA </PUBLISHER>
+      <PRICE>NA </PRICE>
+      <YEAR>NA </YEAR>
+      <ISBN10>NA </ISBN10>
+      <ASIN>NA </ASIN>
+      <AMZN>NA </AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>Dictionary of Symbols</TITLE>
+      <AUTHOR>J.E.Cirlot</AUTHOR>
+      <PUBLISHER>NA </PUBLISHER>
+      <PRICE>NA </PRICE>
+      <YEAR>NA </YEAR>
+      <ISBN10>NA </ISBN10>
+      <ASIN>NA </ASIN>
+      <AMZN>NA </AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>Wanderings in the himalayas</TITLE>
+      <AUTHOR>Sri Swami Tapovanam</AUTHOR>
+      <PUBLISHER>NA </PUBLISHER>
+      <PRICE>NA </PRICE>
+      <YEAR>NA </YEAR>
+      <ISBN10>NA </ISBN10>
+      <ASIN>NA </ASIN>
+      <AMZN>NA </AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>Pranayama Rahasya</TITLE>
+      <AUTHOR>Swami Ramdev</AUTHOR>
+      <PUBLISHER>NA </PUBLISHER>
+      <PRICE>NA </PRICE>
+      <YEAR>NA </YEAR>
+      <ISBN10>NA </ISBN10>
+      <ASIN>NA </ASIN>
+      <AMZN>NA </AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>Starting up</TITLE>
+      <AUTHOR>Gary Jones</AUTHOR>
+      <PUBLISHER>Pitman pub</PUBLISHER>
+      <PRICE>NA </PRICE>
+      <YEAR>NA </YEAR>
+      <ISBN10>NA </ISBN10>
+      <ASIN>NA </ASIN>
+      <AMZN>NA </AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>The Great Crash 1929</TITLE>
+      <AUTHOR>John Kenneth Galbraith</AUTHOR>
+      <PUBLISHER>NA </PUBLISHER>
+      <PRICE>NA </PRICE>
+      <YEAR>NA </YEAR>
+      <ISBN10>NA </ISBN10>
+      <ASIN>NA </ASIN>
+      <AMZN>NA </AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>The intelligent investor</TITLE>
+      <AUTHOR>Benjamin Graham</AUTHOR>
+      <PUBLISHER>Harper</PUBLISHER>
+      <PRICE>NA </PRICE>
+      <YEAR>NA </YEAR>
+      <ISBN10>NA </ISBN10>
+      <ASIN>NA </ASIN>
+      <AMZN>NA </AMZN>
+   </BOOK>
+   <BOOK>
+      <TITLE>25 Investment Classics</TITLE>
+      <AUTHOR>Leo Gough</AUTHOR>
+      <PUBLISHER>NA </PUBLISHER>
+      <PRICE>NA </PRICE>
+      <YEAR>NA </YEAR>
+      <ISBN10>NA </ISBN10>
+      <ASIN>NA </ASIN>
+      <AMZN>NA </AMZN>
    </BOOK>
 </CATALOG>
