@@ -764,12 +764,21 @@
        <TITLE>How to Become A Millionaire</TITLE>
        <AUTHOR>Jim Slater</AUTHOR>
        <PUBLISHER>Texere</PUBLISHER>
+       <PRICE>NA</PRICE>
+       <YEAR>NA</YEAR>
        <ISBN10>1-58799-029-6</ISBN10>
+       <ASIN>NA</ASIN>
+       <AMZN>NA</AMZN>     
      </BOOK> 
      <BOOK>
        <TITLE>Investment Valuation Second Edition</TITLE>
        <AUTHOR>Aswath Damodaran</AUTHOR>
        <PUBLISHER>Wiley</PUBLISHER>
+       <PRICE>NA</PRICE>
+       <YEAR>NA</YEAR>
+       <ISBN10>NA</ISBN10>
+       <ASIN>NA</ASIN>
+       <AMZN>NA</AMZN>
      </BOOK>
 
 </CATALOG>
