@@ -720,4 +720,56 @@
       <ASIN>NA </ASIN>
       <AMZN>NA </AMZN>
    </BOOK>
+   <BOOK>
+      <TITLE>The Theory of Investment Value</TITLE>
+      <AUTHOR>John Burr Williams</AUTHOR>
+      <PUBLISHER>Fraser Publishing</PUBLISHER>
+      <PRICE>nA</PRICE>
+      <YEAR></YEAR>
+      <ISBN10>978-0-87034-1267</ISBN10>
+      <ASIN>NA</ASIN>
+      <AMZN>NA</AMZN>
+    </BOOK>
+   <BOOK>
+      <TITLE>Buffett The Making of an American Capitalist</TITLE>
+     <AUTHOR>Roger Lowenstein</AUTHOR>
+     <PUBLISHER>Random House</PUBLISHER>
+     <PRICE>NA</PRICE>
+     <YEAR>NA</YEAR>
+     <ISBN10>978-0-8129-7927-5</ISBN10>
+     <ASIN>NA</ASIN>
+     <AMZN>NA</ASIN>
+    </BOOK>
+    <BOOK>
+      <TITLE>The Rules of Wealth</TITLE>
+      <AUTHOR>Richard Templar</AUTHOR>
+      <PUBLISHER>Pearson</PUBLISHER>
+      <PRICE>NA</PRICE>
+      <YEAR>NA</YEAR>
+      <ISBN10>978-0-273-71019-6</ISBN10>
+      <ASIN>NA</ASIN>
+      <AMZN>NA</AMZN>
+     </BOOK>
+    <BOOK>
+      <TITLE>The Interpretation of Financial Statements</TITLE>
+      <AUTHOR>Benjamin Graham</AUTHOR>
+      <PUBLISHER>Harper</PUBLISHER>
+      <PRICE>NA</PRICE>
+      <YEAR>NA</YEAR>
+      <ISBN10>978-0-88730-913-7</ISBN10>
+      <ASIN>NA</ASIN>
+      <AMZN>NA</AMZN>
+     </BOOK>
+     <BOOK>
+       <TITLE>How to Become A Millionaire</TITLE>
+       <AUTHOR>Jim Slater</AUTHOR>
+       <PUBLISHER>Texere</PUBLISHER>
+       <ISBN10>1-58799-029-6</ISBN10>
+     </BOOK> 
+     <BOOK>
+       <TITLE>Investment Valuation Second Edition</TITLE>
+       <AUTHOR>Aswath Damodaran</AUTHOR>
+       <PUBLISHER>Wiley</PUBLISHER>
+     </BOOK>
+
 </CATALOG>
