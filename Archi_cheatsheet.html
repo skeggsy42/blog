@@ -1,3 +1,4 @@
+Questions to ask SAAS providers:
 How are accounts and passwords created and issued (self registration /manually via an administrative login account) 
 Are administrative accounts forced to use 2FA?
 How does 2FA work (SMS Text/Google Authenticator)? 
@@ -11,3 +12,6 @@ What is the password complexity policy? What is the minimum length? What charact
 Does the system log off the session after a period of inactivity? 
 Where are user login credentials stored? Are passwords at rest salted with a value unique to that specific login and then stored using a cryptographicly strong and slow hash that cannot be reversed (not using deprecated hashing techniques such as MD5 and SHA1) ? 
 How does session management work? Are passwords stored in cookies? What is its stored in the cookie? Is the cookie encrypted? What hashing mechanism is used? 
+Is HSTS enabled? 
+Is the application protected by a WAF? 
+What version of TLS and ciphers are enabled? 
