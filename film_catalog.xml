@@ -1,11 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CATALOG>
   <FILM>
-    <TITLE>t</TITLE>
-    <MYRATING>1</MYRATING>
+    <TITLE>A Scanner Darkly</TITLE>
+    <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
-    <TITLE>t</TITLE>
-    <MYRATING>1</MYRATING>
+    <TITLE>Alien</TITLE>
+    <MYRATING></MYRATING>
   </FILM>
- </CATALOG>
+    <FILM>
+    <TITLE>Alien 3</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Alien Resurrection</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Aliens</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Asphalt Jungle</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Big hero 6</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Blade Runner</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Captain America Civil War</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Casablanca</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Chappie</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Ex_Machina</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Fast and Furious</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Harry Potter and the chamber of secrets</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  
+  <FILM>
+    <TITLE>Harry Potter and the deathly hallows</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Harry Potter and the goblet of fire</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Harry Potter and the halfblood prince</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Harry Potter and the order of the phoenix</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Harry Potter and the prisoner of azkaban</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Iceage</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Interstella</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Lost in translation</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Minority Report</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Mirror</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Niagara</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Nostalgia</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Star Wars Rogue One</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Solaris (1972)</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Stalker</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>The Jungle Book</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>The Karate Kid</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+    <FILM>
+    <TITLE>The Maltese Falcon</TITLE>
+    <MYRATING></MYRATING>
+   <FILM>
+    <TITLE>Total Recall</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+      
+    <FILM>
+    <TITLE>Toy Story 3</TITLE>
+    <MYRATING></MYRATING>
+  </FILM>
+  
+  
+  
+</CATALOG>
