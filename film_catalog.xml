@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CATALOG>
   <FILM>
-    <TITLE></MYRATING>
-    <MYRATING></MYRATING>
+    <TITLE>t</TITLE>
+    <MYRATING>1</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>t</TITLE>
+    <MYRATING>1</MYRATING>
   </FILM>
  </CATALOG>
