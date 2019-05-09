@@ -52,8 +52,12 @@
     <TITLE>Fast and Furious</TITLE>
     <MYRATING>8</MYRATING>
   </FILM>
-  <FILM>
-    <TITLE>Harry Potter and the chamber of secrets</TITLE>
+<FILM>
+    <TITLE>Guardians of the galaxy</TITLE>
+    <MYRATING>8</MYRATING>
+  </FILM>
+ <FILM>
+  <TITLE>Harry Potter and the chamber of secrets</TITLE>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
