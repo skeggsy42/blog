@@ -27,7 +27,14 @@ pre {
   <h1>Cheatsheet</h1> 
 </div>
 <div class="w3-row-padding">
- 
+ <div class="w3-third">
+  <p>NMap Scripts</p>
+  <pre>nmapgeo.bat <ip addr></br>
+   nmap.exe" --script ip-geolocation-ipinfodb %1 --script-args ip-geolocation-ipinfodb.apikey=***</br>
+  nmap.exe --script whois-ip %1</pre></br>
+  Obtain an API key from https://ipinfodb.com/register then use this script to lookup whois and geo location of IP address.
+  </div>
+  
  <div class="w3-third">  
  <p>  
   GPG2</br>
