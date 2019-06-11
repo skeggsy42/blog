@@ -26,8 +26,8 @@ pre {
 <div class="w3-container w3-green">
   <h1>Cheatsheet</h1> 
 </div>
-
- <div class="w3-third">
+<div class="w3-row-padding">
+ <div class="w3-half">
   <p>Shodan CLI</p>  
   <pre>sudo pip install shodan</pre>
   <pre>shodan init <APIKEY></pre>
@@ -44,7 +44,7 @@ pre {
   <pre>shodan stats --facets vuln net:85.133.66.201/32</pre>
 </div>  
   
- <div class="w3-third">
+ <div class="w3-half">
   <p>NMap Scripts</p>
   Obtain an API key from https://ipinfodb.com/register then use this script to lookup whois and geo location of IP address.
   <pre>nmapgeo.bat ip_addr
@@ -53,7 +53,7 @@ pre {
   
   </div>
   
- <div class="w3-third">  
+ <div class="w3-half">  
  <p>  
   GPG2</br>
   Handbook</br>
@@ -72,7 +72,7 @@ export public key in ASCII-armored format for sharing by email</br>
  </p>
  </div>
  
-<div class="w3-third">
+<div class="w3-half">
  <p>
   Linux C++ development using Windows Linux Subsystem</br>
  <pre>sudo apt install -y build-essential gdbserver gdb</pre>
@@ -82,13 +82,13 @@ Compile C++ at Linux command prompt</br>
 </p>
 </div>
 
- <div class="w3-third">  
+ <div class="w3-half">  
  <p>      
   <pre>snort -i3 -vde -c c:\snort\etc\snort.conf -l c:\snort.log</pre>
  </p>
  </div>
  
-<div class="w3-third"> 
+<div class="w3-half">
  <p>Mirror Websites</p>
  <p><pre>wget -mirror -convert-content -N https://www.skeggs.net</pre></p>
   <p><pre>-N</pre> command for timestamping, also use <pre>--adjust-extension</pre> to change .asp pages to .html.</p>
@@ -105,7 +105,7 @@ Compile C++ at Linux command prompt</br>
     --no-parent – When recursing do not ascend to the parent directory. It useful for restricting the download to only a portion of the site.
 </p>
   </div>  
- <div class="w3-third">  
+ <div class="w3-half"> 
     <p>
   Use netstat to check listening ports on Windows: <pre>netstat -ab | FIND "LISTEN"</pre>
   </p>
@@ -113,7 +113,7 @@ Compile C++ at Linux command prompt</br>
  <p>Reverse DNS lookup<pre>dig -x 212.58.244.26</pre></p>
  </div>   
 
-<div class="w3-third"> 
+<div class="w3-half"> 
  <p>Netcat Hacking</p>
  <p>Listen for inbound connections: <pre>nc -l -p <port></pre></p>
 <p>Connect to another machine: <pre>nc options host <ip> <port></pre><p>
@@ -129,7 +129,7 @@ On destination system <pre>nc -l -p 6996 > finances.xls</pre></p>
 <pre>nc -nv -w1 <ip> <port range></pre></p>
 </div>
 
-<div class="w3-third">  
+<div class="w3-half">  
     <p>
 Useful SQL Scripts
 12th April 2018 ~ skrggsy06	~ Edit "Useful SQL Scripts"	
@@ -151,4 +151,5 @@ CREATE LOGIN [SolarWindsNPM] WITH PASSWORD=********, DEFAULT_DATABASE=[NetPerfMo
 USE [NetPerfMon]
 ALTER USER [SolarWindsNPM] WITH LOGIN = SolarWindsNPM
  </p></div>  
+</div>
      </body>
