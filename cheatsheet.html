@@ -28,6 +28,24 @@ pre {
 </div>
 <div class="w3-row-padding">
  <div class="w3-third">
+  <p>Shodan CLI</p>  
+  sudo pip install shodan
+  shodan init <APIKEY>
+  shodan host <IP>
+  shodan myip
+  shodan host --history <IP>
+  #show count of open ports:
+  shodan count net:109.231.238.185/32
+  #show ports open:
+  shodan stats --facet port net:109.231.238.185/32
+  #download data:
+  shodan download --limit -1 mynetwork net:109.231.238.185/32
+  #show vulns:
+  shodan stats --facets vuln net:85.133.66.201/32
+</div>  
+  
+<div class="w3-row-padding">
+ <div class="w3-third">
   <p>NMap Scripts</p>
   Obtain an API key from https://ipinfodb.com/register then use this script to lookup whois and geo location of IP address.
   <pre>nmapgeo.bat ip_addr
