@@ -51,6 +51,15 @@ pre {
    nmap.exe" --script ip-geolocation-ipinfodb %1 --script-args ip-geolocation-ipinfodb.apikey=***</br>
   nmap.exe --script whois-ip %1</pre>
   
+  <p>Nmap scripts documentation: https://nmap.org/nsedoc
+  nmap -p 445 --script smb-os-discovery 192.168.1.1
+  nmap -sV -p 445 --script smb-brute 192.168.1.1
+  nmap --script http-form-brute
+  nmap --script http-default-accounts
+  nmap --script ssl-cert ssl-heartbleed ssl-poodle sslv2 sslv2-drown ssl-enum-ciphers
+  nmap --script nmap-vulners,vulscan --script-args vulscandb=scipvuldb.csv -sV -p22 <IP ADDR>
+  nmap --script ssl-cert-intadd #search for private ip address in TLS cert
+  </p>
   </div>
   
  <div class="w3-half">  
