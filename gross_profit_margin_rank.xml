@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<LIST>
+<CATALOG>
   <STOCK>
     <NAME>Amazon</NAME>
     <GROSSPROFITMARGIN>na</GROSSPROFITMARGIN>
@@ -45,4 +45,4 @@
     <GROSSPROFITMARGIN>na</GROSSPROFITMARGIN>
     <YEAR>2019</YEAR>
   </STOCK>
-</LIST>
+</CATALOG>
