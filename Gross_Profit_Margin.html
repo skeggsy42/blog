@@ -28,7 +28,7 @@ function loadXMLDoc() {
 function myFunction(xml) {
   var i;
   var xmlDoc = xml.responseXML;
-  var table="<tr><th>Title</th><th>My Rating</th></tr>";
+  var table="<tr><th>Name</th><th>Year</th><th>Gross Profit Margin</th></tr>";
   var x = xmlDoc.getElementsByTagName("STOCK");
   for (i = 0; i <x.length; i++) { 
     table += "<tr><td>" +
