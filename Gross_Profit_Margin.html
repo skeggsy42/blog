@@ -11,9 +11,16 @@ th,td {
 </style>
 <body>
   <p>Table of companies of interest ranked by gross profit margin.</p>
+  <p>Gross profit = revenue minus cost of goods sold (or cost of revenue in the case of service companies).</p>
+  <p>Gross Profit Margin = Gross Profit / revenue</p>
   <p>Above 40% indicates a durable competitive margin. Below 20% indicates a fiercely competitive industry.</p>
   <p>Track gross profit margin over last ten years.</p>
-  <p>High R&D, High SGA and high interest costs on debt can destroy gross profit margin.</p>
+  <p>Check what is included in cost of goods sole/cost of revenue</p>
+  <p>High R&D,  High Selling and administrative costs and high interest costs on debt can destroy the long term economics of businesses with
+    a high gross profit margin.</p>
+  <br>
+  <p>Operating profit = gross profit minus operating expenses (SGA, Advertising, R&D, Interest Expense, Depreciation</p>
+  <p>Understand the component parts of operating expenditure eg Depreciation as % of gross profit is 6% for Coca Cola</p>
   
 <br><br>
 <table id="demo"></table>.
@@ -32,7 +39,7 @@ function loadXMLDoc() {
 function myFunction(xml) {
   var i;
   var xmlDoc = xml.responseXML;
-  var table="<tr><th>Name</th><th>Year</th><th>Gross Profit Margin</th></tr>";
+  var table="<tr><th>Name</th><th>Year</th><th>Gross Profit Margin</th><th>Operating Profit Margin</th></tr>";
   var x = xmlDoc.getElementsByTagName("STOCK");
   for (i = 0; i <x.length; i++) { 
     table += "<tr><td>" +
@@ -41,6 +48,8 @@ function myFunction(xml) {
     x[i].getElementsByTagName("YEAR")[0].childNodes[0].nodeValue +
     "</td><td>" +
     x[i].getElementsByTagName("GROSSPROFITMARGIN")[0].childNodes[0].nodeValue +
+    "</td><td>" +  
+    x[i].getElementsByTagName("OPERATINGPROFITMARGIN")[0].childNodes[0].nodeValue +
     "</td></tr>";
   }
   document.getElementById("demo").innerHTML = table;
