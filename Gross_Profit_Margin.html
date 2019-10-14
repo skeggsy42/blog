@@ -23,23 +23,30 @@ th,td {
   <p>Understand the component parts of operating expenditure eg Depreciation as % of gross profit is 6% for Coca Cola</p>
   <p>Operating Profit Margin = Operating Profit / Revenue</p>
   <form>
-      <select>
+      <select id="year_selection">
         <option value="2017">2017</option>
         <option value="2018">2018</option>
         <option value="2019">2019</option>
       </select>
     </form>
+    <br>
+   <input type="button" onclick="getOption()" value="Select Year">
 <br><br>
 <table id="demo"></table>.
 
 <script>
-function loadXMLDoc() {
+function getOption() {
+  var obj = document.getElementById("year_selection");
+  year = obj.optins[obj.selectedIndex].text;
+  loadXMLDoc(year); 
+}
+  
+function loadXMLDoc(year) {
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
-      myFunction(this,'2019');
-      myFunction(this,'2018');
-      //myFunction(this,'2017');
+      //myFunction(this,'2019');
+      myFunction(this,year);
     }
   };
   xmlhttp.open("GET", "gross_profit_margin_rank.xml", true);
@@ -69,7 +76,7 @@ function myFunction(xml,year) {
   document.getElementById("demo").innerHTML = table;
 }
   
- loadXMLDoc() 
+ loadXMLDoc(2019) 
 </script>
 
 </body>
