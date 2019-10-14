@@ -56,6 +56,16 @@ function myFunction(xml,year) {
   var xmlDoc = xml.responseXML;
   var table="<tr><th>Name</th><th>Total Assets</th><th>Year</th><th>Gross Profit Margin</th><th>Operating Profit Margin</th><th>Net Profit Margin</th></tr>";
   var x = xmlDoc.getElementsByTagName("STOCK");
+  //convert to array
+  var stockArray = Array.prototype.slice.call(x,0);
+  stockArray.sort(function(a,b){
+     var aCat = a.getElementsbyTagName("NAME")[0].childNodes[0].nodeValue;
+     var bCat = b.getElementsbyTagName("TotalAssets")[0].childNodes[0].nodeValue;
+     if (aCat > bCat) return 1;
+     if (aCat < bCat) return -1;
+     return 0;
+  });
+    
   for (i = 0; i <x.length; i++) { 
     if (x[i].getElementsByTagName("YEAR")[0].childNodes[0].nodeValue == year) {
        table += "<tr><td>" +
