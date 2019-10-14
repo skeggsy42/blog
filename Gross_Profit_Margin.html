@@ -43,7 +43,7 @@ function myFunction(xml) {
   var table="<tr><th>Name</th><th>Year</th><th>Gross Profit Margin</th><th>Operating Profit Margin</th><th>Net Profit Margin</th></tr>";
   var x = xmlDoc.getElementsByTagName("STOCK");
   for (i = 0; i <x.length; i++) { 
-    if x[i].getElementsByTagName("YEAR")[0].childNodes[0].nodeValue == 2018 {
+    if (x[i].getElementsByTagName("YEAR")[0].childNodes[0].nodeValue == '2018') {
        table += "<tr><td>" +
         x[i].getElementsByTagName("NAME")[0].childNodes[0].nodeValue +
         "</td><td>" +
