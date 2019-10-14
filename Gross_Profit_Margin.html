@@ -31,19 +31,22 @@ function loadXMLDoc() {
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
-      myFunction(this);
+      myFunction(this,'2019');
+      myFunction(this,'2018');
+      myFunction(this,'2017');
     }
   };
   xmlhttp.open("GET", "gross_profit_margin_rank.xml", true);
   xmlhttp.send();
 }
-function myFunction(xml) {
+function myFunction(xml,year) {
   var i;
   var xmlDoc = xml.responseXML;
   var table="<tr><th>Name</th><th>Year</th><th>Gross Profit Margin</th><th>Operating Profit Margin</th><th>Net Profit Margin</th></tr>";
   var x = xmlDoc.getElementsByTagName("STOCK");
   for (i = 0; i <x.length; i++) { 
-    if (x[i].getElementsByTagName("YEAR")[0].childNodes[0].nodeValue == '2018') {
+    //if (x[i].getElementsByTagName("YEAR")[0].childNodes[0].nodeValue == '2018') {
+    if (x[i].getElementsByTagName("YEAR")[0].childNodes[0].nodeValue == year) {
        table += "<tr><td>" +
         x[i].getElementsByTagName("NAME")[0].childNodes[0].nodeValue +
         "</td><td>" +
