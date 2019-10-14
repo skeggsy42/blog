@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="gross_profit_margin_rank.xsl"?>
 <CATALOG>
   <STOCK>
+    <NAME>Walmart</NAME>
+    <TotalAssets>219.30bn</TotalAssets>
+    <GROSSPROFITMARGIN>25.30%</GROSSPROFITMARGIN>
+    <OPERATINGPROFITMARGIN>4.30%</OPERATINGPROFITMARGIN>
+    <NETPROFITMARGIN>1.31%</NETPROFITMARGIN>
+    <YEAR>2019</YEAR>
+  </STOCK>
+  <STOCK>
     <NAME>Alphabet</NAME>
     <TotalAssets>232.79</TotalAssets>
     <GROSSPROFITMARGIN>59%</GROSSPROFITMARGIN>
@@ -169,14 +177,7 @@
     <NETPROFITMARGIN>2.10%</NETPROFITMARGIN>
     <YEAR>2018</YEAR>
   </STOCK>
-  <STOCK>
-    <NAME>Walmart</NAME>
-    <TotalAssets>219.30bn</TotalAssets>
-    <GROSSPROFITMARGIN>25.30%</GROSSPROFITMARGIN>
-    <OPERATINGPROFITMARGIN>4.30%</OPERATINGPROFITMARGIN>
-    <NETPROFITMARGIN>1.31%</NETPROFITMARGIN>
-    <YEAR>2019</YEAR>
-  </STOCK>
+  
   <STOCK>
     <NAME>Trex</NAME>
     <TotalAssets>na</TotalAssets>
