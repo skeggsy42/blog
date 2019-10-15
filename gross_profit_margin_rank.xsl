@@ -27,7 +27,18 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <td><xsl:value-of select="YEAR"/></td>
     </tr>
      </xsl:for-each> 
-      
+    </table>  
+
+    
+    <table border="1">
+    <tr bgcolor="#9acd32">
+      <th>NAME</th>
+      <th>TOTAL ASSETS</th>
+      <th>GROSSPROFITMARGIN</th>
+      <th>OPERATINGPROFITMARGIN</th>
+      <th>NETPROFITMARGIN</th>
+      <th>YEAR</th>
+    </tr>
     <xsl:for-each select="CATALOG/STOCK">
     <xsl:sort select="GROSSPROFITMARGIN"/>
       <xls:if test="YEAR &gt; 2019">
@@ -39,7 +50,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <td><xsl:value-of select="NETPROFITMARGIN"/></td>
         <td><xsl:value-of select="YEAR"/></td>
       </tr>  
-        </xsl:if>
+      </xsl:if>
     </xsl:for-each>
   </table>
   </body>
