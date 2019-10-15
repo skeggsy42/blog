@@ -18,14 +18,16 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     </tr>
     <xsl:for-each select="CATALOG/STOCK">
     <xsl:sort select="GROSSPROFITMARGIN"/>
-    <tr>
-      <td><xsl:value-of select="NAME"/></td>
-      <td><xsl:value-of select="TotalAssets"/></td>
-      <td><xsl:value-of select="GROSSPROFITMARGIN"/></td>
-      <td><xsl:value-of select="OPERATINGPROFITMARGIN"/></td>
-      <td><xsl:value-of select="NETPROFITMARGIN"/></td>
-      <td><xsl:value-of select="YEAR"/></td>
-    </tr>
+      <xls:if test="YEAR==2019">
+      <tr>
+        <td><xsl:value-of select="NAME"/></td>
+        <td><xsl:value-of select="TotalAssets"/></td>
+        <td><xsl:value-of select="GROSSPROFITMARGIN"/></td>
+        <td><xsl:value-of select="OPERATINGPROFITMARGIN"/></td>
+        <td><xsl:value-of select="NETPROFITMARGIN"/></td>
+        <td><xsl:value-of select="YEAR"/></td>
+      </tr>
+      </xls:if>
      </xsl:for-each> 
     </table>  
 
