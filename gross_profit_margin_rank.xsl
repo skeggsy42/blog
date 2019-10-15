@@ -17,6 +17,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <th>YEAR</th>
     </tr>
     <xsl:for-each select="CATALOG/STOCK">
+    <xsl:sort select="NAME"/>
     <tr>
       <td><xsl:value-of select="NAME"/></td>
       <td><xsl:value-of select="TotalAssets"/></td>
