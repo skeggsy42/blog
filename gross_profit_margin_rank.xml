@@ -237,10 +237,10 @@
   </STOCK>
   <STOCK>
     <NAME>Microsoft</NAME>
-    <IntrinsicValue>0</IntrinsicValue>
-    <TangibleAssets>0</TangibleAssets>
-    <ROA>0</ROA>
-    <ROE>0</ROE>
+    <IntrinsicValue>$130</IntrinsicValue>
+    <TangibleAssets>236.78bn</TangibleAssets>
+    <ROA>13.83%</ROA>
+    <ROE>47.91%</ROE>
     <DebttoEquity>1.8</DebttoEquity>
     <TotalAssets>286.56bn</TotalAssets>
     <GROSSPROFITMARGIN>66%</GROSSPROFITMARGIN>
@@ -250,9 +250,9 @@
   </STOCK>
   <STOCK>
     <NAME>PG</NAME>
-    <IntrinsicValue>0</IntrinsicValue>
-    <TangibleAssets>0</TangibleAssets>
-    <ROA>0</ROA>
+    <IntrinsicValue>$85</IntrinsicValue>
+    <TangibleAssets>50.61bn</TangibleAssets>
+    <ROA>3.45%</ROA>
     <ROE>0</ROE>
     <DebttoEquity>1.42(0.46)</DebttoEquity>
     <TotalAssets>115.10bn</TotalAssets>
@@ -264,8 +264,8 @@
   <STOCK>
     <NAME>PG</NAME>
     <IntrinsicValue>0</IntrinsicValue>
-    <TangibleAssets>0</TangibleAssets>
-    <ROA>0</ROA>
+    <TangibleAssets>49.23bn</TangibleAssets>
+    <ROA>8.33%</ROA>
     <ROE>0</ROE>
     <DebttoEquity>0</DebttoEquity>
     <TotalAssets>118.31</TotalAssets>
@@ -276,9 +276,9 @@
   </STOCK>
   <STOCK>
     <NAME>Scottish Southern Electric</NAME>
-    <IntrinsicValue>0</IntrinsicValue>
-    <TangibleAssets>0</TangibleAssets>
-    <ROA>0</ROA>
+    <IntrinsicValue>£9.70</IntrinsicValue>
+    <TangibleAssets>23.55bn</TangibleAssets>
+    <ROA>5.56%</ROA>
     <ROE>0</ROE>
     <DebttoEquity>0</DebttoEquity>
     <TotalAssets>25.34bn</TotalAssets>
