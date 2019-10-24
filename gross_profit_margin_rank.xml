@@ -316,7 +316,7 @@
   </STOCK>
   <STOCK>
     <NAME>Walmart</NAME>
-    <IntrinsicValue>0</IntrinsicValue>
+    <IntrinsicValue>$80</IntrinsicValue>
     <TangibleAssets>188.11bn</TangibleAssets>
     <ROA>3.04%</ROA>
     <ROE>9.22%</ROE>
