@@ -42,7 +42,7 @@
   </STOCK>
   <STOCK>
     <NAME>Apple</NAME>
-    <IntrinsicValue>$208</IntrinsicValue>
+    <IntrinsicValue>$220</IntrinsicValue>
     <TangibleAssets>$306bn</TangibleAssets>
     <ROA>16.32%</ROA>
     <ROE>0</ROE>
@@ -51,7 +51,7 @@
     <GROSSPROFITMARGIN>37.82%</GROSSPROFITMARGIN>
     <OPERATINGPROFITMARGIN>24.57%</OPERATINGPROFITMARGIN>
     <NETPROFITMARGIN>21.24%</NETPROFITMARGIN>
-    <YEAR>2018</YEAR>
+    <YEAR>2019</YEAR>
   </STOCK>
   <STOCK>
     <NAME>Berkshire Hathaway</NAME>
