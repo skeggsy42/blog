@@ -3,17 +3,31 @@
 <CATALOG>
   <STOCK>
     <NAME>Alphabet</NAME>
-    <MarketValueYE>0</MarketValueYE>
+    <MarketValueYE>791bn</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
-    <TangibleAssets>0</TangibleAssets>
-    <ROA>0</ROA>
+    <TangibleAssets>178bn</TangibleAssets>
+    <ROA>11.89%</ROA>
     <ROE>0</ROE>
-    <DebttoEquity>0.31</DebttoEquity>
-    <TotalAssets>232.79</TotalAssets>
+    <DebttoEquity>0.29</DebttoEquity>
+    <TotalAssets>197.30bn</TotalAssets>
     <GROSSPROFITMARGIN>59%</GROSSPROFITMARGIN>
     <OPERATINGPROFITMARGIN>23.56%</OPERATINGPROFITMARGIN>
     <NETPROFITMARGIN>11.42%</NETPROFITMARGIN>
     <YEAR>2017</YEAR>
+  </STOCK>
+  <STOCK>
+    <NAME>Alphabet</NAME>
+    <MarketValueYE>777bn</MarketValueYE>
+    <IntrinsicValue>0</IntrinsicValue>
+    <TangibleAssets>213bn</TangibleAssets>
+    <ROA>10.96%</ROA>
+    <ROE>0</ROE>
+    <DebttoEquity>0.31</DebttoEquity>
+    <TotalAssets>232.79bn</TotalAssets>
+    <GROSSPROFITMARGIN>56.5%</GROSSPROFITMARGIN>
+    <OPERATINGPROFITMARGIN>19.24%</OPERATINGPROFITMARGIN>
+    <NETPROFITMARGIN>22.45%</NETPROFITMARGIN>
+    <YEAR>2018</YEAR>
   </STOCK>
   <STOCK>
     <NAME>Amazon</NAME>
@@ -302,7 +316,7 @@
     <TangibleAssets>49.23bn</TangibleAssets>
     <ROA>8.33%</ROA>
     <ROE>0</ROE>
-    <DebttoEquity>0</DebttoEquity>
+    <DebttoEquity>1.24</DebttoEquity>
     <TotalAssets>118.31</TotalAssets>
     <GROSSPROFITMARGIN>49%</GROSSPROFITMARGIN>
     <OPERATINGPROFITMARGIN>20.52%</OPERATINGPROFITMARGIN>
@@ -316,7 +330,7 @@
     <TangibleAssets>23.55bn</TangibleAssets>
     <ROA>5.56%</ROA>
     <ROE>0</ROE>
-    <DebttoEquity>0</DebttoEquity>
+    <DebttoEquity>3.34</DebttoEquity>
     <TotalAssets>25.34bn</TotalAssets>
     <GROSSPROFITMARGIN>21%</GROSSPROFITMARGIN>
     <OPERATINGPROFITMARGIN>23.08%</OPERATINGPROFITMARGIN>
