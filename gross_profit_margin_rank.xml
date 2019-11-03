@@ -3,12 +3,13 @@
 <CATALOG>
   <STOCK>
     <NAME>Alphabet</NAME>
-    <TotalAssets>232.79</TotalAssets>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
     <ROA>0</ROA>
     <ROE>0</ROE>
     <DebttoEquity>0.31</DebttoEquity>
+    <TotalAssets>232.79</TotalAssets>
     <GROSSPROFITMARGIN>59%</GROSSPROFITMARGIN>
     <OPERATINGPROFITMARGIN>23.56%</OPERATINGPROFITMARGIN>
     <NETPROFITMARGIN>11.42%</NETPROFITMARGIN>
@@ -16,6 +17,7 @@
   </STOCK>
   <STOCK>
     <NAME>Amazon</NAME>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
     <ROA>0</ROA>
@@ -29,6 +31,7 @@
   </STOCK>
   <STOCK>
     <NAME>Apple</NAME>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
     <ROA>0</ROA>
@@ -42,6 +45,7 @@
   </STOCK>
   <STOCK>
     <NAME>Apple</NAME>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>$220</IntrinsicValue>
     <TangibleAssets>$306bn</TangibleAssets>
     <ROA>16.32%</ROA>
@@ -55,6 +59,7 @@
   </STOCK>
   <STOCK>
     <NAME>Berkshire Hathaway</NAME>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
     <ROA>0</ROA>
@@ -68,6 +73,7 @@
   </STOCK>
   <STOCK>
     <NAME>British American Tobacco</NAME>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
     <ROA>0</ROA>
@@ -81,6 +87,7 @@
   </STOCK>
   <STOCK>
     <NAME>Brooks Macdonald</NAME>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
     <ROA>0</ROA>
@@ -94,6 +101,7 @@
   </STOCK>
   <STOCK>
     <NAME>Brooks Macdonald</NAME>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>25</IntrinsicValue>
     <TangibleAssets>67m</TangibleAssets>
     <ROA>24</ROA>
@@ -107,6 +115,7 @@
   </STOCK>
   <STOCK>
     <NAME>Coca Cola</NAME>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>106.5bn</TangibleAssets>
     <ROA>5.44%</ROA>
@@ -120,6 +129,7 @@
   </STOCK>
    <STOCK>
     <NAME>Diageo</NAME>
+     <MarketValueYE>0</MarketValueYE>
      <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
     <ROA>0</ROA>
@@ -133,6 +143,7 @@
   </STOCK>
    <STOCK>
     <NAME>Disney</NAME>
+     <MarketValueYE>0</MarketValueYE>
      <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
     <ROA>0</ROA>
@@ -146,6 +157,7 @@
   </STOCK>
   <STOCK>
     <NAME>Ebay</NAME>
+    <MarketValueYE>0</MarketValueYE>
      <IntrinsicValue>32.00</IntrinsicValue>
     <TangibleAssets>17.57</TangibleAssets>
     <ROA>11.09</ROA>
@@ -159,6 +171,7 @@
   </STOCK>
   <STOCK>
     <NAME>Facebook</NAME>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
     <ROA>0</ROA>
@@ -172,6 +185,7 @@
   </STOCK>
   <STOCK>
     <NAME>FeverTree</NAME>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
     <ROA>0</ROA>
@@ -185,6 +199,7 @@
   </STOCK>
   <STOCK>
     <NAME>GlaxoSmithkline</NAME>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
     <ROA>0</ROA>
@@ -198,6 +213,7 @@
   </STOCK>
   <STOCK>
     <NAME>IBM</NAME>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
     <ROA>0</ROA>
@@ -211,6 +227,7 @@
   </STOCK>
    <STOCK>
     <NAME>Intuitive Surgical</NAME>
+     <MarketValueYE>0</MarketValueYE>
      <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
     <ROA>0</ROA>
@@ -224,6 +241,7 @@
   </STOCK>
   <STOCK>
     <NAME>JNJ</NAME>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
     <ROA>0</ROA>
@@ -237,6 +255,7 @@
   </STOCK>
   <STOCK>
     <NAME>Medtronic</NAME>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
     <ROA>0</ROA>
@@ -250,6 +269,7 @@
   </STOCK>
   <STOCK>
     <NAME>Microsoft</NAME>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>$130</IntrinsicValue>
     <TangibleAssets>236.78bn</TangibleAssets>
     <ROA>13.83%</ROA>
@@ -263,6 +283,7 @@
   </STOCK>
   <STOCK>
     <NAME>PG</NAME>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>$85</IntrinsicValue>
     <TangibleAssets>50.61bn</TangibleAssets>
     <ROA>3.45%</ROA>
@@ -276,6 +297,7 @@
   </STOCK>
   <STOCK>
     <NAME>PG</NAME>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>49.23bn</TangibleAssets>
     <ROA>8.33%</ROA>
@@ -289,6 +311,7 @@
   </STOCK>
   <STOCK>
     <NAME>Scottish Southern Electric</NAME>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>£9.70</IntrinsicValue>
     <TangibleAssets>23.55bn</TangibleAssets>
     <ROA>5.56%</ROA>
@@ -301,21 +324,8 @@
     <YEAR>2019</YEAR>
   </STOCK>
   <STOCK>
-    <NAME>Tesco</NAME>
-    <IntrinsicValue>0</IntrinsicValue>
-    <TangibleAssets>0</TangibleAssets>
-    <ROA>0</ROA>
-    <ROE>0</ROE>
-    <DebttoEquity>0</DebttoEquity>
-    <TotalAssets>na</TotalAssets>
-    <GROSSPROFITMARGIN>5.83%</GROSSPROFITMARGIN>
-    <OPERATINGPROFITMARGIN>3.20%</OPERATINGPROFITMARGIN>
-    <NETPROFITMARGIN>2.10%</NETPROFITMARGIN>
-    <YEAR>2018</YEAR>
-  </STOCK>
-  
-  <STOCK>
     <NAME>Trex</NAME>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
     <ROA>0</ROA>
@@ -329,6 +339,7 @@
   </STOCK>
   <STOCK>
     <NAME>Walmart</NAME>
+    <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>$80</IntrinsicValue>
     <TangibleAssets>188.11bn</TangibleAssets>
     <ROA>3.04%</ROA>
