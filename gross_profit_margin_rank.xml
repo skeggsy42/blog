@@ -31,7 +31,7 @@
   </STOCK>
   <STOCK>
     <NAME>Apple</NAME>
-    <MarketValueYE>0</MarketValueYE>
+    <MarketValueYE>1115bn</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
     <ROA>0</ROA>
@@ -45,7 +45,7 @@
   </STOCK>
   <STOCK>
     <NAME>Apple</NAME>
-    <MarketValueYE>0</MarketValueYE>
+    <MarketValueYE>1034bn</MarketValueYE>
     <IntrinsicValue>$220</IntrinsicValue>
     <TangibleAssets>$306bn</TangibleAssets>
     <ROA>16.32%</ROA>
@@ -75,8 +75,8 @@
     <NAME>British American Tobacco</NAME>
     <MarketValueYE>0</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
-    <TangibleAssets>0</TangibleAssets>
-    <ROA>0</ROA>
+    <TangibleAssets>22.33bn</TangibleAssets>
+    <ROA>4.54%</ROA>
     <ROE>0</ROE>
     <DebttoEquity>1.23</DebttoEquity>
     <TotalAssets>146.34bn</TotalAssets>
@@ -87,12 +87,12 @@
   </STOCK>
   <STOCK>
     <NAME>Brooks Macdonald</NAME>
-    <MarketValueYE>0</MarketValueYE>
+    <MarketValueYE>271m</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
-    <ROA>0</ROA>
+    <ROA>4.30%</ROA>
     <ROE>0</ROE>
-    <DebttoEquity>0</DebttoEquity>
+    <DebttoEquity>0.43</DebttoEquity>
     <TotalAssets>125.53</TotalAssets>
     <GROSSPROFITMARGIN>na</GROSSPROFITMARGIN>
     <OPERATINGPROFITMARGIN>6%</OPERATINGPROFITMARGIN>
@@ -101,10 +101,10 @@
   </STOCK>
   <STOCK>
     <NAME>Brooks Macdonald</NAME>
-    <MarketValueYE>0</MarketValueYE>
+    <MarketValueYE>258m</MarketValueYE>
     <IntrinsicValue>25</IntrinsicValue>
     <TangibleAssets>67m</TangibleAssets>
-    <ROA>24</ROA>
+    <ROA>4.89%</ROA>
     <ROE>18</ROE>
     <DebttoEquity>0.34</DebttoEquity>
     <TotalAssets>117m</TotalAssets>
@@ -115,7 +115,7 @@
   </STOCK>
   <STOCK>
     <NAME>Coca Cola</NAME>
-    <MarketValueYE>0</MarketValueYE>
+    <MarketValueYE>200bn</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>106.5bn</TangibleAssets>
     <ROA>5.44%</ROA>
@@ -129,24 +129,24 @@
   </STOCK>
    <STOCK>
     <NAME>Diageo</NAME>
-     <MarketValueYE>0</MarketValueYE>
+     <MarketValueYE>81.8bn</MarketValueYE>
      <IntrinsicValue>0</IntrinsicValue>
-    <TangibleAssets>0</TangibleAssets>
-    <ROA>0</ROA>
+    <TangibleAssets>18.7bn</TangibleAssets>
+    <ROA>10.66%</ROA>
     <ROE>0</ROE>
     <DebttoEquity>2.53</DebttoEquity>
      <TotalAssets>31.30bn</TotalAssets>
     <GROSSPROFITMARGIN>62%</GROSSPROFITMARGIN>
-     <OPERATINGPROFITMARGIN>30.35%</OPERATINGPROFITMARGIN>
-    <NETPROFITMARGIN>25.85%</NETPROFITMARGIN>
-     <YEAR>2018</YEAR>
+     <OPERATINGPROFITMARGIN>31.41%</OPERATINGPROFITMARGIN>
+    <NETPROFITMARGIN>25.93%</NETPROFITMARGIN>
+     <YEAR>2019</YEAR>
   </STOCK>
    <STOCK>
     <NAME>Disney</NAME>
-     <MarketValueYE>0</MarketValueYE>
+     <MarketValueYE>174bn</MarketValueYE>
      <IntrinsicValue>0</IntrinsicValue>
-    <TangibleAssets>0</TangibleAssets>
-    <ROA>0</ROA>
+    <TangibleAssets>60.52bn</TangibleAssets>
+    <ROA>10.60%</ROA>
     <ROE>0</ROE>
     <DebttoEquity>0.94(0.39)</DebttoEquity>
      <TotalAssets>98.60bn</TotalAssets>
@@ -213,10 +213,10 @@
   </STOCK>
   <STOCK>
     <NAME>IBM</NAME>
-    <MarketValueYE>0</MarketValueYE>
+    <MarketValueYE>102.48bn</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
-    <ROA>0</ROA>
+    <ROA>7.07%</ROA>
     <ROE>0</ROE>
     <DebttoEquity>6.34(0.58)</DebttoEquity>
     <TotalAssets>123.38bn</TotalAssets>
@@ -227,7 +227,7 @@
   </STOCK>
    <STOCK>
     <NAME>Intuitive Surgical</NAME>
-     <MarketValueYE>0</MarketValueYE>
+     <MarketValueYE>54.45bn</MarketValueYE>
      <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
     <ROA>0</ROA>
@@ -269,7 +269,7 @@
   </STOCK>
   <STOCK>
     <NAME>Microsoft</NAME>
-    <MarketValueYE>0</MarketValueYE>
+    <MarketValueYE>1028bn</MarketValueYE>
     <IntrinsicValue>$130</IntrinsicValue>
     <TangibleAssets>236.78bn</TangibleAssets>
     <ROA>13.83%</ROA>
@@ -283,7 +283,7 @@
   </STOCK>
   <STOCK>
     <NAME>PG</NAME>
-    <MarketValueYE>0</MarketValueYE>
+    <MarketValueYE>273bn</MarketValueYE>
     <IntrinsicValue>$85</IntrinsicValue>
     <TangibleAssets>50.61bn</TangibleAssets>
     <ROA>3.45%</ROA>
@@ -297,7 +297,7 @@
   </STOCK>
   <STOCK>
     <NAME>PG</NAME>
-    <MarketValueYE>0</MarketValueYE>
+    <MarketValueYE>196bn</MarketValueYE>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>49.23bn</TangibleAssets>
     <ROA>8.33%</ROA>
@@ -311,7 +311,7 @@
   </STOCK>
   <STOCK>
     <NAME>Scottish Southern Electric</NAME>
-    <MarketValueYE>0</MarketValueYE>
+    <MarketValueYE>12.13bn</MarketValueYE>
     <IntrinsicValue>£9.70</IntrinsicValue>
     <TangibleAssets>23.55bn</TangibleAssets>
     <ROA>5.56%</ROA>
@@ -339,7 +339,7 @@
   </STOCK>
   <STOCK>
     <NAME>Walmart</NAME>
-    <MarketValueYE>0</MarketValueYE>
+    <MarketValueYE>281bn</MarketValueYE>
     <IntrinsicValue>$80</IntrinsicValue>
     <TangibleAssets>188.11bn</TangibleAssets>
     <ROA>3.04%</ROA>
