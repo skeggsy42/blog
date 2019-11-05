@@ -4,8 +4,8 @@
   <STOCK>
     <NAME>Alphabet</NAME>
     <MarketValueYE>791bn</MarketValueYE>
-    <BookValue>0</BookValue>
-    <NetIncome>0></NetIncome>
+    <BookValue>90.49bn</BookValue>
+    <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>178bn</TangibleAssets>
@@ -22,7 +22,7 @@
     <NAME>Alphabet</NAME>
     <MarketValueYE>777bn</MarketValueYE>
     <BookValue>0</BookValue>
-    <NetIncome>0></NetIncome>
+    <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>213bn</TangibleAssets>
@@ -39,7 +39,7 @@
     <NAME>Amazon</NAME>
     <MarketValueYE>0</MarketValueYE>
     <BookValue>0</BookValue>
-    <NetIncome>0></NetIncome>
+    <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
@@ -56,7 +56,7 @@
     <NAME>Apple</NAME>
     <MarketValueYE>1115bn</MarketValueYE>
     <BookValue>0</BookValue>
-    <NetIncome>0></NetIncome>
+    <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>343bn</TangibleAssets>
@@ -73,7 +73,7 @@
     <NAME>Apple</NAME>
     <MarketValueYE>1034bn</MarketValueYE>
     <BookValue>0</BookValue>
-    <NetIncome>0></NetIncome>
+    <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>$220</IntrinsicValue>
     <TangibleAssets>$306bn</TangibleAssets>
@@ -90,7 +90,7 @@
     <NAME>Berkshire Hathaway</NAME>
     <MarketValueYE>0</MarketValueYE>
     <BookValue>0</BookValue>
-    <NetIncome>0></NetIncome>
+    <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
@@ -107,7 +107,7 @@
     <NAME>British American Tobacco</NAME>
     <MarketValueYE>55bn</MarketValueYE>
     <BookValue>0</BookValue>
-    <NetIncome>0></NetIncome>
+    <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>22.33bn</TangibleAssets>
@@ -124,7 +124,7 @@
     <NAME>Brooks Macdonald</NAME>
     <MarketValueYE>271m</MarketValueYE>
     <BookValue>0</BookValue>
-    <NetIncome>0></NetIncome>
+    <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>65m</TangibleAssets>
@@ -141,7 +141,7 @@
     <NAME>Brooks Macdonald</NAME>
     <MarketValueYE>258m</MarketValueYE>
     <BookValue>0</BookValue>
-    <NetIncome>0></NetIncome>
+    <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>25</IntrinsicValue>
     <TangibleAssets>67m</TangibleAssets>
@@ -158,7 +158,7 @@
     <NAME>Coca Cola</NAME>
     <MarketValueYE>200bn</MarketValueYE>
     <BookValue>0</BookValue>
-    <NetIncome>0></NetIncome>
+    <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>106.5bn</TangibleAssets>
@@ -175,7 +175,7 @@
     <NAME>Diageo</NAME>
      <MarketValueYE>81.8bn</MarketValueYE>
      <BookValue>0</BookValue>
-     <NetIncome>0></NetIncome>
+     <NetIncome>0</NetIncome>
      <OwnerEarnings>0</OwnerEarnings>
      <IntrinsicValue>0</IntrinsicValue>
      <TangibleAssets>18.7bn</TangibleAssets>
@@ -192,7 +192,7 @@
     <NAME>Disney</NAME>
      <MarketValueYE>174bn</MarketValueYE>
      <BookValue>0</BookValue>
-     <NetIncome>0></NetIncome>
+     <NetIncome>0</NetIncome>
      <OwnerEarnings>0</OwnerEarnings>
      <IntrinsicValue>0</IntrinsicValue>
      <TangibleAssets>60.52bn</TangibleAssets>
@@ -209,7 +209,7 @@
      <NAME>Ebay</NAME>
      <MarketValueYE>0</MarketValueYE>
      <BookValue>0</BookValue>
-     <NetIncome>0></NetIncome>
+     <NetIncome>0</NetIncome>
      <OwnerEarnings>0</OwnerEarnings> 
      <IntrinsicValue>32.00</IntrinsicValue>
      <TangibleAssets>17.57</TangibleAssets>
@@ -226,7 +226,7 @@
      <NAME>Facebook</NAME>
      <MarketValueYE>379bn</MarketValueYE>
      <BookValue>0</BookValue>
-     <NetIncome>0></NetIncome>
+     <NetIncome>0</NetIncome>
      <OwnerEarnings>0</OwnerEarnings> 
      <IntrinsicValue>0</IntrinsicValue>
      <TangibleAssets>77.74bn</TangibleAssets>
@@ -243,7 +243,7 @@
      <NAME>FeverTree</NAME>
      <MarketValueYE>2.54bn</MarketValueYE>
      <BookValue>0</BookValue>
-     <NetIncome>0></NetIncome>
+     <NetIncome>0</NetIncome>
      <OwnerEarnings>0</OwnerEarnings>
      <IntrinsicValue>0</IntrinsicValue>
      <TangibleAssets>183.69m</TangibleAssets>
@@ -260,7 +260,7 @@
     <NAME>GlaxoSmithkline</NAME>
     <MarketValueYE>0</MarketValueYE>
     <BookValue>0</BookValue>
-    <NetIncome>0></NetIncome>
+    <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
@@ -277,7 +277,7 @@
     <NAME>IBM</NAME>
     <MarketValueYE>102.48bn</MarketValueYE>
     <BookValue>0</BookValue>
-    <NetIncome>0></NetIncome>
+    <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>84bn</TangibleAssets>
@@ -294,7 +294,7 @@
      <NAME>Intuitive Surgical</NAME>
      <MarketValueYE>54.45bn</MarketValueYE>
      <BookValue>0</BookValue>
-     <NetIncome>0></NetIncome>
+     <NetIncome>0</NetIncome>
      <OwnerEarnings>0</OwnerEarnings>
      <IntrinsicValue>0</IntrinsicValue>
      <TangibleAssets>7.35bn</TangibleAssets>
@@ -311,7 +311,7 @@
     <NAME>JNJ</NAME>
     <MarketValueYE>374bn</MarketValueYE>
     <BookValue>0</BookValue>
-    <NetIncome>0></NetIncome>
+    <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>72bn</TangibleAssets>
@@ -328,7 +328,7 @@
     <NAME>Medtronic</NAME>
     <MarketValueYE>0</MarketValueYE>
     <BookValue>0</BookValue>
-    <NetIncome>0></NetIncome>
+    <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
@@ -345,7 +345,7 @@
     <NAME>Microsoft</NAME>
     <MarketValueYE>1028bn</MarketValueYE>
     <BookValue>0</BookValue>
-    <NetIncome>0></NetIncome>
+    <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>$130</IntrinsicValue>
     <TangibleAssets>236.78bn</TangibleAssets>
@@ -362,7 +362,7 @@
     <NAME>PG</NAME>
     <MarketValueYE>273bn</MarketValueYE>
     <BookValue>0</BookValue>
-    <NetIncome>0></NetIncome>
+    <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>$85</IntrinsicValue>
     <TangibleAssets>50.61bn</TangibleAssets>
@@ -379,7 +379,7 @@
     <NAME>PG</NAME>
     <MarketValueYE>196bn</MarketValueYE>
     <BookValue>0</BookValue>
-    <NetIncome>0></NetIncome>
+    <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>49.23bn</TangibleAssets>
@@ -396,7 +396,7 @@
     <NAME>Scottish Southern Electric</NAME>
     <MarketValueYE>12.13bn</MarketValueYE>
     <BookValue>0</BookValue>
-    <NetIncome>0></NetIncome>
+    <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>£9.70</IntrinsicValue>
     <TangibleAssets>23.55bn</TangibleAssets>
@@ -413,7 +413,7 @@
     <NAME>Trex</NAME>
     <MarketValueYE>0</MarketValueYE>
     <BookValue>0</BookValue>
-    <NetIncome>0></NetIncome>
+    <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
@@ -430,7 +430,7 @@
     <NAME>Walmart</NAME>
     <MarketValueYE>281bn</MarketValueYE>
     <BookValue>0</BookValue>
-    <NetIncome>0></NetIncome>
+    <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>$80</IntrinsicValue>
     <TangibleAssets>188.11bn</TangibleAssets>
