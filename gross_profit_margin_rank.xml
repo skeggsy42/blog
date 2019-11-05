@@ -4,7 +4,7 @@
   <STOCK>
     <NAME>Alphabet</NAME>
     <MarketValueYE>791bn</MarketValueYE>
-    <BookValue>90.49bn</BookValue>
+    <BookValue>0</BookValue>
     <NetIncome>0</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
@@ -55,8 +55,8 @@
   <STOCK>
     <NAME>Apple</NAME>
     <MarketValueYE>1115bn</MarketValueYE>
-    <BookValue>0</BookValue>
-    <NetIncome>0</NetIncome>
+    <BookValue>107bn</BookValue>
+    <NetIncome>59.5bn</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>343bn</TangibleAssets>
@@ -72,8 +72,8 @@
   <STOCK>
     <NAME>Apple</NAME>
     <MarketValueYE>1034bn</MarketValueYE>
-    <BookValue>0</BookValue>
-    <NetIncome>0</NetIncome>
+    <BookValue>90.49bn</BookValue>
+    <NetIncome>55.3bn</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>$220</IntrinsicValue>
     <TangibleAssets>$306bn</TangibleAssets>
@@ -106,9 +106,9 @@
   <STOCK>
     <NAME>British American Tobacco</NAME>
     <MarketValueYE>55bn</MarketValueYE>
-    <BookValue>0</BookValue>
-    <NetIncome>0</NetIncome>
-    <OwnerEarnings>0</OwnerEarnings>
+    <BookValue>65.7bn</BookValue>
+    <NetIncome>6.2bn</NetIncome>
+    <OwnerEarnings>6.6bn</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>22.33bn</TangibleAssets>
     <ROA>4.54%</ROA>
