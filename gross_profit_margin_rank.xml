@@ -11,7 +11,6 @@
     <TangibleAssets>178bn</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>11.89%</ROA>
-    <ROE>0</ROE>
     <DebttoEquity>0.29</DebttoEquity>
     <TotalAssets>197.30bn</TotalAssets>
     <GROSSPROFITMARGIN>59%</GROSSPROFITMARGIN>
@@ -29,7 +28,6 @@
     <TangibleAssets>213bn</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>10.96%</ROA>
-    <ROE>0</ROE>
     <DebttoEquity>0.31</DebttoEquity>
     <TotalAssets>232.79bn</TotalAssets>
     <GROSSPROFITMARGIN>56.5%</GROSSPROFITMARGIN>
@@ -47,7 +45,6 @@
     <TangibleAssets>0</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>0</ROA>
-    <ROE>0</ROE>
     <DebttoEquity>0</DebttoEquity>
     <TotalAssets>162.65bn</TotalAssets>
     <GROSSPROFITMARGIN>40%</GROSSPROFITMARGIN>
@@ -65,7 +62,6 @@
     <TangibleAssets>343bn</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>16.28%</ROA>
-    <ROE>0</ROE>
     <DebttoEquity>2.41</DebttoEquity>
     <TotalAssets>365bn</TotalAssets>
     <GROSSPROFITMARGIN>38%</GROSSPROFITMARGIN>
@@ -83,7 +79,6 @@
     <TangibleAssets>$306bn</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>16.32%</ROA>
-    <ROE>0</ROE>
     <DebttoEquity>2.74</DebttoEquity>
     <TotalAssets>338.5bn</TotalAssets>
     <GROSSPROFITMARGIN>37.82%</GROSSPROFITMARGIN>
@@ -101,7 +96,6 @@
     <TangibleAssets>0</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>0</ROA>
-    <ROE>0</ROE>
     <DebttoEquity>0</DebttoEquity>
     <TotalAssets>na</TotalAssets>
     <GROSSPROFITMARGIN>11.5%</GROSSPROFITMARGIN>
@@ -119,7 +113,6 @@
     <TangibleAssets>22.33bn</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>4.54%</ROA>
-    <ROE>0</ROE>
     <DebttoEquity>1.23</DebttoEquity>
     <TotalAssets>146.34bn</TotalAssets>
     <GROSSPROFITMARGIN>81%</GROSSPROFITMARGIN>
@@ -137,7 +130,6 @@
     <TangibleAssets>65m</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>4.30%</ROA>
-    <ROE>0</ROE>
     <DebttoEquity>0.43</DebttoEquity>
     <TotalAssets>125.53</TotalAssets>
     <GROSSPROFITMARGIN>na</GROSSPROFITMARGIN>
@@ -155,7 +147,6 @@
     <TangibleAssets>67m</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>4.89%</ROA>
-    <ROE>18</ROE>
     <DebttoEquity>0.34</DebttoEquity>
     <TotalAssets>117m</TotalAssets>
     <GROSSPROFITMARGIN>n/a</GROSSPROFITMARGIN>
@@ -173,7 +164,6 @@
     <TangibleAssets>106.5bn</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>5.44%</ROA>
-    <ROE>9.50%</ROE>
     <DebttoEquity>3.37(0.91)</DebttoEquity>
     <TotalAssets>123.72bn</TotalAssets>
     <GROSSPROFITMARGIN>63%</GROSSPROFITMARGIN>
@@ -191,7 +181,6 @@
      <TangibleAssets>18.7bn</TangibleAssets>
      <NetTangibleAssets>0</NetTangibleAssets>
      <ROA>10.66%</ROA>
-     <ROE>0</ROE>
      <DebttoEquity>2.53</DebttoEquity>
      <TotalAssets>31.30bn</TotalAssets>
      <GROSSPROFITMARGIN>62%</GROSSPROFITMARGIN>
@@ -209,7 +198,6 @@
      <TangibleAssets>60.52bn</TangibleAssets>
      <NetTangibleAssets>0</NetTangibleAssets>
      <ROA>10.60%</ROA>
-     <ROE>0</ROE>
      <DebttoEquity>0.94(0.39)</DebttoEquity>
      <TotalAssets>98.60bn</TotalAssets>
      <GROSSPROFITMARGIN>44.94%</GROSSPROFITMARGIN>
@@ -227,7 +215,6 @@
      <TangibleAssets>17.57</TangibleAssets>
      <NetTangibleAssets>0</NetTangibleAssets>
      <ROA>11.09</ROA>
-     <ROE>0</ROE>
      <DebttoEquity>1.47(0.283)</DebttoEquity>
      <TotalAssets>22.82bn</TotalAssets>
      <GROSSPROFITMARGIN>77.83%</GROSSPROFITMARGIN>
@@ -245,7 +232,6 @@
      <TangibleAssets>77.74bn</TangibleAssets>
      <NetTangibleAssets>0</NetTangibleAssets>
      <ROA>22.72%</ROA>
-     <ROE>0</ROE>
      <DebttoEquity>0.16</DebttoEquity>
      <TotalAssets>97.33bn</TotalAssets>
      <GROSSPROFITMARGIN>83.25%</GROSSPROFITMARGIN>
@@ -263,7 +249,6 @@
      <TangibleAssets>183.69m</TangibleAssets>
      <NetTangibleAssets>0</NetTangibleAssets>
      <ROA>27.41%</ROA>
-     <ROE>0</ROE>
      <DebttoEquity>0.23</DebttoEquity>
      <TotalAssets>225m</TotalAssets>
      <GROSSPROFITMARGIN>52%</GROSSPROFITMARGIN>
@@ -281,7 +266,6 @@
     <TangibleAssets>0</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>0</ROA>
-    <ROE>0</ROE>
     <DebttoEquity>0</DebttoEquity>
     <TotalAssets>na</TotalAssets>
     <GROSSPROFITMARGIN>67%</GROSSPROFITMARGIN>
@@ -299,7 +283,6 @@
     <TangibleAssets>84bn</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>7.07%</ROA>
-    <ROE>0</ROE>
     <DebttoEquity>6.34(0.58)</DebttoEquity>
     <TotalAssets>123.38bn</TotalAssets>
     <GROSSPROFITMARGIN>46%</GROSSPROFITMARGIN>
@@ -317,7 +300,6 @@
      <TangibleAssets>7.35bn</TangibleAssets>
      <NetTangibleAssets>0</NetTangibleAssets>
      <ROA>14.34%</ROA>
-     <ROE>0</ROE>
      <DebttoEquity>0.17</DebttoEquity>
      <TotalAssets>7.85bn</TotalAssets>
      <GROSSPROFITMARGIN>70%</GROSSPROFITMARGIN>
@@ -335,7 +317,6 @@
     <TangibleAssets>72bn</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>9.61%</ROA>
-    <ROE>0</ROE>
     <DebttoEquity>0</DebttoEquity>
     <TotalAssets>157.30bn</TotalAssets>
     <GROSSPROFITMARGIN>67%</GROSSPROFITMARGIN>
@@ -353,7 +334,6 @@
     <TangibleAssets>0</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>0</ROA>
-    <ROE>0</ROE>
     <DebttoEquity>0</DebttoEquity>
     <TotalAssets>na</TotalAssets>
     <GROSSPROFITMARGIN>69%</GROSSPROFITMARGIN>
@@ -371,7 +351,6 @@
     <TangibleAssets>236.78bn</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>13.83%</ROA>
-    <ROE>47.91%</ROE>
     <DebttoEquity>1.8</DebttoEquity>
     <TotalAssets>286.56bn</TotalAssets>
     <GROSSPROFITMARGIN>66%</GROSSPROFITMARGIN>
@@ -389,7 +368,6 @@
     <TangibleAssets>50.61bn</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>3.45%</ROA>
-    <ROE>0</ROE>
     <DebttoEquity>1.42(0.46)</DebttoEquity>
     <TotalAssets>115.10bn</TotalAssets>
     <GROSSPROFITMARGIN>48.63%</GROSSPROFITMARGIN>
@@ -407,7 +385,6 @@
     <TangibleAssets>49.23bn</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>8.33%</ROA>
-    <ROE>0</ROE>
     <DebttoEquity>1.24</DebttoEquity>
     <TotalAssets>118.31</TotalAssets>
     <GROSSPROFITMARGIN>49%</GROSSPROFITMARGIN>
@@ -425,7 +402,6 @@
     <TangibleAssets>23.55bn</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>5.56%</ROA>
-    <ROE>0</ROE>
     <DebttoEquity>3.34</DebttoEquity>
     <TotalAssets>25.34bn</TotalAssets>
     <GROSSPROFITMARGIN>21%</GROSSPROFITMARGIN>
@@ -443,7 +419,6 @@
     <TangibleAssets>0</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>0</ROA>
-    <ROE>0</ROE>
     <DebttoEquity>0</DebttoEquity>
     <TotalAssets>na</TotalAssets>
     <GROSSPROFITMARGIN>43%</GROSSPROFITMARGIN>
@@ -461,7 +436,6 @@
     <TangibleAssets>188.11bn</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>3.04%</ROA>
-    <ROE>9.22%</ROE>
     <DebttoEquity>1.93</DebttoEquity>
     <TotalAssets>219.30bn</TotalAssets>
     <GROSSPROFITMARGIN>25.30%</GROSSPROFITMARGIN>
