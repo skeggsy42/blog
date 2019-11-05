@@ -4,9 +4,9 @@
   <STOCK>
     <NAME>Alphabet</NAME>
     <MarketValueYE>791bn</MarketValueYE>
-    <BookValue>0</BookValue>
-    <NetIncome>0</NetIncome>
-    <OwnerEarnings>0</OwnerEarnings>
+    <BookValue>152.5nm</BookValue>
+    <NetIncome>12.66bn</NetIncome>
+    <OwnerEarnings>23.5bn</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>178bn</TangibleAssets>
     <ROA>11.89%</ROA>
@@ -21,9 +21,9 @@
   <STOCK>
     <NAME>Alphabet</NAME>
     <MarketValueYE>777bn</MarketValueYE>
-    <BookValue>0</BookValue>
-    <NetIncome>0</NetIncome>
-    <OwnerEarnings>0</OwnerEarnings>
+    <BookValue>177.6bn</BookValue>
+    <NetIncome>30.7bn</NetIncome>
+    <OwnerEarnings>25.5bn</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>213bn</TangibleAssets>
     <ROA>10.96%</ROA>
@@ -123,9 +123,9 @@
   <STOCK>
     <NAME>Brooks Macdonald</NAME>
     <MarketValueYE>271m</MarketValueYE>
-    <BookValue>0</BookValue>
-    <NetIncome>0</NetIncome>
-    <OwnerEarnings>0</OwnerEarnings>
+    <BookValue>88m</BookValue>
+    <NetIncome>5.4m</NetIncome>
+    <OwnerEarnings>16.85m</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>65m</TangibleAssets>
     <ROA>4.30%</ROA>
@@ -140,9 +140,9 @@
   <STOCK>
     <NAME>Brooks Macdonald</NAME>
     <MarketValueYE>258m</MarketValueYE>
-    <BookValue>0</BookValue>
-    <NetIncome>0</NetIncome>
-    <OwnerEarnings>0</OwnerEarnings>
+    <BookValue>87.6m</BookValue>
+    <NetIncome>5.7m</NetIncome>
+    <OwnerEarnings>21.15m</OwnerEarnings>
     <IntrinsicValue>25</IntrinsicValue>
     <TangibleAssets>67m</TangibleAssets>
     <ROA>4.89%</ROA>
