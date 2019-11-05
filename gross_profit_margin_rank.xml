@@ -9,7 +9,7 @@
     <OwnerEarnings>23.5bn</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>178bn</TangibleAssets>
-    <NetTangibleAssets>0</NetTangibleAssets>
+    <NetTangibleAssets>133bn</NetTangibleAssets>
     <ROA>11.89%</ROA>
     <DebttoEquity>0.29</DebttoEquity>
     <TotalAssets>197.30bn</TotalAssets>
@@ -26,7 +26,7 @@
     <OwnerEarnings>25.5bn</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>213bn</TangibleAssets>
-    <NetTangibleAssets>0</NetTangibleAssets>
+    <NetTangibleAssets>157.5bn</NetTangibleAssets>
     <ROA>10.96%</ROA>
     <DebttoEquity>0.31</DebttoEquity>
     <TotalAssets>232.79bn</TotalAssets>
@@ -37,15 +37,15 @@
   </STOCK>
   <STOCK>
     <NAME>Amazon</NAME>
-    <MarketValueYE>0</MarketValueYE>
-    <BookValue>0</BookValue>
-    <NetIncome>0</NetIncome>
+    <MarketValueYE>731bn</MarketValueYE>
+    <BookValue>43.5bn</BookValue>
+    <NetIncome>10bn</NetIncome>
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
-    <TangibleAssets>0</TangibleAssets>
-    <NetTangibleAssets>0</NetTangibleAssets>
-    <ROA>0</ROA>
-    <DebttoEquity>0</DebttoEquity>
+    <TangibleAssets>148bn</TangibleAssets>
+    <NetTangibleAssets>29bn</NetTangibleAssets>
+    <ROA>6.19%</ROA>
+    <DebttoEquity>2.73</DebttoEquity>
     <TotalAssets>162.65bn</TotalAssets>
     <GROSSPROFITMARGIN>40%</GROSSPROFITMARGIN>
     <OPERATINGPROFITMARGIN>5.33%</OPERATINGPROFITMARGIN>
@@ -111,7 +111,7 @@
     <OwnerEarnings>6.6bn</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>22.33bn</TangibleAssets>
-    <NetTangibleAssets>0</NetTangibleAssets>
+    <NetTangibleAssets>-58bn</NetTangibleAssets>
     <ROA>4.54%</ROA>
     <DebttoEquity>1.23</DebttoEquity>
     <TotalAssets>146.34bn</TotalAssets>
@@ -128,7 +128,7 @@
     <OwnerEarnings>16.85m</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>65m</TangibleAssets>
-    <NetTangibleAssets>0</NetTangibleAssets>
+    <NetTangibleAssets>27m</NetTangibleAssets>
     <ROA>4.30%</ROA>
     <DebttoEquity>0.43</DebttoEquity>
     <TotalAssets>125.53</TotalAssets>
@@ -145,7 +145,7 @@
     <OwnerEarnings>21.15m</OwnerEarnings>
     <IntrinsicValue>25</IntrinsicValue>
     <TangibleAssets>67m</TangibleAssets>
-    <NetTangibleAssets>0</NetTangibleAssets>
+    <NetTangibleAssets>37m</NetTangibleAssets>
     <ROA>4.89%</ROA>
     <DebttoEquity>0.34</DebttoEquity>
     <TotalAssets>117m</TotalAssets>
@@ -157,12 +157,12 @@
   <STOCK>
     <NAME>Coca Cola</NAME>
     <MarketValueYE>200bn</MarketValueYE>
-    <BookValue>0</BookValue>
-    <NetIncome>0</NetIncome>
-    <OwnerEarnings>0</OwnerEarnings>
+    <BookValue>59.6bn</BookValue>
+    <NetIncome>6.7bn</NetIncome>
+    <OwnerEarnings>8.8bn</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>106.5bn</TangibleAssets>
-    <NetTangibleAssets>0</NetTangibleAssets>
+    <NetTangibleAssets>42bn</NetTangibleAssets>
     <ROA>5.44%</ROA>
     <DebttoEquity>3.37(0.91)</DebttoEquity>
     <TotalAssets>123.72bn</TotalAssets>
@@ -191,12 +191,12 @@
    <STOCK>
     <NAME>Disney</NAME>
      <MarketValueYE>174bn</MarketValueYE>
-     <BookValue>0</BookValue>
-     <NetIncome>0</NetIncome>
-     <OwnerEarnings>0</OwnerEarnings>
+     <BookValue>52.8bn</BookValue>
+     <NetIncome>12.6bn</NetIncome>
+     <OwnerEarnings>10.5bn</OwnerEarnings>
      <IntrinsicValue>0</IntrinsicValue>
      <TangibleAssets>60.52bn</TangibleAssets>
-     <NetTangibleAssets>0</NetTangibleAssets>
+     <NetTangibleAssets>14.75bn</NetTangibleAssets>
      <ROA>10.60%</ROA>
      <DebttoEquity>0.94(0.39)</DebttoEquity>
      <TotalAssets>98.60bn</TotalAssets>
