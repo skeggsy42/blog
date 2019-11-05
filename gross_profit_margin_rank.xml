@@ -9,6 +9,7 @@
     <OwnerEarnings>23.5bn</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>178bn</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>11.89%</ROA>
     <ROE>0</ROE>
     <DebttoEquity>0.29</DebttoEquity>
@@ -26,6 +27,7 @@
     <OwnerEarnings>25.5bn</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>213bn</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>10.96%</ROA>
     <ROE>0</ROE>
     <DebttoEquity>0.31</DebttoEquity>
@@ -43,6 +45,7 @@
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>0</ROA>
     <ROE>0</ROE>
     <DebttoEquity>0</DebttoEquity>
@@ -60,6 +63,7 @@
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>343bn</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>16.28%</ROA>
     <ROE>0</ROE>
     <DebttoEquity>2.41</DebttoEquity>
@@ -77,6 +81,7 @@
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>$220</IntrinsicValue>
     <TangibleAssets>$306bn</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>16.32%</ROA>
     <ROE>0</ROE>
     <DebttoEquity>2.74</DebttoEquity>
@@ -94,6 +99,7 @@
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>0</ROA>
     <ROE>0</ROE>
     <DebttoEquity>0</DebttoEquity>
@@ -111,6 +117,7 @@
     <OwnerEarnings>6.6bn</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>22.33bn</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>4.54%</ROA>
     <ROE>0</ROE>
     <DebttoEquity>1.23</DebttoEquity>
@@ -128,6 +135,7 @@
     <OwnerEarnings>16.85m</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>65m</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>4.30%</ROA>
     <ROE>0</ROE>
     <DebttoEquity>0.43</DebttoEquity>
@@ -145,6 +153,7 @@
     <OwnerEarnings>21.15m</OwnerEarnings>
     <IntrinsicValue>25</IntrinsicValue>
     <TangibleAssets>67m</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>4.89%</ROA>
     <ROE>18</ROE>
     <DebttoEquity>0.34</DebttoEquity>
@@ -162,6 +171,7 @@
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>106.5bn</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>5.44%</ROA>
     <ROE>9.50%</ROE>
     <DebttoEquity>3.37(0.91)</DebttoEquity>
@@ -179,6 +189,7 @@
      <OwnerEarnings>0</OwnerEarnings>
      <IntrinsicValue>0</IntrinsicValue>
      <TangibleAssets>18.7bn</TangibleAssets>
+     <NetTangibleAssets>0</NetTangibleAssets>
      <ROA>10.66%</ROA>
      <ROE>0</ROE>
      <DebttoEquity>2.53</DebttoEquity>
@@ -196,6 +207,7 @@
      <OwnerEarnings>0</OwnerEarnings>
      <IntrinsicValue>0</IntrinsicValue>
      <TangibleAssets>60.52bn</TangibleAssets>
+     <NetTangibleAssets>0</NetTangibleAssets>
      <ROA>10.60%</ROA>
      <ROE>0</ROE>
      <DebttoEquity>0.94(0.39)</DebttoEquity>
@@ -213,6 +225,7 @@
      <OwnerEarnings>0</OwnerEarnings> 
      <IntrinsicValue>32.00</IntrinsicValue>
      <TangibleAssets>17.57</TangibleAssets>
+     <NetTangibleAssets>0</NetTangibleAssets>
      <ROA>11.09</ROA>
      <ROE>0</ROE>
      <DebttoEquity>1.47(0.283)</DebttoEquity>
@@ -230,6 +243,7 @@
      <OwnerEarnings>0</OwnerEarnings> 
      <IntrinsicValue>0</IntrinsicValue>
      <TangibleAssets>77.74bn</TangibleAssets>
+     <NetTangibleAssets>0</NetTangibleAssets>
      <ROA>22.72%</ROA>
      <ROE>0</ROE>
      <DebttoEquity>0.16</DebttoEquity>
@@ -247,6 +261,7 @@
      <OwnerEarnings>0</OwnerEarnings>
      <IntrinsicValue>0</IntrinsicValue>
      <TangibleAssets>183.69m</TangibleAssets>
+     <NetTangibleAssets>0</NetTangibleAssets>
      <ROA>27.41%</ROA>
      <ROE>0</ROE>
      <DebttoEquity>0.23</DebttoEquity>
@@ -264,6 +279,7 @@
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>0</ROA>
     <ROE>0</ROE>
     <DebttoEquity>0</DebttoEquity>
@@ -281,6 +297,7 @@
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>84bn</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>7.07%</ROA>
     <ROE>0</ROE>
     <DebttoEquity>6.34(0.58)</DebttoEquity>
@@ -298,6 +315,7 @@
      <OwnerEarnings>0</OwnerEarnings>
      <IntrinsicValue>0</IntrinsicValue>
      <TangibleAssets>7.35bn</TangibleAssets>
+     <NetTangibleAssets>0</NetTangibleAssets>
      <ROA>14.34%</ROA>
      <ROE>0</ROE>
      <DebttoEquity>0.17</DebttoEquity>
@@ -315,6 +333,7 @@
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>72bn</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>9.61%</ROA>
     <ROE>0</ROE>
     <DebttoEquity>0</DebttoEquity>
@@ -332,6 +351,7 @@
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>0</ROA>
     <ROE>0</ROE>
     <DebttoEquity>0</DebttoEquity>
@@ -349,6 +369,7 @@
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>$130</IntrinsicValue>
     <TangibleAssets>236.78bn</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>13.83%</ROA>
     <ROE>47.91%</ROE>
     <DebttoEquity>1.8</DebttoEquity>
@@ -366,6 +387,7 @@
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>$85</IntrinsicValue>
     <TangibleAssets>50.61bn</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>3.45%</ROA>
     <ROE>0</ROE>
     <DebttoEquity>1.42(0.46)</DebttoEquity>
@@ -383,6 +405,7 @@
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>49.23bn</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>8.33%</ROA>
     <ROE>0</ROE>
     <DebttoEquity>1.24</DebttoEquity>
@@ -400,6 +423,7 @@
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>£9.70</IntrinsicValue>
     <TangibleAssets>23.55bn</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>5.56%</ROA>
     <ROE>0</ROE>
     <DebttoEquity>3.34</DebttoEquity>
@@ -417,6 +441,7 @@
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>0</ROA>
     <ROE>0</ROE>
     <DebttoEquity>0</DebttoEquity>
@@ -434,6 +459,7 @@
     <OwnerEarnings>0</OwnerEarnings>
     <IntrinsicValue>$80</IntrinsicValue>
     <TangibleAssets>188.11bn</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
     <ROA>3.04%</ROA>
     <ROE>9.22%</ROE>
     <DebttoEquity>1.93</DebttoEquity>
