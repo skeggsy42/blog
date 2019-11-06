@@ -344,12 +344,12 @@
   <STOCK>
     <NAME>Microsoft</NAME>
     <MarketValueYE>1028bn</MarketValueYE>
-    <BookValue>0</BookValue>
-    <NetIncome>0</NetIncome>
-    <OwnerEarnings>0</OwnerEarnings>
+    <BookValue>102.3bn</BookValue>
+    <NetIncome>39.2bn</NetIncome>
+    <OwnerEarnings>39.6bn</OwnerEarnings>
     <IntrinsicValue>$130</IntrinsicValue>
     <TangibleAssets>236.78bn</TangibleAssets>
-    <NetTangibleAssets>0</NetTangibleAssets>
+    <NetTangibleAssets>52.5bn</NetTangibleAssets>
     <ROA>13.83%</ROA>
     <DebttoEquity>1.8</DebttoEquity>
     <TotalAssets>286.56bn</TotalAssets>
@@ -361,12 +361,12 @@
   <STOCK>
     <NAME>PG</NAME>
     <MarketValueYE>273bn</MarketValueYE>
-    <BookValue>0</BookValue>
-    <NetIncome>0</NetIncome>
-    <OwnerEarnings>0</OwnerEarnings>
+    <BookValue>47.6bn</BookValue>
+    <NetIncome>3.6bn</NetIncome>
+    <OwnerEarnings>11.7bn</OwnerEarnings>
     <IntrinsicValue>$85</IntrinsicValue>
     <TangibleAssets>50.61bn</TangibleAssets>
-    <NetTangibleAssets>0</NetTangibleAssets>
+    <NetTangibleAssets>-(16.9bn)</NetTangibleAssets>
     <ROA>3.45%</ROA>
     <DebttoEquity>1.42(0.46)</DebttoEquity>
     <TotalAssets>115.10bn</TotalAssets>
@@ -378,12 +378,12 @@
   <STOCK>
     <NAME>PG</NAME>
     <MarketValueYE>196bn</MarketValueYE>
-    <BookValue>0</BookValue>
-    <NetIncome>0</NetIncome>
-    <OwnerEarnings>0</OwnerEarnings>
+    <BookValue>52.9bn</BookValue>
+    <NetIncome>9.7bn</NetIncome>
+    <OwnerEarnings>7.5bn</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>49.23bn</TangibleAssets>
-    <NetTangibleAssets>0</NetTangibleAssets>
+    <NetTangibleAssets>-16.2bn</NetTangibleAssets>
     <ROA>8.33%</ROA>
     <DebttoEquity>1.24</DebttoEquity>
     <TotalAssets>118.31</TotalAssets>
