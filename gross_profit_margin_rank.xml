@@ -183,17 +183,17 @@
   </STOCK>
    <STOCK>
     <NAME>Diageo</NAME>
-     <MarketValueYE>81.8bn</MarketValueYE>
-     <BookValue>0</BookValue>
-     <NetIncome>0</NetIncome>
-     <OwnerEarnings>0</OwnerEarnings>
-     <IntrinsicValue>0</IntrinsicValue>
-     <TangibleAssets>18.7bn</TangibleAssets>
-     <NetTangibleAssets>0</NetTangibleAssets>
-     <ROA>10.66%</ROA>
-     <ReturnOnNetTangAssets>0</ReturnOnNetTangAssets>
+     <MarketValueYE>£81.8bn</MarketValueYE>
+     <BookValue>£10.2bn</BookValue>
+     <NetIncome>£3.337bn</NetIncome>
+     <OwnerEarnings>£2.95bn</OwnerEarnings>
+     <IntrinsicValue>£41</IntrinsicValue>
+     <TangibleAssets>£18.7bn</TangibleAssets>
+     <NetTangibleAssets>£(2.4)bn</NetTangibleAssets>
+     <ROA>9.43%</ROA>
+     <ReturnOnNetTangAssets>n/a</ReturnOnNetTangAssets>
      <DebttoEquity>2.53</DebttoEquity>
-     <TotalAssets>31.30bn</TotalAssets>
+     <TotalAssets>£31.30bn</TotalAssets>
      <GROSSPROFITMARGIN>62%</GROSSPROFITMARGIN>
      <OPERATINGPROFITMARGIN>31.41%</OPERATINGPROFITMARGIN>
      <NETPROFITMARGIN>25.93%</NETPROFITMARGIN>
