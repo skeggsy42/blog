@@ -79,7 +79,7 @@
     <BookValue>90.49bn</BookValue>
     <NetIncome>55.3bn</NetIncome>
     <OwnerEarnings>51.215bn</OwnerEarnings>
-    <IntrinsicValue>$234</IntrinsicValue>
+    <IntrinsicValue>$215</IntrinsicValue>
     <TangibleAssets>$306bn</TangibleAssets>
     <NetTangibleAssets>90.49bn</NetTangibleAssets>
     <ROA>16.32%</ROA>
@@ -169,7 +169,7 @@
     <BookValue>59.6bn</BookValue>
     <NetIncome>6.7bn</NetIncome>
     <OwnerEarnings>8.8bn</OwnerEarnings>
-    <IntrinsicValue>$43</IntrinsicValue>
+    <IntrinsicValue>$28.95</IntrinsicValue>
     <TangibleAssets>106.5bn</TangibleAssets>
     <NetTangibleAssets>42bn</NetTangibleAssets>
     <ROA>5.44%</ROA>
@@ -187,7 +187,7 @@
      <BookValue>£10.2bn</BookValue>
      <NetIncome>£3.337bn</NetIncome>
      <OwnerEarnings>£2.95bn</OwnerEarnings>
-     <IntrinsicValue>£41</IntrinsicValue>
+     <IntrinsicValue>£31.78</IntrinsicValue>
      <TangibleAssets>£18.7bn</TangibleAssets>
      <NetTangibleAssets>£(2.4)bn</NetTangibleAssets>
      <ROA>9.43%</ROA>
@@ -205,7 +205,7 @@
      <BookValue>52.8bn</BookValue>
      <NetIncome>12.6bn</NetIncome>
      <OwnerEarnings>10.5bn</OwnerEarnings>
-     <IntrinsicValue>$75</IntrinsicValue>
+     <IntrinsicValue>$78.87</IntrinsicValue>
      <TangibleAssets>60.52bn</TangibleAssets>
      <NetTangibleAssets>14.75bn</NetTangibleAssets>
      <ROA>10.60%</ROA>
@@ -367,7 +367,7 @@
     <BookValue>102.3bn</BookValue>
     <NetIncome>39.2bn</NetIncome>
     <OwnerEarnings>39.6bn</OwnerEarnings>
-    <IntrinsicValue>$152</IntrinsicValue>
+    <IntrinsicValue>$97.57</IntrinsicValue>
     <TangibleAssets>236.78bn</TangibleAssets>
     <NetTangibleAssets>52.5bn</NetTangibleAssets>
     <ROA>13.83%</ROA>
@@ -385,7 +385,7 @@
     <BookValue>47.6bn</BookValue>
     <NetIncome>3.6bn</NetIncome>
     <OwnerEarnings>11.7bn</OwnerEarnings>
-    <IntrinsicValue>$70</IntrinsicValue>
+    <IntrinsicValue>$58</IntrinsicValue>
     <TangibleAssets>50.61bn</TangibleAssets>
     <NetTangibleAssets>-(16.9bn)</NetTangibleAssets>
     <ROA>10%</ROA>
