@@ -146,7 +146,7 @@
     <ROA>4.30%</ROA>
     <ReturnOnNetTangAssets>0</ReturnOnNetTangAssets>
     <DebttoEquity>0.43</DebttoEquity>
-    <DebttoCapital>0</DebttoCapital>
+    <DebttoCapital>0%</DebttoCapital>
     <TotalAssets>125.53</TotalAssets>
     <GROSSPROFITMARGIN>na</GROSSPROFITMARGIN>
     <OPERATINGPROFITMARGIN>6%</OPERATINGPROFITMARGIN>
@@ -165,7 +165,7 @@
     <ROA>4.89%</ROA>
     <ReturnOnNetTangAssets>0</ReturnOnNetTangAssets>
     <DebttoEquity>0.34</DebttoEquity>
-    <DebttoCapital>0</DebttoCapital>
+    <DebttoCapital>0%</DebttoCapital>
     <TotalAssets>117m</TotalAssets>
     <GROSSPROFITMARGIN>n/a</GROSSPROFITMARGIN>
     <OPERATINGPROFITMARGIN>7.93%</OPERATINGPROFITMARGIN>
@@ -507,7 +507,7 @@
     <ROA>3.04%</ROA>
     <ReturnOnNetTangAssets>25%</ReturnOnNetTangAssets>
     <DebttoEquity>1.93</DebttoEquity>
-    <DebttoCapital>0</DebttoCapital>
+    <DebttoCapital>49.99%</DebttoCapital>
     <TotalAssets>219.30bn</TotalAssets>
     <GROSSPROFITMARGIN>25.30%</GROSSPROFITMARGIN>
     <OPERATINGPROFITMARGIN>4.30%</OPERATINGPROFITMARGIN>
