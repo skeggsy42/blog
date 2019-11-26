@@ -204,7 +204,7 @@
      <MarketValueYE>174bn</MarketValueYE>
      <BookValue>52.8bn</BookValue>
      <NetIncome>12.6bn</NetIncome>
-     <OwnerEarnings>10.5bn</OwnerEarnings>
+     <OwnerEarnings>10.3bn</OwnerEarnings>
      <IntrinsicValue>$78.87</IntrinsicValue>
      <TangibleAssets>60.52bn</TangibleAssets>
      <NetTangibleAssets>14.75bn</NetTangibleAssets>
@@ -216,6 +216,24 @@
      <OPERATINGPROFITMARGIN>24.43%</OPERATINGPROFITMARGIN>
      <NETPROFITMARGIN>21.20%</NETPROFITMARGIN>
      <YEAR>2018</YEAR>
+  </STOCK>
+  <STOCK>
+    <NAME>Disney</NAME>
+     <MarketValueYE>215.8bn</MarketValueYE>
+     <BookValue>93.89bn</BookValue>
+     <NetIncome>11.05bn</NetIncome>
+     <OwnerEarnings>8.5bn</OwnerEarnings>
+     <IntrinsicValue></IntrinsicValue>
+     <TangibleAssets>90.5bn</TangibleAssets>
+     <NetTangibleAssets>-9.62bn</NetTangibleAssets>
+     <ROA>4.37%</ROA>
+     <ReturnOnNetTangAssets>N/A</ReturnOnNetTangAssets>
+     <DebttoEquity>1.13</DebttoEquity>
+     <TotalAssets>194bn</TotalAssets>
+     <GROSSPROFITMARGIN>39.60%</GROSSPROFITMARGIN>
+     <OPERATINGPROFITMARGIN>21.37%</OPERATINGPROFITMARGIN>
+     <NETPROFITMARGIN>15.89%</NETPROFITMARGIN>
+     <YEAR>2019</YEAR>
   </STOCK>
   <STOCK>
      <NAME>Ebay</NAME>
