@@ -48,10 +48,6 @@ function myFunction(xml,year) {
   var table="<tr><th>Name</th><th>Intrinsic Value</th><th>Market Value YE</th><th>Book Value</th><th>Total Assets</th><th>Tangible Assets</th><th>Net Tangible Assets</th><th>Net Income</th><th>Owner Earnings</th><th>Debt to Equity</th><th>Debt to Capital</th><th>ROA</th><th>Return on Net Tangible Assets (owner earnings)</th><th>Year</th><th>Gross Profit Margin</th><th>Operating Profit Margin</th><th>Net Profit Margin</th></tr>";
   var x = xmlDoc.getElementsByTagName("STOCK");
   
-  document.write("<h1>");
-  document.write(year);
-  document.write("</h1>");
-  
   for (i = 0; i <x.length; i++) { 
     if (x[i].getElementsByTagName("YEAR")[0].childNodes[0].nodeValue == year) {
        table += "<tr><td>" +
@@ -91,6 +87,9 @@ function myFunction(xml,year) {
         "</td></tr>";
     }
   }
+  document.write("<h1>");
+  document.write(year);
+  document.write("</h1>");
   document.getElementById("demo").innerHTML = table;
 }
   
