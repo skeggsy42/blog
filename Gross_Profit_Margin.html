@@ -26,6 +26,12 @@ th,td {
 <table id="demo"></table>.
 
 <script>
+    document.write("<h1>");
+    document.write(year);
+    document.write("</h1>");
+</script>
+  
+<script>
 function getOption() {
   var obj = document.getElementById("year_selection");
   year = obj.options[obj.selectedIndex].text;
@@ -90,9 +96,7 @@ function myFunction(xml,year) {
   
   document.getElementById("demo").innerHTML = table;
 }
- document.write("<h1>");
-  document.write(year);
-  document.write("</h1>"); 
+  
  loadXMLDoc(2019) 
 </script>
 <p>Gross profit = revenue minus cost of goods sold (or cost of revenue in the case of service companies).</p>
