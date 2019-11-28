@@ -327,14 +327,14 @@
   <STOCK>
     <NAME>IBM</NAME>
     <MarketValueYE>102.48bn</MarketValueYE>
-    <BookValue>0</BookValue>
-    <NetIncome>0</NetIncome>
-    <OwnerEarnings>0</OwnerEarnings>
-    <IntrinsicValue>0</IntrinsicValue>
+    <BookValue>16.93bn</BookValue>
+    <NetIncome>8.7bn</NetIncome>
+    <OwnerEarnings>10.76bn</OwnerEarnings>
+    <IntrinsicValue>$130</IntrinsicValue>
     <TangibleAssets>84bn</TangibleAssets>
-    <NetTangibleAssets>0</NetTangibleAssets>
+    <NetTangibleAssets>-22bn</NetTangibleAssets>
     <ROA>7.07%</ROA>
-    <ReturnOnNetTangAssets>0</ReturnOnNetTangAssets>
+    <ReturnOnNetTangAssets>nm</ReturnOnNetTangAssets>
     <DebttoEquity>6.34(0.58)</DebttoEquity>
     <DebttoCapital>0</DebttoCapital>
     <TotalAssets>123.38bn</TotalAssets>
