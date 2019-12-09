@@ -46,14 +46,14 @@
     <MarketValueYE>731bn</MarketValueYE>
     <BookValue>43.5bn</BookValue>
     <NetIncome>10bn</NetIncome>
-    <OwnerEarnings>0</OwnerEarnings>
-    <IntrinsicValue>0</IntrinsicValue>
+    <OwnerEarnings>12.46bn</OwnerEarnings>
+    <IntrinsicValue>$418</IntrinsicValue>
     <TangibleAssets>148bn</TangibleAssets>
     <NetTangibleAssets>29bn</NetTangibleAssets>
     <ROA>6.19%</ROA>
-    <ReturnOnNetTangAssets>0</ReturnOnNetTangAssets>
+    <ReturnOnNetTangAssets>43%</ReturnOnNetTangAssets>
     <DebttoEquity>2.73</DebttoEquity>
-    <DebttoCapital>0</DebttoCapital>
+    <DebttoCapital>35%</DebttoCapital>
     <TotalAssets>162.65bn</TotalAssets>
     <GROSSPROFITMARGIN>40%</GROSSPROFITMARGIN>
     <OPERATINGPROFITMARGIN>5.33%</OPERATINGPROFITMARGIN>
@@ -66,14 +66,14 @@
     <MarketValueYE>1115bn</MarketValueYE>
     <BookValue>107bn</BookValue>
     <NetIncome>59.5bn</NetIncome>
-    <OwnerEarnings>0</OwnerEarnings>
+    <OwnerEarnings>54.7bn</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>343bn</TangibleAssets>
     <NetTangibleAssets>107bn</NetTangibleAssets>
     <ROA>16.28%</ROA>
-    <ReturnOnNetTangAssets>0</ReturnOnNetTangAssets>
+    <ReturnOnNetTangAssets>51.05%</ReturnOnNetTangAssets>
     <DebttoEquity>2.41</DebttoEquity>
-    <DebttoCapital>0</DebttoCapital>
+    <DebttoCapital>51.66%</DebttoCapital>
     <TotalAssets>365bn</TotalAssets>
     <GROSSPROFITMARGIN>38%</GROSSPROFITMARGIN>
     <OPERATINGPROFITMARGIN>26.7%</OPERATINGPROFITMARGIN>
