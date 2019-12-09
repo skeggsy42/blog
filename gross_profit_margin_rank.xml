@@ -231,7 +231,7 @@
      <TangibleAssets>60.52bn</TangibleAssets>
      <NetTangibleAssets>14.75bn</NetTangibleAssets>
      <ROA>10.60%</ROA>
-     <ReturnOnNetTangAssets>0</ReturnOnNetTangAssets>
+     <ReturnOnNetTangAssets>70%</ReturnOnNetTangAssets>
      <DebttoEquity>0.94(0.39)</DebttoEquity>
      <DebttoCapital>29.97%</DebttoCapital>
      <TotalAssets>98.60bn</TotalAssets>
@@ -251,7 +251,7 @@
      <TangibleAssets>90.5bn</TangibleAssets>
      <NetTangibleAssets>-9.62bn</NetTangibleAssets>
      <ROA>4.37%</ROA>
-     <ReturnOnNetTangAssets>N/A</ReturnOnNetTangAssets>
+     <ReturnOnNetTangAssets>-88%</ReturnOnNetTangAssets>
      <DebttoEquity>1.13</DebttoEquity>
      <DebttoCapital>36.96%</DebttoCapital>
      <TotalAssets>194bn</TotalAssets>
