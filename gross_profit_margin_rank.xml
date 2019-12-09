@@ -304,16 +304,16 @@
   <STOCK>
      <NAME>FeverTree</NAME>
      <MarketValueYE>2.54bn</MarketValueYE>
-     <BookValue>0</BookValue>
-     <NetIncome>0</NetIncome>
-     <OwnerEarnings>0</OwnerEarnings>
-     <IntrinsicValue>0</IntrinsicValue>
+     <BookValue>183m</BookValue>
+     <NetIncome>61.8m</NetIncome>
+     <OwnerEarnings>61.8m</OwnerEarnings>
+     <IntrinsicValue>£13.20</IntrinsicValue>
      <TangibleAssets>183.69m</TangibleAssets>
-     <NetTangibleAssets>0</NetTangibleAssets>
+     <NetTangibleAssets>141.5m</NetTangibleAssets>
      <ROA>27.41%</ROA>
-     <ReturnOnNetTangAssets>0</ReturnOnNetTangAssets>
+     <ReturnOnNetTangAssets>43.71%</ReturnOnNetTangAssets>
      <DebttoEquity>0.23</DebttoEquity>
-     <DebttoCapital>0</DebttoCapital>
+     <DebttoCapital>0.18</DebttoCapital>
      <TotalAssets>225m</TotalAssets>
      <GROSSPROFITMARGIN>52%</GROSSPROFITMARGIN>
      <OPERATINGPROFITMARGIN>38%</OPERATINGPROFITMARGIN>
