@@ -365,19 +365,19 @@
      <NAME>Intuitive Surgical</NAME>
      <MarketValueYE>54.45bn</MarketValueYE>
      <BookValue>0</BookValue>
-     <NetIncome>0</NetIncome>
-     <OwnerEarnings>0</OwnerEarnings>
-     <IntrinsicValue>0</IntrinsicValue>
+     <NetIncome>1.125bn</NetIncome>
+     <OwnerEarnings>1.125bn</OwnerEarnings>
+     <IntrinsicValue>218</IntrinsicValue>
      <TangibleAssets>7.35bn</TangibleAssets>
-     <NetTangibleAssets>0</NetTangibleAssets>
+     <NetTangibleAssets>6.18bn</NetTangibleAssets>
      <ROA>14.34%</ROA>
-     <ReturnOnNetTangAssets>0</ReturnOnNetTangAssets>
+     <ReturnOnNetTangAssets>18%</ReturnOnNetTangAssets>
      <DebttoEquity>0.17</DebttoEquity>
      <DebttoCapital>0</DebttoCapital>
      <TotalAssets>7.85bn</TotalAssets>
      <GROSSPROFITMARGIN>70%</GROSSPROFITMARGIN>
      <OPERATINGPROFITMARGIN>32%</OPERATINGPROFITMARGIN>
-     <PRETAXPROFITMARGIN>0%</PRETAXPROFITMARGIN>
+     <PRETAXPROFITMARGIN>34.36%</PRETAXPROFITMARGIN>
      <NETPROFITMARGIN>30.21%</NETPROFITMARGIN>
      <YEAR>2018</YEAR>
   </STOCK>
