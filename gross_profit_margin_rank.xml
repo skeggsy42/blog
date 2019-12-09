@@ -364,10 +364,10 @@
    <STOCK>
      <NAME>Intuitive Surgical</NAME>
      <MarketValueYE>54.45bn</MarketValueYE>
-     <BookValue>0</BookValue>
+     <BookValue>6.69bn</BookValue>
      <NetIncome>1.125bn</NetIncome>
      <OwnerEarnings>1.125bn</OwnerEarnings>
-     <IntrinsicValue>218</IntrinsicValue>
+     <IntrinsicValue>$218</IntrinsicValue>
      <TangibleAssets>7.35bn</TangibleAssets>
      <NetTangibleAssets>6.18bn</NetTangibleAssets>
      <ROA>14.34%</ROA>
