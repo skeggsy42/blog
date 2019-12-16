@@ -103,22 +103,22 @@
   </STOCK>
   <STOCK>
     <NAME>Berkshire Hathaway</NAME>
-    <MarketValueYE>0</MarketValueYE>
-    <BookValue>0</BookValue>
-    <NetIncome>0</NetIncome>
-    <OwnerEarnings>0</OwnerEarnings>
-    <IntrinsicValue>0</IntrinsicValue>
+    <MarketValueYE>551bn</MarketValueYE>
+    <BookValue>401.5bn</BookValue>
+    <NetIncome>4bn</NetIncome>
+    <OwnerEarnings>19.6bn</OwnerEarnings>
+    <IntrinsicValue>$206.50</IntrinsicValue>
     <TangibleAssets>0</TangibleAssets>
-    <NetTangibleAssets>0</NetTangibleAssets>
-    <ROA>0</ROA>
-    <ReturnOnNetTangAssets>0</ReturnOnNetTangAssets>
-    <DebttoEquity>0</DebttoEquity>
-    <DebttoCapital>0</DebttoCapital>
-    <TotalAssets>na</TotalAssets>
+    <NetTangibleAssets>240bn</NetTangibleAssets>
+    <ROA>3.29%</ROA>
+    <ReturnOnNetTangAssets>8.18%</ReturnOnNetTangAssets>
+    <DebttoEquity>1.01</DebttoEquity>
+    <DebttoCapital>0.22</DebttoCapital>
+    <TotalAssets>708bn</TotalAssets>
     <GROSSPROFITMARGIN>11.5%</GROSSPROFITMARGIN>
     <OPERATINGPROFITMARGIN>na</OPERATINGPROFITMARGIN>
-    <PRETAXPROFITMARGIN>0%</PRETAXPROFITMARGIN>
-    <NETPROFITMARGIN>na</NETPROFITMARGIN>
+    <PRETAXPROFITMARGIN>1.62%</PRETAXPROFITMARGIN>
+    <NETPROFITMARGIN>1.62%</NETPROFITMARGIN>
     <YEAR>2018</YEAR>
   </STOCK>
   <STOCK>
