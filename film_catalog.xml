@@ -2,7 +2,7 @@
 <CATALOG>
   <FILM>
     <TITLE>A Scanner Darkly</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Alien</TITLE>
@@ -14,11 +14,11 @@
   </FILM>
   <FILM>
     <TITLE>Alien Resurrection</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Aliens</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Asphalt Jungle</TITLE>
@@ -26,11 +26,15 @@
   </FILM>
   <FILM>
     <TITLE>Big hero 6</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>10</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Blade Runner</TITLE>
     <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Blade Runner 2049</TITLE>
+    <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Bram Stokers Dracula</TITLE>
@@ -42,19 +46,19 @@
   </FILM>
   <FILM>
     <TITLE>Casablanca</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Chappie</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Ex_Machina</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>10</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Fast and Furious</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Fight Club</TITLE>
@@ -62,39 +66,39 @@
   </FILM>
 <FILM>
     <TITLE>Guardians of the galaxy</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>9</MYRATING>
   </FILM>
  <FILM>
   <TITLE>Harry Potter and the chamber of secrets</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Harry Potter and the deathly hallows</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Harry Potter and the goblet of fire</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Harry Potter and the halfblood prince</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Harry Potter and the order of the phoenix</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Harry Potter and the prisoner of azkaban</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Iceage</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Interstella</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>10</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Lost in translation</TITLE>
@@ -102,15 +106,15 @@
   </FILM>
   <FILM>
     <TITLE>Minority Report</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
-    <TITLE>Mirror</TITLE>
+    <TITLE>The Mirror</TITLE>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Niagara</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Nostalgia</TITLE>
@@ -118,27 +122,35 @@
   </FILM>
   <FILM>
     <TITLE>Star Wars Rogue One</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Solaris (1972)</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>10</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Stalker</TITLE>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>The Garden of Words</TITLE>
+    <MYRATING>9</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>The Jungle Book</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Karate Kid</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>9</MYRATING>
   </FILM>
     <FILM>
     <TITLE>The Maltese Falcon</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>9</MYRATING>
+  </FILM>
+   <FILM>
+    <TITLE>The Place Promised in Our Early Days</TITLE>
+    <MYRATING>7</MYRATING>
   </FILM>
    <FILM>
     <TITLE>Total Recall</TITLE>
@@ -146,6 +158,10 @@
   </FILM>
   <FILM>
     <TITLE>Toy Story 3</TITLE>
-    <MYRATING>8</MYRATING>
+    <MYRATING>10</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Your Name</TITLE>
+    <MYRATING>9</MYRATING>
   </FILM>
  </CATALOG>
