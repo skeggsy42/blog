@@ -382,6 +382,26 @@
      <YEAR>2018</YEAR>
   </STOCK>
   <STOCK>
+     <NAME>Intuitive Surgical</NAME>
+     <MarketValueYE>68bn</MarketValueYE>
+     <BookValue>8.3bn</BookValue>
+     <NetIncome>1.379bn</NetIncome>
+     <OwnerEarnings>1.558bn</OwnerEarnings>
+     <IntrinsicValue></IntrinsicValue>
+     <TangibleAssets>8.98bn</TangibleAssets>
+     <NetTangibleAssets>7.54bn</NetTangibleAssets>
+     <ROA>14.17%</ROA>
+     <ReturnOnNetTangAssets>18%</ReturnOnNetTangAssets>
+     <DebttoEquity>0.17</DebttoEquity>
+     <DebttoCapital>0</DebttoCapital>
+     <TotalAssets>9.7bn</TotalAssets>
+     <GROSSPROFITMARGIN>69.45%</GROSSPROFITMARGIN>
+     <OPERATINGPROFITMARGIN>31%</OPERATINGPROFITMARGIN>
+     <PRETAXPROFITMARGIN>33.5%</PRETAXPROFITMARGIN>
+     <NETPROFITMARGIN>30.8%</NETPROFITMARGIN>
+     <YEAR>2019</YEAR>
+  </STOCK>
+  <STOCK>
     <NAME>JNJ</NAME>
     <MarketValueYE>374bn</MarketValueYE>
     <BookValue>0</BookValue>
