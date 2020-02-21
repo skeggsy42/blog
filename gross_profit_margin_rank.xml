@@ -26,12 +26,12 @@
     <MarketValueYE>777bn</MarketValueYE>
     <BookValue>177.6bn</BookValue>
     <NetIncome>30.7bn</NetIncome>
-    <OwnerEarnings>25.5bn</OwnerEarnings>
+    <OwnerEarnings>20.4bn</OwnerEarnings>
     <IntrinsicValue>$768</IntrinsicValue>
     <TangibleAssets>213bn</TangibleAssets>
     <NetTangibleAssets>157.5bn</NetTangibleAssets>
     <ROA>10.96%</ROA>
-    <ReturnOnNetTangAssets>16.20%</ReturnOnNetTangAssets>
+    <ReturnOnNetTangAssets>12.93%</ReturnOnNetTangAssets>
     <DebttoEquity>0.31</DebttoEquity>
     <DebttoCapital>2.21%</DebttoCapital>
     <TotalAssets>232.79bn</TotalAssets>
@@ -40,6 +40,26 @@
     <PRETAXPROFITMARGIN>25.5%</PRETAXPROFITMARGIN>
     <NETPROFITMARGIN>22.45%</NETPROFITMARGIN>
     <YEAR>2018</YEAR>
+  </STOCK>
+  <STOCK>
+    <NAME>Alphabet</NAME>
+    <MarketValueYE>998bn</MarketValueYE>
+    <BookValue>201bn</BookValue>
+    <NetIncome>34.3bn</NetIncome>
+    <OwnerEarnings>24.6bn</OwnerEarnings>
+    <IntrinsicValue>$</IntrinsicValue>
+    <TangibleAssets>253bn</TangibleAssets>
+    <NetTangibleAssets>179bn</NetTangibleAssets>
+    <ROA>12.45%</ROA>
+    <ReturnOnNetTangAssets>13.77%</ReturnOnNetTangAssets>
+    <DebttoEquity>0.37</DebttoEquity>
+    <DebttoCapital>2.21%</DebttoCapital>
+    <TotalAssets>276bn</TotalAssets>
+    <GROSSPROFITMARGIN>55.58%</GROSSPROFITMARGIN>
+    <OPERATINGPROFITMARGIN>21.15%</OPERATINGPROFITMARGIN>
+    <PRETAXPROFITMARGIN>24.48%</PRETAXPROFITMARGIN>
+    <NETPROFITMARGIN>21.22%</NETPROFITMARGIN>
+    <YEAR>2019</YEAR>
   </STOCK>
   <STOCK>
     <NAME>Amazon</NAME>
@@ -87,7 +107,7 @@
     <BookValue>90.49bn</BookValue>
     <NetIncome>55.3bn</NetIncome>
     <OwnerEarnings>51.215bn</OwnerEarnings>
-    <IntrinsicValue>$215</IntrinsicValue>
+    <IntrinsicValue>$250</IntrinsicValue>
     <TangibleAssets>$306bn</TangibleAssets>
     <NetTangibleAssets>90.49bn</NetTangibleAssets>
     <ROA>16.32%</ROA>
