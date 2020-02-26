@@ -28,7 +28,7 @@
     <BookValue>177.6bn</BookValue>
     <NetIncome>30.7bn</NetIncome>
     <OwnerEarnings>20.4bn</OwnerEarnings>
-    <IntrinsicValue>$768</IntrinsicValue>
+    <IntrinsicValue>$1104</IntrinsicValue>
     <TangibleAssets>213bn</TangibleAssets>
     <NetTangibleAssets>157.5bn</NetTangibleAssets>
     <ROA>10.96%</ROA>
@@ -49,7 +49,7 @@
     <BookValue>201bn</BookValue>
     <NetIncome>34.3bn</NetIncome>
     <OwnerEarnings>24.6bn</OwnerEarnings>
-    <IntrinsicValue>$</IntrinsicValue>
+    <IntrinsicValue>$1210</IntrinsicValue>
     <TangibleAssets>253bn</TangibleAssets>
     <NetTangibleAssets>179bn</NetTangibleAssets>
     <ROA>12.45%</ROA>
@@ -73,9 +73,9 @@
     <IntrinsicValue>$418</IntrinsicValue>
     <TangibleAssets>148bn</TangibleAssets>
     <NetTangibleAssets>29bn</NetTangibleAssets>
-    <ROA>6.19%</ROA>
-    <ROIC>0%</ROIC>
-    <ReturnOnNetTangAssets>0%</ReturnOnNetTangAssets>
+    <ROA>6.67%</ROA>
+    <ROIC>15.88%</ROIC>
+    <ReturnOnNetTangAssets>6.05%</ReturnOnNetTangAssets>
     <DebttoEquity>2.73</DebttoEquity>
     <DebttoCapital>35%</DebttoCapital>
     <TotalAssets>162.65bn</TotalAssets>
@@ -84,6 +84,28 @@
     <PRETAXPROFITMARGIN>4.84%</PRETAXPROFITMARGIN>
     <NETPROFITMARGIN>4.33%</NETPROFITMARGIN>
     <YEAR>2018</YEAR>
+  </STOCK>
+  
+  <STOCK>
+    <NAME>Amazon</NAME>
+    <MarketValueYE>913bn</MarketValueYE>
+    <BookValue>62bn</BookValue>
+    <NetIncome>11.5bn</NetIncome>
+    <OwnerEarnings>15.8bn</OwnerEarnings>
+    <IntrinsicValue>$502</IntrinsicValue>
+    <TangibleAssets>210bn</TangibleAssets>
+    <NetTangibleAssets>47bn</NetTangibleAssets>
+    <ROA>6.19%</ROA>
+    <ROIC>15.24%</ROIC>
+    <ReturnOnNetTangAssets>6.05%</ReturnOnNetTangAssets>
+    <DebttoEquity>2.63</DebttoEquity>
+    <DebttoCapital>27%</DebttoCapital>
+    <TotalAssets>225bn</TotalAssets>
+    <GROSSPROFITMARGIN>41%</GROSSPROFITMARGIN>
+    <OPERATINGPROFITMARGIN>5.18%</OPERATINGPROFITMARGIN>
+    <PRETAXPROFITMARGIN>4.98%</PRETAXPROFITMARGIN>
+    <NETPROFITMARGIN>4.13%</NETPROFITMARGIN>
+    <YEAR>2019</YEAR>
   </STOCK>
   <STOCK>
     <NAME>Apple</NAME>
@@ -181,8 +203,8 @@
     <TangibleAssets>22.33bn</TangibleAssets>
     <NetTangibleAssets>-58bn</NetTangibleAssets>
     <ROA>4.54%</ROA>
-    <ROIC>0%</ROIC>
-    <ReturnOnNetTangAssets>na</ReturnOnNetTangAssets>
+    <ROIC>6.85%</ROIC>
+    <ReturnOnNetTangAssets>9.52%</ReturnOnNetTangAssets>
     <DebttoEquity>1.23</DebttoEquity>
     <DebttoCapital>42%</DebttoCapital>
     <TotalAssets>146.34bn</TotalAssets>
@@ -202,8 +224,8 @@
     <TangibleAssets>65m</TangibleAssets>
     <NetTangibleAssets>27m</NetTangibleAssets>
     <ROA>4.30%</ROA>
-    <ROIC>0%</ROIC>
-    <ReturnOnNetTangAssets>0</ReturnOnNetTangAssets>
+    <ROIC>19.16%</ROIC>
+    <ReturnOnNetTangAssets>17.06</ReturnOnNetTangAssets>
     <DebttoEquity>0.43</DebttoEquity>
     <DebttoCapital>0%</DebttoCapital>
     <TotalAssets>125.53</TotalAssets>
@@ -223,8 +245,8 @@
     <TangibleAssets>67m</TangibleAssets>
     <NetTangibleAssets>37m</NetTangibleAssets>
     <ROA>4.89%</ROA>
-    <ROIC>0%</ROIC>
-    <ReturnOnNetTangAssets>0</ReturnOnNetTangAssets>
+    <ROIC>24.23%</ROIC>
+    <ReturnOnNetTangAssets>22.04%</ReturnOnNetTangAssets>
     <DebttoEquity>0.34</DebttoEquity>
     <DebttoCapital>0%</DebttoCapital>
     <TotalAssets>117m</TotalAssets>
@@ -244,8 +266,8 @@
     <TangibleAssets>106.5bn</TangibleAssets>
     <NetTangibleAssets>42bn</NetTangibleAssets>
     <ROA>5.44%</ROA>
-    <ROIC>0%</ROIC>
-    <ReturnOnNetTangAssets>0%</ReturnOnNetTangAssets>
+    <ROIC>14.59%</ROIC>
+    <ReturnOnNetTangAssets>4.92%</ReturnOnNetTangAssets>
     <DebttoEquity>3.37(0.91)</DebttoEquity>
     <DebttoCapital>70%</DebttoCapital>
     <TotalAssets>123.72bn</TotalAssets>
