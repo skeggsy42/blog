@@ -287,8 +287,8 @@
      <TangibleAssets>£18.7bn</TangibleAssets>
      <NetTangibleAssets>£(2.4)bn</NetTangibleAssets>
      <ROA>9.43%</ROA>
-     <ROIC>0%</ROIC>
-     <ReturnOnNetTangAssets>na</ReturnOnNetTangAssets>
+     <ROIC>15.18%</ROIC>
+     <ReturnOnNetTangAssets>6.98%</ReturnOnNetTangAssets>
      <DebttoEquity>2.53</DebttoEquity>
      <DebttoCapital>0</DebttoCapital>
      <TotalAssets>£31.30bn</TotalAssets>
@@ -308,8 +308,8 @@
      <TangibleAssets>60.52bn</TangibleAssets>
      <NetTangibleAssets>14.75bn</NetTangibleAssets>
      <ROA>10.60%</ROA>
-     <ROIC>0%</ROIC>
-     <ReturnOnNetTangAssets>0%</ReturnOnNetTangAssets>
+     <ROIC>14.09%</ROIC>
+     <ReturnOnNetTangAssets>8.86%</ReturnOnNetTangAssets>
      <DebttoEquity>0.94(0.39)</DebttoEquity>
      <DebttoCapital>29.97%</DebttoCapital>
      <TotalAssets>98.60bn</TotalAssets>
@@ -329,8 +329,8 @@
      <TangibleAssets>90.5bn</TangibleAssets>
      <NetTangibleAssets>-9.62bn</NetTangibleAssets>
      <ROA>4.37%</ROA>
-    <ROIC>0%</ROIC>
-     <ReturnOnNetTangAssets>0%</ReturnOnNetTangAssets>
+     <ROIC>6.70%</ROIC>
+     <ReturnOnNetTangAssets>3.80%</ReturnOnNetTangAssets>
      <DebttoEquity>1.13</DebttoEquity>
      <DebttoCapital>36.96%</DebttoCapital>
      <TotalAssets>194bn</TotalAssets>
@@ -371,7 +371,7 @@
      <TangibleAssets>183.69m</TangibleAssets>
      <NetTangibleAssets>141.5m</NetTangibleAssets>
      <ROA>27.41%</ROA>
-    <ROIC>0%</ROIC>
+     <ROIC>0%</ROIC>
      <ReturnOnNetTangAssets>0%</ReturnOnNetTangAssets>
      <DebttoEquity>0.23</DebttoEquity>
      <DebttoCapital>18%</DebttoCapital>
@@ -434,8 +434,8 @@
      <TangibleAssets>7.35bn</TangibleAssets>
      <NetTangibleAssets>6.18bn</NetTangibleAssets>
      <ROA>14.34%</ROA>
-     <ROIC>0%</ROIC>
-     <ReturnOnNetTangAssets>0%</ReturnOnNetTangAssets>
+     <ROIC>15.33%</ROIC>
+     <ReturnOnNetTangAssets>13.50%</ReturnOnNetTangAssets>
      <DebttoEquity>0.17</DebttoEquity>
      <DebttoCapital>0</DebttoCapital>
      <TotalAssets>7.85bn</TotalAssets>
@@ -455,8 +455,8 @@
      <TangibleAssets>8.98bn</TangibleAssets>
      <NetTangibleAssets>7.54bn</NetTangibleAssets>
      <ROA>14.17%</ROA>
-    <ROIC>0%</ROIC>
-     <ReturnOnNetTangAssets>0%</ReturnOnNetTangAssets>
+     <ROIC>18.62%</ROIC>
+     <ReturnOnNetTangAssets>17.68%</ReturnOnNetTangAssets>
      <DebttoEquity>0.17</DebttoEquity>
      <DebttoCapital>0</DebttoCapital>
      <TotalAssets>9.7bn</TotalAssets>
@@ -518,8 +518,8 @@
     <TangibleAssets>236.78bn</TangibleAssets>
     <NetTangibleAssets>52.5bn</NetTangibleAssets>
     <ROA>13.83%</ROA>
-    <ROIC>0%</ROIC>
-    <ReturnOnNetTangAssets>75%</ReturnOnNetTangAssets>
+    <ROIC>23.47%</ROIC>
+    <ReturnOnNetTangAssets>11.09%</ReturnOnNetTangAssets>
     <DebttoEquity>1.8</DebttoEquity>
     <DebttoCapital>41.36%</DebttoCapital>
     <TotalAssets>286.56bn</TotalAssets>
@@ -539,8 +539,8 @@
     <TangibleAssets>50.61bn</TangibleAssets>
     <NetTangibleAssets>-(16.9bn)</NetTangibleAssets>
     <ROA>10%</ROA>
-    <ROIC>0%</ROIC>
-    <ReturnOnNetTangAssets>0</ReturnOnNetTangAssets>
+    <ROIC>15.47%</ROIC>
+    <ReturnOnNetTangAssets>9.66%</ReturnOnNetTangAssets>
     <DebttoEquity>1.42(0.46)</DebttoEquity>
     <DebttoCapital>38.74%</DebttoCapital>
     <TotalAssets>115.10bn</TotalAssets>
@@ -560,8 +560,8 @@
     <TangibleAssets>49.23bn</TangibleAssets>
     <NetTangibleAssets>-16.2bn</NetTangibleAssets>
     <ROA>8.33%</ROA>
-    <ROIC>0%</ROIC>
-    <ReturnOnNetTangAssets>0</ReturnOnNetTangAssets>
+    <ROIC>9.39%</ROIC>
+    <ReturnOnNetTangAssets>5.99%</ReturnOnNetTangAssets>
     <DebttoEquity>1.24</DebttoEquity>
     <DebttoCapital>37.17%</DebttoCapital>
     <TotalAssets>118.31</TotalAssets>
@@ -602,8 +602,8 @@
     <TangibleAssets>188.11bn</TangibleAssets>
     <NetTangibleAssets>48.5bn</NetTangibleAssets>
     <ROA>3.04%</ROA>
-    <ROIC>0%</ROIC>
-    <ReturnOnNetTangAssets>0%</ReturnOnNetTangAssets>
+    <ROIC>9.46%</ROIC>
+    <ReturnOnNetTangAssets>4.32%</ReturnOnNetTangAssets>
     <DebttoEquity>1.93</DebttoEquity>
     <DebttoCapital>49.99%</DebttoCapital>
     <TotalAssets>219.30bn</TotalAssets>
