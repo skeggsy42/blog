@@ -10,7 +10,7 @@
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>178bn</TangibleAssets>
     <NetTangibleAssets>133bn</NetTangibleAssets>
-    <ROA>11.89%</ROA>
+    <ROA>10.42%</ROA>
     <ROIC>12.52%</ROIC>
     <ReturnOnNetTangAssets>9.96%</ReturnOnNetTangAssets>
     <DebttoEquity>0.29</DebttoEquity>
@@ -31,7 +31,7 @@
     <IntrinsicValue>$1104</IntrinsicValue>
     <TangibleAssets>213bn</TangibleAssets>
     <NetTangibleAssets>157.5bn</NetTangibleAssets>
-    <ROA>10.96%</ROA>
+    <ROA>8.75%</ROA>
     <ROIC>10.74%</ROIC>
     <ReturnOnNetTangAssets>8.36%</ReturnOnNetTangAssets>
     <DebttoEquity>0.31</DebttoEquity>
@@ -52,7 +52,7 @@
     <IntrinsicValue>$1210</IntrinsicValue>
     <TangibleAssets>253bn</TangibleAssets>
     <NetTangibleAssets>179bn</NetTangibleAssets>
-    <ROA>12.45%</ROA>
+    <ROA>8.93%</ROA>
     <ROIC>11.31%</ROIC>
     <ReturnOnNetTangAssets>8.46%</ReturnOnNetTangAssets>
     <DebttoEquity>0.37</DebttoEquity>
@@ -73,7 +73,7 @@
     <IntrinsicValue>$418</IntrinsicValue>
     <TangibleAssets>148bn</TangibleAssets>
     <NetTangibleAssets>29bn</NetTangibleAssets>
-    <ROA>6.67%</ROA>
+    <ROA>7.95%</ROA>
     <ROIC>15.88%</ROIC>
     <ReturnOnNetTangAssets>6.05%</ReturnOnNetTangAssets>
     <DebttoEquity>2.73</DebttoEquity>
@@ -95,7 +95,7 @@
     <IntrinsicValue>$502</IntrinsicValue>
     <TangibleAssets>210bn</TangibleAssets>
     <NetTangibleAssets>47bn</NetTangibleAssets>
-    <ROA>6.19%</ROA>
+    <ROA>7.01%</ROA>
     <ROIC>15.24%</ROIC>
     <ReturnOnNetTangAssets>6.05%</ReturnOnNetTangAssets>
     <DebttoEquity>2.63</DebttoEquity>
@@ -116,7 +116,7 @@
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>343bn</TangibleAssets>
     <NetTangibleAssets>107bn</NetTangibleAssets>
-    <ROA>16.28%</ROA>
+    <ROA>15.39%</ROA>
     <ROIC>26.60%</ROIC>
     <ReturnOnNetTangAssets>11.72%</ReturnOnNetTangAssets>
     <DebttoEquity>2.41</DebttoEquity>
@@ -137,7 +137,7 @@
     <IntrinsicValue>$250</IntrinsicValue>
     <TangibleAssets>$306bn</TangibleAssets>
     <NetTangibleAssets>90.49bn</NetTangibleAssets>
-    <ROA>16.32%</ROA>
+    <ROA>15.50%</ROA>
     <ROIC>26.71%</ROIC>
     <ReturnOnNetTangAssets>11.51%</ReturnOnNetTangAssets>
     <DebttoEquity>2.74</DebttoEquity>
@@ -158,7 +158,7 @@
     <IntrinsicValue>$213</IntrinsicValue>
     <TangibleAssets>595bn</TangibleAssets>
     <NetTangibleAssets>240bn</NetTangibleAssets>
-    <ROA>3.29%</ROA>
+    <ROA>4.12%</ROA>
     <ROIC>7.16%</ROIC>
     <ReturnOnNetTangAssets>3.77%</ReturnOnNetTangAssets>
     <DebttoEquity>1.01</DebttoEquity>
@@ -180,7 +180,7 @@
     <IntrinsicValue>$238</IntrinsicValue>
     <TangibleAssets>705bn</TangibleAssets>
     <NetTangibleAssets>315bn</NetTangibleAssets>
-    <ROA>0%</ROA>
+    <ROA>3.46%</ROA>
     <ROIC>5.91%</ROIC>
     <ReturnOnNetTangAssets>3.18%</ReturnOnNetTangAssets>
     <DebttoEquity>0.91</DebttoEquity>
@@ -202,7 +202,7 @@
     <IntrinsicValue>£28.75</IntrinsicValue>
     <TangibleAssets>22.33bn</TangibleAssets>
     <NetTangibleAssets>-58bn</NetTangibleAssets>
-    <ROA>4.54%</ROA>
+    <ROA>%</ROA>
     <ROIC>6.85%</ROIC>
     <ReturnOnNetTangAssets>9.52%</ReturnOnNetTangAssets>
     <DebttoEquity>1.23</DebttoEquity>
@@ -223,7 +223,7 @@
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>65m</TangibleAssets>
     <NetTangibleAssets>27m</NetTangibleAssets>
-    <ROA>4.30%</ROA>
+    <ROA>%</ROA>
     <ROIC>19.16%</ROIC>
     <ReturnOnNetTangAssets>17.06</ReturnOnNetTangAssets>
     <DebttoEquity>0.43</DebttoEquity>
@@ -244,7 +244,7 @@
     <IntrinsicValue>£24.36</IntrinsicValue>
     <TangibleAssets>67m</TangibleAssets>
     <NetTangibleAssets>37m</NetTangibleAssets>
-    <ROA>4.89%</ROA>
+    <ROA>%</ROA>
     <ROIC>24.23%</ROIC>
     <ReturnOnNetTangAssets>22.04%</ReturnOnNetTangAssets>
     <DebttoEquity>0.34</DebttoEquity>
@@ -265,7 +265,7 @@
     <IntrinsicValue>$28.95</IntrinsicValue>
     <TangibleAssets>106.5bn</TangibleAssets>
     <NetTangibleAssets>42bn</NetTangibleAssets>
-    <ROA>5.44%</ROA>
+    <ROA>6.64%</ROA>
     <ROIC>14.59%</ROIC>
     <ReturnOnNetTangAssets>4.92%</ReturnOnNetTangAssets>
     <DebttoEquity>3.37(0.91)</DebttoEquity>
@@ -286,7 +286,7 @@
      <IntrinsicValue>£31.78</IntrinsicValue>
      <TangibleAssets>£18.7bn</TangibleAssets>
      <NetTangibleAssets>£(2.4)bn</NetTangibleAssets>
-     <ROA>9.43%</ROA>
+     <ROA>%</ROA>
      <ROIC>15.18%</ROIC>
      <ReturnOnNetTangAssets>6.98%</ReturnOnNetTangAssets>
      <DebttoEquity>2.53</DebttoEquity>
@@ -307,7 +307,7 @@
      <IntrinsicValue>$78.87</IntrinsicValue>
      <TangibleAssets>60.52bn</TangibleAssets>
      <NetTangibleAssets>14.75bn</NetTangibleAssets>
-     <ROA>10.60%</ROA>
+     <ROA>10.40%</ROA>
      <ROIC>14.09%</ROIC>
      <ReturnOnNetTangAssets>8.86%</ReturnOnNetTangAssets>
      <DebttoEquity>0.94(0.39)</DebttoEquity>
@@ -349,7 +349,7 @@
      <IntrinsicValue>0</IntrinsicValue>
      <TangibleAssets>77.74bn</TangibleAssets>
      <NetTangibleAssets>0</NetTangibleAssets>
-     <ROA>22.72%</ROA>
+     <ROA>%</ROA>
      <ROIC>0%</ROIC>
      <ReturnOnNetTangAssets>0</ReturnOnNetTangAssets>
      <DebttoEquity>0.16</DebttoEquity>
@@ -370,7 +370,7 @@
      <IntrinsicValue>£13.20</IntrinsicValue>
      <TangibleAssets>183.69m</TangibleAssets>
      <NetTangibleAssets>141.5m</NetTangibleAssets>
-     <ROA>27.41%</ROA>
+     <ROA>%</ROA>
      <ROIC>27.86%</ROIC>
      <ReturnOnNetTangAssets>23.38%</ReturnOnNetTangAssets>
      <DebttoEquity>0.23</DebttoEquity>
@@ -412,7 +412,7 @@
     <IntrinsicValue>$130</IntrinsicValue>
     <TangibleAssets>84bn</TangibleAssets>
     <NetTangibleAssets>-22bn</NetTangibleAssets>
-    <ROA>7.07%</ROA>
+    <ROA>7.90%</ROA>
     <ROIC>28.02%</ROIC>
     <ReturnOnNetTangAssets>6.95%</ReturnOnNetTangAssets>
     <DebttoEquity>6.34(0.58)</DebttoEquity>
@@ -433,7 +433,7 @@
      <IntrinsicValue>$218</IntrinsicValue>
      <TangibleAssets>7.35bn</TangibleAssets>
      <NetTangibleAssets>6.18bn</NetTangibleAssets>
-     <ROA>14.34%</ROA>
+     <ROA>%</ROA>
      <ROIC>15.33%</ROIC>
      <ReturnOnNetTangAssets>13.50%</ReturnOnNetTangAssets>
      <DebttoEquity>0.17</DebttoEquity>
@@ -454,7 +454,7 @@
      <IntrinsicValue>$250</IntrinsicValue>
      <TangibleAssets>8.98bn</TangibleAssets>
      <NetTangibleAssets>7.54bn</NetTangibleAssets>
-     <ROA>14.17%</ROA>
+     <ROA>%</ROA>
      <ROIC>18.62%</ROIC>
      <ReturnOnNetTangAssets>17.68%</ReturnOnNetTangAssets>
      <DebttoEquity>0.17</DebttoEquity>
@@ -475,7 +475,7 @@
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>72bn</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
-    <ROA>9.61%</ROA>
+    <ROA>%</ROA>
     <ROIC>0%</ROIC>
     <ReturnOnNetTangAssets>0</ReturnOnNetTangAssets>
     <DebttoEquity>0</DebttoEquity>
@@ -517,7 +517,7 @@
     <IntrinsicValue>$97.57</IntrinsicValue>
     <TangibleAssets>236.78bn</TangibleAssets>
     <NetTangibleAssets>52.5bn</NetTangibleAssets>
-    <ROA>13.83%</ROA>
+    <ROA>%</ROA>
     <ROIC>23.47%</ROIC>
     <ReturnOnNetTangAssets>11.09%</ReturnOnNetTangAssets>
     <DebttoEquity>1.8</DebttoEquity>
@@ -538,7 +538,7 @@
     <IntrinsicValue>$58</IntrinsicValue>
     <TangibleAssets>50.61bn</TangibleAssets>
     <NetTangibleAssets>-(16.9bn)</NetTangibleAssets>
-    <ROA>10%</ROA>
+    <ROA>%</ROA>
     <ROIC>15.47%</ROIC>
     <ReturnOnNetTangAssets>9.66%</ReturnOnNetTangAssets>
     <DebttoEquity>1.42(0.46)</DebttoEquity>
@@ -559,7 +559,7 @@
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>49.23bn</TangibleAssets>
     <NetTangibleAssets>-16.2bn</NetTangibleAssets>
-    <ROA>8.33%</ROA>
+    <ROA>%</ROA>
     <ROIC>9.39%</ROIC>
     <ReturnOnNetTangAssets>5.99%</ReturnOnNetTangAssets>
     <DebttoEquity>1.24</DebttoEquity>
@@ -580,7 +580,7 @@
     <IntrinsicValue>£8.58</IntrinsicValue>
     <TangibleAssets>23.55bn</TangibleAssets>
     <NetTangibleAssets>4.05bn</NetTangibleAssets>
-    <ROA>5.56%</ROA>
+    <ROA>%</ROA>
     <ROIC>0.89%</ROIC>
     <ReturnOnNetTangAssets>-0.76%</ReturnOnNetTangAssets>
     <DebttoEquity>3.34</DebttoEquity>
@@ -601,7 +601,7 @@
     <IntrinsicValue>$94</IntrinsicValue>
     <TangibleAssets>188.11bn</TangibleAssets>
     <NetTangibleAssets>48.5bn</NetTangibleAssets>
-    <ROA>3.04%</ROA>
+    <ROA>%</ROA>
     <ROIC>9.46%</ROIC>
     <ReturnOnNetTangAssets>4.32%</ReturnOnNetTangAssets>
     <DebttoEquity>1.93</DebttoEquity>
