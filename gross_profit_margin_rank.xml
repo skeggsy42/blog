@@ -259,23 +259,44 @@
   <STOCK>
     <NAME>Coca Cola</NAME>
     <MarketValueYE>200bn</MarketValueYE>
-    <BookValue>59.6bn</BookValue>
+    <BookValue>19.06bn</BookValue>
     <NetIncome>6.7bn</NetIncome>
-    <OwnerEarnings>8.8bn</OwnerEarnings>
+    <OwnerEarnings>6.6bn</OwnerEarnings>
     <IntrinsicValue>$28.95</IntrinsicValue>
-    <TangibleAssets>106.5bn</TangibleAssets>
-    <NetTangibleAssets>42bn</NetTangibleAssets>
-    <ROA>6.64%</ROA>
-    <ROIC>14.59%</ROIC>
-    <ReturnOnNetTangAssets>4.92%</ReturnOnNetTangAssets>
+    <TangibleAssets>66bn</TangibleAssets>
+    <NetTangibleAssets>bn</NetTangibleAssets>
+    <ROA>7.92%</ROA>
+    <ROIC>11.99%</ROIC>
+    <ReturnOnNetTangAssets>5.21%</ReturnOnNetTangAssets>
     <DebttoEquity>3.37(0.91)</DebttoEquity>
     <DebttoCapital>70%</DebttoCapital>
-    <TotalAssets>123.72bn</TotalAssets>
+    <TotalAssets>83.22bn</TotalAssets>
     <GROSSPROFITMARGIN>63%</GROSSPROFITMARGIN>
     <OPERATINGPROFITMARGIN>27.31%</OPERATINGPROFITMARGIN>
     <PRETAXPROFITMARGIN>26.21%</PRETAXPROFITMARGIN>
     <NETPROFITMARGIN>21.12%</NETPROFITMARGIN>
     <YEAR>2018</YEAR>
+  </STOCK>
+  <STOCK>
+    <NAME>Coca Cola</NAME>
+    <MarketValueYE>207bn</MarketValueYE>
+    <BookValue>21.1bn</BookValue>
+    <NetIncome>9bn</NetIncome>
+    <OwnerEarnings>7bn</OwnerEarnings>
+    <IntrinsicValue>$34</IntrinsicValue>
+    <TangibleAssets>59.7bn</TangibleAssets>
+    <NetTangibleAssets>bn</NetTangibleAssets>
+    <ROA>8.15%</ROA>
+    <ROIC>11.03%</ROIC>
+    <ReturnOnNetTangAssets>5.48%</ReturnOnNetTangAssets>
+    <DebttoEquity>3.09(0.89)</DebttoEquity>
+    <DebttoCapital>67%</DebttoCapital>
+    <TotalAssets>86.38bn</TotalAssets>
+    <GROSSPROFITMARGIN>60.77%</GROSSPROFITMARGIN>
+    <OPERATINGPROFITMARGIN>27.06%</OPERATINGPROFITMARGIN>
+    <PRETAXPROFITMARGIN>28.94%</PRETAXPROFITMARGIN>
+    <NETPROFITMARGIN>24.11%</NETPROFITMARGIN>
+    <YEAR>2019</YEAR>
   </STOCK>
    <STOCK>
     <NAME>Diageo</NAME>
