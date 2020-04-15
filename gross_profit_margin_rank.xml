@@ -490,23 +490,65 @@
   <STOCK>
     <NAME>JNJ</NAME>
     <MarketValueYE>374bn</MarketValueYE>
-    <BookValue>0</BookValue>
-    <NetIncome>0</NetIncome>
-    <OwnerEarnings>0</OwnerEarnings>
+    <BookValue>60bn</BookValue>
+    <NetIncome>14bn</NetIncome>
+    <OwnerEarnings>15bn</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>72bn</TangibleAssets>
     <NetTangibleAssets>0</NetTangibleAssets>
-    <ROA>%</ROA>
-    <ROIC>0%</ROIC>
-    <ReturnOnNetTangAssets>0</ReturnOnNetTangAssets>
-    <DebttoEquity>0</DebttoEquity>
-    <DebttoCapital>0</DebttoCapital>
+    <ROA>9.75%</ROA>
+    <ROIC>16.12%</ROIC>
+    <ReturnOnNetTangAssets>14.74%</ReturnOnNetTangAssets>
+    <DebttoEquity>1.61</DebttoEquity>
+    <DebttoCapital>0.37</DebttoCapital>
     <TotalAssets>157.30bn</TotalAssets>
-    <GROSSPROFITMARGIN>67%</GROSSPROFITMARGIN>
-    <OPERATINGPROFITMARGIN>23%</OPERATINGPROFITMARGIN>
-    <PRETAXPROFITMARGIN>0%</PRETAXPROFITMARGIN>
+    <GROSSPROFITMARGIN>66.84%</GROSSPROFITMARGIN>
+    <OPERATINGPROFITMARGIN>22.51%</OPERATINGPROFITMARGIN>
+    <PRETAXPROFITMARGIN>22.51%</PRETAXPROFITMARGIN>
     <NETPROFITMARGIN>18.71%</NETPROFITMARGIN>
     <YEAR>2017</YEAR>
+  </STOCK>
+   <STOCK>
+    <NAME>JNJ</NAME>
+    <MarketValueYE>334bn</MarketValueYE>
+    <BookValue>59.7bn</BookValue>
+    <NetIncome>15bn</NetIncome>
+    <OwnerEarnings>19bn</OwnerEarnings>
+    <IntrinsicValue>$105</IntrinsicValue>
+    <TangibleAssets>75bn</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
+    <ROA>12.35%</ROA>
+    <ROIC>18.30%</ROIC>
+    <ReturnOnNetTangAssets>17.93%</ReturnOnNetTangAssets>
+    <DebttoEquity>1.56</DebttoEquity>
+    <DebttoCapital>0.39</DebttoCapital>
+    <TotalAssets>153bn</TotalAssets>
+    <GROSSPROFITMARGIN>66.79%</GROSSPROFITMARGIN>
+    <OPERATINGPROFITMARGIN>20.87%</OPERATINGPROFITMARGIN>
+    <PRETAXPROFITMARGIN>22.06%</PRETAXPROFITMARGIN>
+    <NETPROFITMARGIN>18.75%</NETPROFITMARGIN>
+    <YEAR>2018</YEAR>
+  </STOCK>
+   <STOCK>
+    <NAME>JNJ</NAME>
+    <MarketValueYE>363bn</MarketValueYE>
+    <BookValue>59.5bn</BookValue>
+    <NetIncome>15bn</NetIncome>
+    <OwnerEarnings>20bn</OwnerEarnings>
+    <IntrinsicValue>$110</IntrinsicValue>
+    <TangibleAssets>76bn</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
+    <ROA>13.14%</ROA>
+    <ROIC>21.29%</ROIC>
+    <ReturnOnNetTangAssets>18.83%</ReturnOnNetTangAssets>
+    <DebttoEquity>1.65</DebttoEquity>
+    <DebttoCapital>0.38</DebttoCapital>
+    <TotalAssets>157bn</TotalAssets>
+    <GROSSPROFITMARGIN>66.79%</GROSSPROFITMARGIN>
+    <OPERATINGPROFITMARGIN>20.57%</OPERATINGPROFITMARGIN>
+    <PRETAXPROFITMARGIN>21.12%</PRETAXPROFITMARGIN>
+    <NETPROFITMARGIN>18.42%</NETPROFITMARGIN>
+    <YEAR>2019</YEAR>
   </STOCK>
   <STOCK>
     <NAME>Medtronic</NAME>
