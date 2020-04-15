@@ -495,7 +495,7 @@
     <OwnerEarnings>15bn</OwnerEarnings>
     <IntrinsicValue>0</IntrinsicValue>
     <TangibleAssets>72bn</TangibleAssets>
-    <NetTangibleAssets>0</NetTangibleAssets>
+    <NetTangibleAssets>-25bn</NetTangibleAssets>
     <ROA>9.75%</ROA>
     <ROIC>16.12%</ROIC>
     <ReturnOnNetTangAssets>14.74%</ReturnOnNetTangAssets>
@@ -516,7 +516,7 @@
     <OwnerEarnings>19bn</OwnerEarnings>
     <IntrinsicValue>$105</IntrinsicValue>
     <TangibleAssets>75bn</TangibleAssets>
-    <NetTangibleAssets>0</NetTangibleAssets>
+    <NetTangibleAssets>-18bn</NetTangibleAssets>
     <ROA>12.35%</ROA>
     <ROIC>18.30%</ROIC>
     <ReturnOnNetTangAssets>17.93%</ReturnOnNetTangAssets>
@@ -537,7 +537,7 @@
     <OwnerEarnings>20bn</OwnerEarnings>
     <IntrinsicValue>$110</IntrinsicValue>
     <TangibleAssets>76bn</TangibleAssets>
-    <NetTangibleAssets>0</NetTangibleAssets>
+    <NetTangibleAssets>-22bn</NetTangibleAssets>
     <ROA>13.14%</ROA>
     <ROIC>21.29%</ROIC>
     <ReturnOnNetTangAssets>18.83%</ReturnOnNetTangAssets>
