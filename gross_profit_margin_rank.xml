@@ -283,7 +283,7 @@
     <BookValue>21.1bn</BookValue>
     <NetIncome>9bn</NetIncome>
     <OwnerEarnings>7bn</OwnerEarnings>
-    <IntrinsicValue>$34</IntrinsicValue>
+    <IntrinsicValue>$37</IntrinsicValue>
     <TangibleAssets>59.7bn</TangibleAssets>
     <NetTangibleAssets>bn</NetTangibleAssets>
     <ROA>8.15%</ROA>
@@ -472,7 +472,7 @@
      <BookValue>8.3bn</BookValue>
      <NetIncome>1.379bn</NetIncome>
      <OwnerEarnings>1.558bn</OwnerEarnings>
-     <IntrinsicValue>$250</IntrinsicValue>
+     <IntrinsicValue>$299</IntrinsicValue>
      <TangibleAssets>8.98bn</TangibleAssets>
      <NetTangibleAssets>7.54bn</NetTangibleAssets>
      <ROA>16.01%</ROA>
@@ -572,12 +572,75 @@
     <YEAR>2017</YEAR>
   </STOCK>
   <STOCK>
+    <NAME>Medtronic</NAME>
+    <MarketValueYE>114bn</MarketValueYE>
+    <BookValue>50bn</BookValue>
+    <NetIncome>4bn</NetIncome>
+    <OwnerEarnings>5.7bn</OwnerEarnings>
+    <IntrinsicValue>0</IntrinsicValue>
+    <TangibleAssets>0</TangibleAssets>
+    <NetTangibleAssets>0</NetTangibleAssets>
+    <ROA>5.7%</ROA>
+    <ROIC>7.93%</ROIC>
+    <ReturnOnNetTangAssets>5.18%</ReturnOnNetTangAssets>
+    <DebttoEquity>0.66</DebttoEquity>
+    <DebttoCapital>39.94%</DebttoCapital>
+    <TotalAssets>99bn</TotalAssets>
+    <GROSSPROFITMARGIN>69%</GROSSPROFITMARGIN>
+    <OPERATINGPROFITMARGIN>18%</OPERATINGPROFITMARGIN>
+    <PRETAXPROFITMARGIN>15%</PRETAXPROFITMARGIN>
+    <NETPROFITMARGIN>13.54%</NETPROFITMARGIN>
+    <YEAR>2017</YEAR>
+  </STOCK>
+  <STOCK>
+    <NAME>Medtronic</NAME>
+    <MarketValueYE>105bn</MarketValueYE>
+    <BookValue>50bn</BookValue>
+    <NetIncome>3.1bn</NetIncome>
+    <OwnerEarnings>7.4bn</OwnerEarnings>
+    <IntrinsicValue>$0</IntrinsicValue>
+    <TangibleAssets>30bn</TangibleAssets>
+    <NetTangibleAssets>71bn</NetTangibleAssets>
+    <ROA>8.11%</ROA>
+    <ROIC>10.51%</ROIC>
+    <ReturnOnNetTangAssets>7.77%</ReturnOnNetTangAssets>
+    <DebttoEquity>0.51</DebttoEquity>
+    <DebttoCapital>33.68%</DebttoCapital>
+    <TotalAssets>91bn</TotalAssets>
+    <GROSSPROFITMARGIN>70%</GROSSPROFITMARGIN>
+    <OPERATINGPROFITMARGIN>22%</OPERATINGPROFITMARGIN>
+    <PRETAXPROFITMARGIN>19%</PRETAXPROFITMARGIN>
+    <NETPROFITMARGIN>10%</NETPROFITMARGIN>
+    <YEAR>2018</YEAR>
+  </STOCK>
+  <STOCK>
+    <NAME>Medtronic</NAME>
+    <MarketValueYE>117bn</MarketValueYE>
+    <BookValue>50bn</BookValue>
+    <NetIncome>4.6bn</NetIncome>
+    <OwnerEarnings>6bn</OwnerEarnings>
+    <IntrinsicValue>$63</IntrinsicValue>
+    <TangibleAssets>29bn</TangibleAssets>
+    <NetTangibleAssets>69bn</NetTangibleAssets>
+    <ROA>6.64%</ROA>
+    <ROIC>9.61%</ROIC>
+    <ReturnOnNetTangAssets>6.31%</ReturnOnNetTangAssets>
+    <DebttoEquity>0.79</DebttoEquity>
+    <DebttoCapital>33.58%</DebttoCapital>
+    <TotalAssets>90bn</TotalAssets>
+    <GROSSPROFITMARGIN>70%</GROSSPROFITMARGIN>
+    <OPERATINGPROFITMARGIN>20.51%</OPERATINGPROFITMARGIN>
+    <PRETAXPROFITMARGIN>17%</PRETAXPROFITMARGIN>
+    <NETPROFITMARGIN>15.22%</NETPROFITMARGIN>
+    <YEAR>2019</YEAR>
+  </STOCK>
+  <STOCK>
     <NAME>Microsoft</NAME>
     <MarketValueYE>1028bn</MarketValueYE>
     <BookValue>102.3bn</BookValue>
     <NetIncome>39.2bn</NetIncome>
     <OwnerEarnings>39.6bn</OwnerEarnings>
-    <IntrinsicValue>$97.57</IntrinsicValue>
+    <IntrinsicValue>$129.76</IntrinsicValue>
     <TangibleAssets>236.78bn</TangibleAssets>
     <NetTangibleAssets>52.5bn</NetTangibleAssets>
     <ROA>13.83%</ROA>
