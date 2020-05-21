@@ -97,6 +97,10 @@
     <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>Instant Family</TITLE>
+    <MYRATING>9</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>Interstella</TITLE>
     <MYRATING>10</MYRATING>
   </FILM>
@@ -110,6 +114,10 @@
   </FILM>
   <FILM>
     <TITLE>The Mirror</TITLE>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Mulholland Drive</TITLE>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
@@ -133,8 +141,20 @@
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>The Big Sleep</TITLE>
+    <MYRATING>0</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>The Dead Don't Die</TITLE>
+    <MYRATING>9</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>The Garden of Words</TITLE>
     <MYRATING>9</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>The Grand Budapest Hotel</TITLE>
+    <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Jungle Book</TITLE>
@@ -148,9 +168,17 @@
     <TITLE>The Maltese Falcon</TITLE>
     <MYRATING>9</MYRATING>
   </FILM>
+  <FILM>
+    <TITLE>The Martian</TITLE>
+    <MYRATING>0</MYRATING>
+  </FILM>
    <FILM>
     <TITLE>The Place Promised in Our Early Days</TITLE>
     <MYRATING>7</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>The Shining</TITLE>
+    <MYRATING>10</MYRATING>
   </FILM>
    <FILM>
     <TITLE>Total Recall</TITLE>
