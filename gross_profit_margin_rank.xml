@@ -656,6 +656,27 @@
     <YEAR>2019</YEAR>
   </STOCK>
   <STOCK>
+    <NAME>NVidia</NAME>
+    <MarketValueYE>110bn</MarketValueYE>
+    <BookValue>12bnbn</BookValue>
+    <NetIncome>2.8bn</NetIncome>
+    <OwnerEarnings>2.6bn</OwnerEarnings>
+    <IntrinsicValue>139$</IntrinsicValue>
+    <TangibleAssets>bn</TangibleAssets>
+    <NetTangibleAssets>bn</NetTangibleAssets>
+    <ROA>14.78%</ROA>
+    <ROIC>19.99%</ROIC>
+    <ReturnOnNetTangAssets>14.52%</ReturnOnNetTangAssets>
+    <DebttoEquity>0</DebttoEquity>
+    <DebttoCapital>%</DebttoCapital>
+    <TotalAssets>bn</TotalAssets>
+    <GROSSPROFITMARGIN>62%</GROSSPROFITMARGIN>
+    <OPERATINGPROFITMARGIN>26%</OPERATINGPROFITMARGIN>
+    <PRETAXPROFITMARGIN>0%</PRETAXPROFITMARGIN>
+    <NETPROFITMARGIN>25.61%</NETPROFITMARGIN>
+    <YEAR>2020</YEAR>
+  </STOCK>
+  <STOCK>
     <NAME>PG</NAME>
     <MarketValueYE>273bn</MarketValueYE>
     <BookValue>47.6bn</BookValue>
