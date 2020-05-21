@@ -723,13 +723,13 @@
     <MarketValueYE>281bn</MarketValueYE>
     <BookValue>76.6bn</BookValue>
     <NetIncome>6.6bn</NetIncome>
-    <OwnerEarnings>12.12bn</OwnerEarnings>
+    <OwnerEarnings>17.2bn</OwnerEarnings>
     <IntrinsicValue>$94</IntrinsicValue>
     <TangibleAssets>188.11bn</TangibleAssets>
     <NetTangibleAssets>48.5bn</NetTangibleAssets>
-    <ROA>5.53%</ROA>
-    <ROIC>9.46%</ROIC>
-    <ReturnOnNetTangAssets>4.32%</ReturnOnNetTangAssets>
+    <ROA>7.83%</ROA>
+    <ROIC>12.97%</ROIC>
+    <ReturnOnNetTangAssets>6.10%</ReturnOnNetTangAssets>
     <DebttoEquity>1.93</DebttoEquity>
     <DebttoCapital>49.99%</DebttoCapital>
     <TotalAssets>219.30bn</TotalAssets>
@@ -738,5 +738,26 @@
     <PRETAXPROFITMARGIN>2.25%</PRETAXPROFITMARGIN>
     <NETPROFITMARGIN>1.31%</NETPROFITMARGIN>
     <YEAR>2019</YEAR>
+  </STOCK>
+  <STOCK>
+    <NAME>Walmart</NAME>
+    <MarketValueYE>289bn</MarketValueYE>
+    <BookValue>81.5bn</BookValue>
+    <NetIncome>14.8bn</NetIncome>
+    <OwnerEarnings>15.3bn</OwnerEarnings>
+    <IntrinsicValue>$95</IntrinsicValue>
+    <TangibleAssets>205bn</TangibleAssets>
+    <NetTangibleAssets>50.5bn</NetTangibleAssets>
+    <ROA>6.48%</ROA>
+    <ROIC>11.27%</ROIC>
+    <ReturnOnNetTangAssets>5.00%</ReturnOnNetTangAssets>
+    <DebttoEquity>2.08</DebttoEquity>
+    <DebttoCapital>56%</DebttoCapital>
+    <TotalAssets>236bn</TotalAssets>
+    <GROSSPROFITMARGIN>25%</GROSSPROFITMARGIN>
+    <OPERATINGPROFITMARGIN>3.96%</OPERATINGPROFITMARGIN>
+    <PRETAXPROFITMARGIN>3.87%</PRETAXPROFITMARGIN>
+    <NETPROFITMARGIN>2.86%</NETPROFITMARGIN>
+    <YEAR>2020</YEAR>
   </STOCK>
 </CATALOG>
