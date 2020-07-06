@@ -74,7 +74,7 @@
   </FILM>
   <FILM>
     <TITLE>Chappie</TITLE>
-    <COST>0</COST>
+    <COST>1.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
   </FILM>
@@ -117,7 +117,7 @@
  <FILM>
   <TITLE>Harry Potter and the chamber of secrets</TITLE>
     <MYRATING>7</MYRATING>
-    <COST>0</COST>
+    <COST>26.99</COST>
     <LOCATION>GOOG</LOCATION>
   </FILM>
   <FILM>
@@ -188,7 +188,7 @@
   </FILM>
   <FILM>
     <TITLE>The Mirror</TITLE>
-    <COST>0</COST>
+    <COST>11.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
@@ -260,7 +260,7 @@
   </FILM>
     <FILM>
     <TITLE>The Maltese Falcon</TITLE>
-    <COST>0</COST>
+    <COST>4.99</COST>
     <LOCATION>GOOG</LOCATION>
       <MYRATING>9</MYRATING>
   </FILM>
