@@ -2,13 +2,13 @@
 <CATALOG>
   <FILM>
     <TITLE>A Scanner Darkly</TITLE>
-    <COST>0</COST>
+    <COST>5.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Alien</TITLE>
-    <COST>0</COST>
+    <COST>4.49</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
@@ -32,43 +32,43 @@
   </FILM>
   <FILM>
     <TITLE>Asphalt Jungle</TITLE>
-    <COST>0</COST>
+    <COST>7.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Big hero 6</TITLE>
-    <COST>0</COST>
+    <COST>9.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Blade Runner</TITLE>
-    <COST>0</COST>
+    <COST>3.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Blade Runner 2049</TITLE>
-    <COST>0</COST>
+    <COST>2.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Bram Stokers Dracula</TITLE>
-    <COST>0</COST>
+    <COST>4.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Captain America Civil War</TITLE>
-    <COST>0</COST>
+    <COST>6.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Casablanca</TITLE>
-    <COST>0</COST>
+    <COST>5.39</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
@@ -80,9 +80,15 @@
   </FILM>
   <FILM>
     <TITLE>Ex_Machina</TITLE>
-    <COST>0</COST>
+    <COST>13.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Far from Heaven</TITLE>
+    <COST>7.99</COST>
+    <LOCATION>GOOG</LOCATION>
+    <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Fast and Furious</TITLE>
@@ -92,13 +98,19 @@
   </FILM>
   <FILM>
     <TITLE>Fight Club</TITLE>
-    <COST>0</COST>
+    <COST>1.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
+  <FILM>
+    <TITLE>Gattaca</TITLE>
+    <COST>3.99</COST>
+    <LOCATION>GOOG</LOCATION>
+    <MYRATING>0</MYRATING>
+  </FILM>
 <FILM>
     <TITLE>Guardians of the galaxy</TITLE>
-    <COST>0</COST>
+    <COST>6.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
@@ -139,6 +151,12 @@
     <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>I, Robot</TITLE>
+    <COST>1.99</COST>
+    <LOCATION>GOOG</LOCATION>
+    <MYRATING>0</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>Iceage</TITLE>
     <COST>0</COST>
     <LOCATION>GOOG</LOCATION>
@@ -146,25 +164,25 @@
   </FILM>
   <FILM>
     <TITLE>Instant Family</TITLE>
-    <COST>0</COST>
+    <COST>4.49</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Interstella</TITLE>
-    <COST>0</COST>
+    <COST>11.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Lost in translation</TITLE>
-    <COST>0</COST>
+    <COST>3.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Minority Report</TITLE>
-    <COST>0</COST>
+    <COST>6.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
@@ -176,67 +194,67 @@
   </FILM>
   <FILM>
     <TITLE>Niagara</TITLE>
-    <COST>0</COST>
+    <COST>3.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Nostalgia</TITLE>
-    <COST>0</COST>
+    <COST>5.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Star Wars Rogue One</TITLE>
-    <COST>0</COST>
+    <COST>7.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Solaris (1972)</TITLE>
-    <COST>0</COST>
+    <COST>11.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Stalker</TITLE>
-    <COST>0</COST>
+    <COST>4.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Big Sleep</TITLE>
-    <COST>0</COST>
+    <COST>3.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Dead Don't Die</TITLE>
-    <COST>0</COST>
+    <COST>6.49</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Garden of Words</TITLE>
-    <COST>0</COST>
+    <COST>4.49</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Grand Budapest Hotel</TITLE>
-    <COST>0</COST>
+    <COST>2.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Jungle Book</TITLE>
-    <COST>0</COST>
+    <COST>13.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Karate Kid</TITLE>
-    <COST>0</COST>
+    <COST>3.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
@@ -248,43 +266,43 @@
   </FILM>
   <FILM>
     <TITLE>The Martian</TITLE>
-    <COST>0</COST>
+    <COST>2.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>0</MYRATING>
   </FILM>
    <FILM>
     <TITLE>The Place Promised in Our Early Days</TITLE>
-    <COST>0</COST>
+    <COST>4.49</COST>
     <LOCATION>GOOG</LOCATION>
      <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Sacrifice</TITLE>
-    <COST>0</COST>
+    <COST>4.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Shining</TITLE>
-    <COST>0</COST>
+    <COST>4.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
   </FILM>
    <FILM>
     <TITLE>Total Recall</TITLE>
-    <COST>0</COST>
+    <COST>9.99</COST>
     <LOCATION>GOOG</LOCATION>
      <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Toy Story 3</TITLE>
-    <COST>0</COST>
+    <COST>13.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Your Name</TITLE>
-    <COST>0</COST>
+    <COST>6.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
