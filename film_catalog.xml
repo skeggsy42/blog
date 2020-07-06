@@ -2,198 +2,290 @@
 <CATALOG>
   <FILM>
     <TITLE>A Scanner Darkly</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Alien</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
     <FILM>
     <TITLE>Alien 3</TITLE>
+     <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Alien Resurrection</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Aliens</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Asphalt Jungle</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Big hero 6</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Blade Runner</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Blade Runner 2049</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Bram Stokers Dracula</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Captain America Civil War</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Casablanca</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Chappie</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Ex_Machina</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Fast and Furious</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Fight Club</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
 <FILM>
     <TITLE>Guardians of the galaxy</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
  <FILM>
   <TITLE>Harry Potter and the chamber of secrets</TITLE>
     <MYRATING>7</MYRATING>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
   </FILM>
   <FILM>
     <TITLE>Harry Potter and the deathly hallows</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Harry Potter and the goblet of fire</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Harry Potter and the halfblood prince</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Harry Potter and the order of the phoenix</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Harry Potter and the prisoner of azkaban</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Iceage</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Instant Family</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Interstella</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Lost in translation</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Minority Report</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Mirror</TITLE>
-    <MYRATING>8</MYRATING>
-  </FILM>
-  <FILM>
-    <TITLE>Mulholland Drive</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Niagara</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Nostalgia</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Star Wars Rogue One</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Solaris (1972)</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Stalker</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Big Sleep</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Dead Don't Die</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Garden of Words</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Grand Budapest Hotel</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Jungle Book</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Karate Kid</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
     <FILM>
     <TITLE>The Maltese Falcon</TITLE>
-    <MYRATING>9</MYRATING>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
+      <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Martian</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>0</MYRATING>
   </FILM>
    <FILM>
     <TITLE>The Place Promised in Our Early Days</TITLE>
-    <MYRATING>7</MYRATING>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
+     <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Sacrifice</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Shining</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
   </FILM>
    <FILM>
     <TITLE>Total Recall</TITLE>
-    <MYRATING>8</MYRATING>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
+     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Toy Story 3</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Your Name</TITLE>
+    <COST>0</COST>
+    <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
  </CATALOG>
