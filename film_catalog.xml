@@ -37,6 +37,12 @@
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>Battale Royale</TITLE>
+    <COST>1</COST>
+    <LOCATION>Blu-ray</LOCATION>
+    <MYRATING>10</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>Big hero 6</TITLE>
     <COST>9.99</COST>
     <LOCATION>GOOG</LOCATION>
@@ -88,7 +94,7 @@
     <TITLE>Far from Heaven</TITLE>
     <COST>7.99</COST>
     <LOCATION>GOOG</LOCATION>
-    <MYRATING>0</MYRATING>
+    <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Fast and Furious</TITLE>
@@ -228,6 +234,12 @@
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
+   <FILM>
+    <TITLE>Stalker (Criterion Collection)</TITLE>
+    <COST>17.99</COST>
+    <LOCATION>Blu-ray</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
   <FILM>
     <TITLE>The Big Sleep</TITLE>
     <COST>3.99</COST>
@@ -293,6 +305,12 @@
     <COST>4.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Tenet</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>SkyStore</LOCATION>
+    <MYRATING>8</MYRATING>
   </FILM>
    <FILM>
     <TITLE>Total Recall</TITLE>
