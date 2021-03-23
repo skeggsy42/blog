@@ -79,6 +79,12 @@
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>The Castle of Cagliostro</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Blu-Ray</LOCATION>
+     <MYRATING>0</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>Chappie</TITLE>
     <COST>1.99</COST>
     <LOCATION>GOOG</LOCATION>
@@ -157,6 +163,12 @@
     <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>Howls Moving Castle</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Blu-Ray</LOCATION>
+     <MYRATING>0</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>I, Robot</TITLE>
     <COST>1.99</COST>
     <LOCATION>GOOG</LOCATION>
@@ -181,6 +193,18 @@
     <MYRATING>10</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>Kiki's Delivery Service</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Blu-Ray</LOCATION>
+     <MYRATING>0</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Laputa Castle in the Sky</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Blu-Ray</LOCATION>
+     <MYRATING>0</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>Lost in translation</TITLE>
     <COST>3.99</COST>
     <LOCATION>GOOG</LOCATION>
@@ -197,6 +221,12 @@
     <COST>11.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>My Neighbour Totoro</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Blu-Ray</LOCATION>
+     <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Niagara</TITLE>
@@ -295,6 +325,18 @@
      <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>The Tale of the Princess Kaguya</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Blu-Ray</LOCATION>
+     <MYRATING>0</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Princess Mononoke</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Blu-Ray</LOCATION>
+     <MYRATING>0</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>The Sacrifice</TITLE>
     <COST>4.99</COST>
     <LOCATION>GOOG</LOCATION>
@@ -305,6 +347,12 @@
     <COST>4.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Star Wars. The Force Awakens</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Blu-Ray</LOCATION>
+     <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Tenet</TITLE>
@@ -323,6 +371,12 @@
     <COST>13.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Whispher of the Heart</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Blu-Ray</LOCATION>
+     <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Your Name</TITLE>
