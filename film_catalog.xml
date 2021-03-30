@@ -49,6 +49,12 @@
     <MYRATING>10</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>The Big Sleep</TITLE>
+    <COST>3.99</COST>
+    <LOCATION>GOOG</LOCATION>
+    <MYRATING>0</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>Blade Runner</TITLE>
     <COST>3.99</COST>
     <LOCATION>GOOG</LOCATION>
@@ -89,6 +95,24 @@
     <COST>1.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>The Dead Don't Die</TITLE>
+    <COST>6.49</COST>
+    <LOCATION>GOOG</LOCATION>
+    <MYRATING>9</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>The Garden of Words</TITLE>
+    <COST>4.49</COST>
+    <LOCATION>GOOG</LOCATION>
+    <MYRATING>9</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>The Grand Budapest Hotel</TITLE>
+    <COST>2.99</COST>
+    <LOCATION>GOOG</LOCATION>
+    <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Ex_Machina</TITLE>
@@ -181,6 +205,12 @@
     <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>In a lonely Place (Criterion Collection)</TITLE>
+    <COST>12.50</COST>
+    <LOCATION>Blu-ray</LOCATION>
+    <MYRATING>10</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>Instant Family</TITLE>
     <COST>4.49</COST>
     <LOCATION>GOOG</LOCATION>
@@ -191,6 +221,18 @@
     <COST>11.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
+  </FILM>
+   <FILM>
+    <TITLE>The Jungle Book</TITLE>
+    <COST>13.99</COST>
+    <LOCATION>GOOG</LOCATION>
+    <MYRATING>9</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>The Karate Kid</TITLE>
+    <COST>3.99</COST>
+    <LOCATION>GOOG</LOCATION>
+    <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Kiki's Delivery Service</TITLE>
@@ -205,10 +247,28 @@
      <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>Lost Highway</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>DVD</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>Lost in translation</TITLE>
     <COST>3.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>The Maltese Falcon</TITLE>
+    <COST>4.99</COST>
+    <LOCATION>GOOG</LOCATION>
+      <MYRATING>9</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>The Martian</TITLE>
+    <COST>2.99</COST>
+    <LOCATION>GOOG</LOCATION>
+    <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Minority Report</TITLE>
@@ -247,78 +307,6 @@
     <MYRATING>NR</MYRATING>
   </FILM>
   <FILM>
-    <TITLE>Star Wars Rogue One</TITLE>
-    <COST>7.99</COST>
-    <LOCATION>GOOG</LOCATION>
-    <MYRATING>7</MYRATING>
-  </FILM>
-  <FILM>
-    <TITLE>Solaris (1972)</TITLE>
-    <COST>11.99</COST>
-    <LOCATION>GOOG</LOCATION>
-    <MYRATING>10</MYRATING>
-  </FILM>
-  <FILM>
-    <TITLE>Stalker</TITLE>
-    <COST>4.99</COST>
-    <LOCATION>GOOG</LOCATION>
-    <MYRATING>8</MYRATING>
-  </FILM>
-   <FILM>
-    <TITLE>Stalker (Criterion Collection)</TITLE>
-    <COST>17.99</COST>
-    <LOCATION>Blu-ray</LOCATION>
-    <MYRATING>8</MYRATING>
-  </FILM>
-  <FILM>
-    <TITLE>The Big Sleep</TITLE>
-    <COST>3.99</COST>
-    <LOCATION>GOOG</LOCATION>
-    <MYRATING>0</MYRATING>
-  </FILM>
-  <FILM>
-    <TITLE>The Dead Don't Die</TITLE>
-    <COST>6.49</COST>
-    <LOCATION>GOOG</LOCATION>
-    <MYRATING>9</MYRATING>
-  </FILM>
-  <FILM>
-    <TITLE>The Garden of Words</TITLE>
-    <COST>4.49</COST>
-    <LOCATION>GOOG</LOCATION>
-    <MYRATING>9</MYRATING>
-  </FILM>
-  <FILM>
-    <TITLE>The Grand Budapest Hotel</TITLE>
-    <COST>2.99</COST>
-    <LOCATION>GOOG</LOCATION>
-    <MYRATING>0</MYRATING>
-  </FILM>
-  <FILM>
-    <TITLE>The Jungle Book</TITLE>
-    <COST>13.99</COST>
-    <LOCATION>GOOG</LOCATION>
-    <MYRATING>9</MYRATING>
-  </FILM>
-  <FILM>
-    <TITLE>The Karate Kid</TITLE>
-    <COST>3.99</COST>
-    <LOCATION>GOOG</LOCATION>
-    <MYRATING>9</MYRATING>
-  </FILM>
-    <FILM>
-    <TITLE>The Maltese Falcon</TITLE>
-    <COST>4.99</COST>
-    <LOCATION>GOOG</LOCATION>
-      <MYRATING>9</MYRATING>
-  </FILM>
-  <FILM>
-    <TITLE>The Martian</TITLE>
-    <COST>2.99</COST>
-    <LOCATION>GOOG</LOCATION>
-    <MYRATING>0</MYRATING>
-  </FILM>
-   <FILM>
     <TITLE>The Place Promised in Our Early Days</TITLE>
     <COST>4.49</COST>
     <LOCATION>GOOG</LOCATION>
@@ -347,6 +335,36 @@
     <COST>4.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Star Wars Rogue One</TITLE>
+    <COST>7.99</COST>
+    <LOCATION>GOOG</LOCATION>
+    <MYRATING>7</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Solaris (1972)</TITLE>
+    <COST>11.99</COST>
+    <LOCATION>GOOG</LOCATION>
+    <MYRATING>10</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Solaris (Criterion Collection)</TITLE>
+    <COST>12.50</COST>
+    <LOCATION>Blu-ray</LOCATION>
+    <MYRATING>10</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Stalker</TITLE>
+    <COST>4.99</COST>
+    <LOCATION>GOOG</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+   <FILM>
+    <TITLE>Stalker (Criterion Collection)</TITLE>
+    <COST>17.99</COST>
+    <LOCATION>Blu-ray</LOCATION>
+    <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Star Wars. The Force Awakens</TITLE>
