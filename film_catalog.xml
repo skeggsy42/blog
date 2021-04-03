@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CATALOG>
   <FILM>
+    <TITLE>5 centimeters per second</TITLE>
+    <COST>7.99</COST>
+    <LOCATION>Prime Video</LOCATION>
+    <MYRATING>7</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>A Scanner Darkly</TITLE>
     <COST>5.99</COST>
     <LOCATION>GOOG</LOCATION>
