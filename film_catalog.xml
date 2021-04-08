@@ -253,8 +253,15 @@
      <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>Kiss me deadly</TITLE>
+    <COST>12.49</COST>
+    <LOCATION>Blu-Ray</LOCATION>
+    <MYRATING>0</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>Laputa Castle in the Sky</TITLE>
-    <COST>0.00</COST>
+    <COST
+>0.00</COST>
     <LOCATION>Blu-Ray</LOCATION>
      <MYRATING>0</MYRATING>
   </FILM>
@@ -342,7 +349,13 @@
     <LOCATION>GOOG</LOCATION>
     <MYRATING>0</MYRATING>
   </FILM>
-  <FILM>
+ <FILM>
+    <TITLE>Safety Last</TITLE>
+    <COST>12.49</COST>
+    <LOCATION>Blu-ray</LOCATION>
+    <MYRATING>8</MYRATING>
+ </FILM>
+ <FILM>
     <TITLE>The Shining</TITLE>
     <COST>4.99</COST>
     <LOCATION>GOOG</LOCATION>
