@@ -253,7 +253,7 @@
      <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
-    <TITLE>Kiss me deadly</TITLE>
+    <TITLE>Kiss me deadly (Criterion Collection)</TITLE>
     <COST>12.49</COST>
     <LOCATION>Blu-Ray</LOCATION>
     <MYRATING>0</MYRATING>
@@ -350,7 +350,7 @@
     <MYRATING>0</MYRATING>
   </FILM>
  <FILM>
-    <TITLE>Safety Last</TITLE>
+    <TITLE>Safety Last (Criterion Collection)</TITLE>
     <COST>12.49</COST>
     <LOCATION>Blu-ray</LOCATION>
     <MYRATING>8</MYRATING>
@@ -418,6 +418,12 @@
   <FILM>
     <TITLE>Whispher of the Heart</TITLE>
     <COST>0.00</COST>
+    <LOCATION>Blu-Ray</LOCATION>
+     <MYRATING>0</MYRATING>
+  </FILM>
+   <FILM>
+    <TITLE>The Woman in the Window</TITLE>
+    <COST>11.99</COST>
     <LOCATION>Blu-Ray</LOCATION>
      <MYRATING>0</MYRATING>
   </FILM>
