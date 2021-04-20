@@ -115,6 +115,12 @@
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
+     <TITLE>Detour (Criterion Collection)</TITLE>
+     <Cost>12.49</Cost>
+     <LOCATION>Blu-ray</LOCATION>
+     <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>The Garden of Words</TITLE>
     <COST>4.49</COST>
     <LOCATION>GOOG</LOCATION>
@@ -287,6 +293,12 @@
     <TITLE>The Martian</TITLE>
     <COST>2.99</COST>
     <LOCATION>GOOG</LOCATION>
+    <MYRATING>0</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Mildred Pierce (Criterion Collection)</TITLE>
+    <COST>12.49</COST>
+    <LOCATION>Blu-Ray</LOCATION>
     <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
