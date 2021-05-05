@@ -84,99 +84,104 @@
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
-<TITLE>Need for Speed: Hot Pursuit</TITLE>
+  <FILM>
+    <TITLE>Need for Speed: Hot Pursuit</TITLE>
     <COST>0.00</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
-<TITLE>Project Cars</TITLE>
+  <FILM>
+    <TITLE>Project Cars</TITLE>
     <COST>0.00</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
-<TITLE>Quake</TITLE>
+  <FILM>
+    <TITLE>Quake</TITLE>
     <COST>0.00</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
-<TITLE>Quake II</TITLE>
+  <FILM>
+    <TITLE>Quake II</TITLE>
     <COST>0.00</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
-<TITLE>Quake II: Ground Zero</TITLE>
+  <FILM>
+    <TITLE>Quake II: Ground Zero</TITLE>
     <COST>0.00</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
-  </FILM>
-<TITLE>Quake II: RTX</TITLE>
+  <FILM>
+    <TITLE>Quake II: RTX</TITLE>
     <COST>0.00</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
-  </FILM>
-<TITLE>Quake II: The Reckoning</TITLE>
+  <FILM>
+    <TITLE>Quake II: The Reckoning</TITLE>
     <COST>0.00</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
-  </FILM>
-<TITLE>Quake III Arena</TITLE>
+  <FILM>
+    <TITLE>Quake III Arena</TITLE>
     <COST>0.00</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
-  </FILM>
-<TITLE>Quake III: Team Arena</TITLE>
+  <FILM>
+    <TITLE>Quake III: Team Arena</TITLE>
     <COST>0.00</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
-  </FILM>
-<TITLE>Resident Evil 7 Biohazard</TITLE>
+  <FILM>
+    <TITLE>Resident Evil 7 Biohazard</TITLE>
     <COST>0.00</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
-  </FILM>
-<TITLE>The Hunter: Call of the wild</TITLE>
+  <FILM>
+    <TITLE>The Hunter: Call of the wild</TITLE>
     <COST>0.00</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
-  </FILM>
-<TITLE>Tomb Raider</TITLE>
+  <FILM>
+    <TITLE>Tomb Raider</TITLE>
     <COST>0.00</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
-  </FILM>
-<TITLE>Total War Saga: Thrones of Britannia</TITLE>
+  <FILM>
+    <TITLE>Total War Saga: Thrones of Britannia</TITLE>
     <COST>0.00</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
-  </FILM>
-<TITLE>Warhammer: End Times - Vermintide</TITLE>
+  <FILM>
+    <TITLE>Warhammer: End Times - Vermintide</TITLE>
     <COST>0.00</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
-  </FILM>
-<TITLE>The Witcher 3: Wild Hunt</TITLE>
+  <FILM>
+    <TITLE>The Witcher 3: Wild Hunt</TITLE>
     <COST>0.00</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
-  </FILM>
-<TITLE>Worms</TITLE>
+  <FILM>
+    <TITLE>Worms</TITLE> 
     <COST>0.00</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
-  </FILM>
-<TITLE>Worms Armageddon</TITLE>
+  <FILM>
+    <TITLE>Worms Armageddon</TITLE>
     <COST>0.00</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
