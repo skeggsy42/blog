@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <FILM>
+    <TITLE>Doom</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>7</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Doom II: Hell on Earth</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>0</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Dusk</TITLE>
+    <COST>8.99</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>7</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Dying Light</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>7</MYRATING>
+  </FILM>
+    <FILM>
+    <TITLE>Everspace</TITLE>
+     <COST>0</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>6</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Far Cry 4</TITLE>
+    <COST>0</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>7</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Far Cry 5</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>9</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Half-Life 2</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Half-Life 2: Episode Two</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Half-Life 2: Lost Coast</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Heretic: Shadow of the Serpent Riders</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Hexen: Beyond Heretic</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM> 
+<FILM>
+    <TITLE>Hexen: Deathkings of the dark citadel</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+<FILM>
+    <TITLE>Hexen II</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+<TITLE>Need for Speed: Hot Pursuit</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+<TITLE>Project Cars</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+<TITLE>Quake</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+<TITLE>Quake II</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+<TITLE>Quake II: Ground Zero</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  </FILM>
+<TITLE>Quake II: RTX</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  </FILM>
+<TITLE>Quake II: The Reckoning</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  </FILM>
+<TITLE>Quake III Arena</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  </FILM>
+<TITLE>Quake III: Team Arena</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  </FILM>
+<TITLE>Resident Evil 7 Biohazard</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  </FILM>
+<TITLE>The Hunter: Call of the wild</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  </FILM>
+<TITLE>Tomb Raider</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  </FILM>
+<TITLE>Total War Saga: Thrones of Britannia</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  </FILM>
+<TITLE>Warhammer: End Times - Vermintide</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  </FILM>
+<TITLE>The Witcher 3: Wild Hunt</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  </FILM>
+<TITLE>Worms</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  </FILM>
+<TITLE>Worms Armageddon</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+ </CATALOG>
