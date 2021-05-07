@@ -1,478 +1,635 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CATALOG>
   <FILM>
-    <TITLE>5 centimeters per second</TITLE>
+    <TITLE>5 centimeters per second</TITLE>  
+    <YEAR>0</YEAR>
     <COST>7.99</COST>
     <LOCATION>Prime Video</LOCATION>
     <MYRATING>7</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>2010</TITLE>
+    <TITLE>2010</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0.00</COST>
     <LOCATION>DVD</LOCATION>
-    <MYRATING>0</MYRATING>
+    <MYRATING>0</MYRATING><IMDBRATING>
+    </IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>A Scanner Darkly</TITLE>
+    <TITLE>A Scanner Darkly</TITLE>  
+    <YEAR>0</YEAR>
     <COST>5.99</COST>
     <LOCATION>GOOG</LOCATION>
-    <MYRATING>9</MYRATING>
+    <MYRATING>9</MYRATING><IMDBRATING>
+    </IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Alien</TITLE>
+    <TITLE>Alien</TITLE>  
+    <YEAR>0</YEAR>
     <COST>4.49</COST>
     <LOCATION>GOOG</LOCATION>
-    <MYRATING>8</MYRATING>
+    <MYRATING>8</MYRATING><IMDBRATING>
+    </IMDBRATING>
   </FILM>
     <FILM>
-    <TITLE>Alien 3</TITLE>
+    <TITLE>Alien 3</TITLE>  
+    <YEAR>0</YEAR>
      <COST>0</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Alien Resurrection</TITLE>
+    <TITLE>Alien Resurrection</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Aliens</TITLE>
+    <TITLE>Aliens</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Asphalt Jungle</TITLE>
+    <TITLE>Asphalt Jungle</TITLE>  
+    <YEAR>0</YEAR>
     <COST>7.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Battale Royale</TITLE>
+    <TITLE>Battale Royale</TITLE>  
+    <YEAR>0</YEAR>
     <COST>1</COST>
     <LOCATION>Blu-ray</LOCATION>
     <MYRATING>10</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Big hero 6</TITLE>
+    <TITLE>Big hero 6</TITLE>  
+    <YEAR>0</YEAR>
     <COST>9.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>The Big Sleep</TITLE>
+    <TITLE>The Big Sleep</TITLE>  
+    <YEAR>0</YEAR>
     <COST>3.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>0</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>The Big Sleep</TITLE>
+    <TITLE>The Big Sleep</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0.00</COST>
     <LOCATION>DVD</LOCATION>
     <MYRATING>0</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Blade Runner</TITLE>
+    <TITLE>Blade Runner</TITLE>  
+    <YEAR>0</YEAR>
     <COST>3.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Blade Runner 2049</TITLE>
+    <TITLE>Blade Runner 2049</TITLE>  
+    <YEAR>0</YEAR>
     <COST>2.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Bram Stokers Dracula</TITLE>
+    <TITLE>Bram Stokers Dracula</TITLE>  
+    <YEAR>0</YEAR>
     <COST>4.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Captain America Civil War</TITLE>
+    <TITLE>Captain America Civil War</TITLE>  
+    <YEAR>0</YEAR>
     <COST>6.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Casablanca</TITLE>
+    <TITLE>Casablanca</TITLE>  
+    <YEAR>0</YEAR>
     <COST>5.39</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>The Castle of Cagliostro</TITLE>
+    <TITLE>The Castle of Cagliostro</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0.00</COST>
     <LOCATION>Blu-Ray</LOCATION>
      <MYRATING>0</MYRATING>
+     <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Chappie</TITLE>
+    <TITLE>Chappie</TITLE>  
+    <YEAR>0</YEAR>
     <COST>1.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Dark Passage</TITLE>
+    <TITLE>Dark Passage</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0.00</COST>
     <LOCATION>DVD</LOCATION>
     <MYRATING>0</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>The Dead Don't Die</TITLE>
+    <TITLE>The Dead Don't Die</TITLE>  
+    <YEAR>0</YEAR>
     <COST>6.49</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-     <TITLE>Detour (Criterion Collection)</TITLE>
+     <TITLE>Detour (Criterion Collection)</TITLE>  
+     <YEAR>0</YEAR>
      <COST>12.49</COST>
      <LOCATION>Blu-ray</LOCATION>
      <MYRATING>8</MYRATING>
+     <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Drive</TITLE>
+    <TITLE>Drive</TITLE>  
+    <YEAR>0</YEAR>
     <COST>7.00</COST>
     <LOCATION>Bluray</LOCATION>
     <MYRATING>10</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>The Garden of Words</TITLE>
+    <TITLE>The Garden of Words</TITLE>  
+    <YEAR>0</YEAR>
     <COST>4.49</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>The Grand Budapest Hotel</TITLE>
+    <TITLE>The Grand Budapest Hotel</TITLE>  
+    <YEAR>0</YEAR>
     <COST>2.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>0</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Ex_Machina</TITLE>
+    <TITLE>Ex_Machina</TITLE>  
+    <YEAR>0</YEAR>
     <COST>13.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Far from Heaven</TITLE>
+    <TITLE>Far from Heaven</TITLE>  
+    <YEAR>0</YEAR>
     <COST>7.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Fast and Furious</TITLE>
+    <TITLE>Fast and Furious</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>0</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Fight Club</TITLE>
+    <TITLE>Fight Club</TITLE>  
+    <YEAR>0</YEAR>
     <COST>1.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Gattaca</TITLE>
+    <TITLE>Gattaca</TITLE>  
+    <YEAR>0</YEAR>
     <COST>3.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>0</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
 <FILM>
-    <TITLE>Guardians of the galaxy</TITLE>
+    <TITLE>Guardians of the galaxy</TITLE>  
+    <YEAR>0</YEAR>
     <COST>6.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
  <FILM>
-  <TITLE>Harry Potter and the chamber of secrets</TITLE>
+  <TITLE>Harry Potter and the chamber of secrets</TITLE>  
+    <YEAR>0</YEAR>
     <MYRATING>7</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
     <COST>26.99</COST>
     <LOCATION>GOOG</LOCATION>
   </FILM>
   <FILM>
-    <TITLE>Harry Potter and the deathly hallows</TITLE>
+    <TITLE>Harry Potter and the deathly hallows</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Harry Potter and the goblet of fire</TITLE>
+    <TITLE>Harry Potter and the goblet of fire</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Harry Potter and the halfblood prince</TITLE>
+    <TITLE>Harry Potter and the halfblood prince</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Harry Potter and the order of the phoenix</TITLE>
+    <TITLE>Harry Potter and the order of the phoenix</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Harry Potter and the prisoner of azkaban</TITLE>
+    <TITLE>Harry Potter and the prisoner of azkaban</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Howls Moving Castle</TITLE>
+    <TITLE>Howls Moving Castle</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0.00</COST>
     <LOCATION>Blu-Ray</LOCATION>
      <MYRATING>0</MYRATING>
+     <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>I, Robot</TITLE>
+    <TITLE>I, Robot</TITLE>  
+    <YEAR>0</YEAR>
     <COST>1.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>0</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Iceage</TITLE>
+    <TITLE>Iceage</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>0</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>In a lonely Place (Criterion Collection)</TITLE>
+    <TITLE>In a lonely Place (Criterion Collection)</TITLE>  
+    <YEAR>0</YEAR>
     <COST>12.50</COST>
     <LOCATION>Blu-ray</LOCATION>
     <MYRATING>10</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Instant Family</TITLE>
+    <TITLE>Instant Family</TITLE>  
+   <YEAR>0</YEAR>
     <COST>4.49</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Interstella</TITLE>
+    <TITLE>Interstella</TITLE>  
+    <YEAR>0</YEAR>
     <COST>11.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
    <FILM>
-    <TITLE>The Jungle Book</TITLE>
+    <TITLE>The Jungle Book</TITLE>  
+    <YEAR>0</YEAR>
     <COST>13.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>The Karate Kid</TITLE>
+    <TITLE>The Karate Kid</TITLE>  
+    <YEAR>0</YEAR>
     <COST>3.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Key Largo</TITLE>
+    <TITLE>Key Largo</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0.00</COST>
     <LOCATION>DVD</LOCATION>
     <MYRATING>0</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Kiki's Delivery Service</TITLE>
+    <TITLE>Kiki's Delivery Service</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0.00</COST>
     <LOCATION>Blu-Ray</LOCATION>
-     <MYRATING>0</MYRATING>
+    <MYRATING>0</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Kiss me deadly (Criterion Collection)</TITLE>
+    <TITLE>Kiss me deadly (Criterion Collection)</TITLE>  
+    <YEAR>0</YEAR>
     <COST>12.49</COST>
     <LOCATION>Blu-Ray</LOCATION>
     <MYRATING>0</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Laputa Castle in the Sky</TITLE>
-    <COST
->0.00</COST>
+    <TITLE>Laputa Castle in the Sky</TITLE>  
+    <YEAR>0</YEAR>
+    <COST>0.00</COST>
     <LOCATION>Blu-Ray</LOCATION>
      <MYRATING>0</MYRATING>
+     <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Lost Highway</TITLE>
+    <TITLE>Lost Highway</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0.00</COST>
     <LOCATION>DVD</LOCATION>
     <MYRATING>8</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Lost in translation</TITLE>
+    <TITLE>Lost in translation</TITLE>  
+    <YEAR>0</YEAR>
     <COST>3.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>The Maltese Falcon</TITLE>
+    <TITLE>The Maltese Falcon</TITLE>  
+    <YEAR>0</YEAR>
     <COST>4.99</COST>
     <LOCATION>GOOG</LOCATION>
       <MYRATING>9</MYRATING>
+      <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>The Martian</TITLE>
+    <TITLE>The Martian</TITLE>  
+    <YEAR>0</YEAR>
     <COST>2.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>0</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Mildred Pierce(Criterion Collection)</TITLE>
+    <TITLE>Mildred Pierce(Criterion Collection)</TITLE>  
+    <YEAR>0</YEAR>
     <COST>12.49</COST>
     <LOCATION>Blu-Ray</LOCATION>
     <MYRATING>0</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Minority Report</TITLE>
+    <TITLE>Minority Report</TITLE>  
+    <YEAR>0</YEAR>
     <COST>6.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>The Mirror</TITLE>
+    <TITLE>The Mirror</TITLE>  
+    <YEAR>0</YEAR>
     <COST>11.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>My Neighbour Totoro</TITLE>
+    <TITLE>My Neighbour Totoro</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0.00</COST>
     <LOCATION>Blu-Ray</LOCATION>
      <MYRATING>0</MYRATING>
+     <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Niagara</TITLE>
+    <TITLE>Niagara</TITLE>  
+    <YEAR>0</YEAR>
     <COST>3.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Nostalgia</TITLE>
+    <TITLE>Nostalgia</TITLE>  
+    <YEAR>0</YEAR>
     <COST>5.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Prospect</TITLE>
+    <TITLE>Prospect</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0.26</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>NR</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>The Place Promised in Our Early Days</TITLE>
+    <TITLE>The Place Promised in Our Early Days</TITLE>  
+    <YEAR>0</YEAR>
     <COST>4.49</COST>
     <LOCATION>GOOG</LOCATION>
      <MYRATING>7</MYRATING>
+     <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>The Tale of the Princess Kaguya</TITLE>
+    <TITLE>The Tale of the Princess Kaguya</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0.00</COST>
     <LOCATION>Blu-Ray</LOCATION>
      <MYRATING>0</MYRATING>
+     <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Princess Mononoke</TITLE>
+    <TITLE>Princess Mononoke</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0.00</COST>
     <LOCATION>Blu-Ray</LOCATION>
      <MYRATING>0</MYRATING>
+     <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>The Sacrifice</TITLE>
+    <TITLE>The Sacrifice</TITLE>  
+    <YEAR>0</YEAR>
     <COST>4.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>0</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
  <FILM>
-    <TITLE>Safety Last (Criterion Collection)</TITLE>
+    <TITLE>Safety Last (Criterion Collection)</TITLE>  
+    <YEAR>0</YEAR>
     <COST>12.49</COST>
     <LOCATION>Blu-ray</LOCATION>
     <MYRATING>8</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
  </FILM>
  <FILM>
-    <TITLE>The Shining</TITLE>
+    <TITLE>The Shining</TITLE>  
+    <YEAR>0</YEAR>
     <COST>4.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Star Wars Rogue One</TITLE>
+    <TITLE>Star Wars Rogue One</TITLE>  
+    <YEAR>0</YEAR>
     <COST>7.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Solaris (1972)</TITLE>
+    <TITLE>Solaris (1972)</TITLE>  
+    <YEAR>0</YEAR>
     <COST>11.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Solaris (Criterion Collection)</TITLE>
+    <TITLE>Solaris (Criterion Collection)</TITLE>  
+    <YEAR>0</YEAR>
     <COST>12.50</COST>
     <LOCATION>Blu-ray</LOCATION>
     <MYRATING>10</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Stalker</TITLE>
+    <TITLE>Stalker</TITLE>  
+    <YEAR>0</YEAR>
     <COST>4.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>8</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
    <FILM>
-    <TITLE>Stalker (Criterion Collection)</TITLE>
+    <TITLE>Stalker (Criterion Collection)</TITLE>  
+    <YEAR>0</YEAR>
     <COST>17.99</COST>
     <LOCATION>Blu-ray</LOCATION>
     <MYRATING>8</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Star Wars. The Force Awakens</TITLE>
+    <TITLE>Star Wars. The Force Awakens</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0.00</COST>
     <LOCATION>Blu-Ray</LOCATION>
      <MYRATING>0</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Tenet</TITLE>
+    <TITLE>Tenet</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0.00</COST>
     <LOCATION>SkyStore</LOCATION>
     <MYRATING>8</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>To Have and Have Not</TITLE>
+    <TITLE>To Have and Have Not</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0.00</COST>
     <LOCATION>DVD</LOCATION>
      <MYRATING>0</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM> 
    <FILM>
-    <TITLE>Total Recall</TITLE>
+    <TITLE>Total Recall</TITLE>  
+    <YEAR>0</YEAR>
     <COST>9.99</COST>
     <LOCATION>GOOG</LOCATION>
      <MYRATING>8</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Toy Story 3</TITLE>
+    <TITLE>Toy Story 3</TITLE>  
+    <YEAR>0</YEAR>
     <COST>13.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Whispher of the Heart</TITLE>
+    <TITLE>Whispher of the Heart</TITLE>  
+    <YEAR>0</YEAR>
     <COST>0.00</COST>
     <LOCATION>Blu-Ray</LOCATION>
      <MYRATING>0</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
    <FILM>
-    <TITLE>The Woman in the Window</TITLE>
+    <TITLE>The Woman in the Window</TITLE>  
+    <YEAR>0</YEAR>
     <COST>11.99</COST>
     <LOCATION>Blu-Ray</LOCATION>
      <MYRATING>0</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
-    <TITLE>Your Name</TITLE>
+    <TITLE>Your Name</TITLE>  
+    <YEAR>0</YEAR>
     <COST>6.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
+   <IMDBRATING>0</IMDBRATING>
   </FILM>
  </CATALOG>
