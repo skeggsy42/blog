@@ -8,7 +8,7 @@
     <RETAILER>John Lewis</RETAILER>
     <SIZE>48"</SIZE>
     <TYPE>OLED 4K</TYPE>
-    <WHATHIFIRATING>5/5</WHATHIFIRATING>
+    <WHATHIFI>5 out of 5</WHATHIFI>
     <NOTES>Best TV for size</NOTES>
   </TV>
    <TV>
@@ -19,7 +19,7 @@
     <RETAILER>Currys</RETAILER>
     <SIZE>55"</SIZE>
     <TYPE>OLED 4K</TYPE>
-    <WHATHIFIRATING>5/5</WHATHIFIRATING>
+    <WHATHIFI>5 out of 5</WHATHIFI>
     <NOTES></NOTES>
   </TV>
   <TV>
@@ -30,7 +30,7 @@
     <RETAILER>Argos</RETAILER>
     <SIZE>55"</SIZE>
     <TYPE>OLED 4K</TYPE>
-    <WHATHIFIRATING>4/5</WHATHIFIRATING>
+    <WHATHIFI>4 out of 5</WHATHIFI>
     <NOTES>Some niggles</NOTES>
   </TV>
 </CATALOG>
