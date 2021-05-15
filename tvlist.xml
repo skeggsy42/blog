@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <TV>
+    <MAKE>Sony Bravia Master Series</MAKE>  
+    <MODEL>KD48A9</MODEL>
+    <YEAR>2020</2020>
+    <PRICE>£1399</PRICE>
+    <RETAILER>John Lewis</RETAILER>
+    <SIZE>48"</SIZE>
+    <TYPE>OLED 4K</TYPE>
+    <WHATHIFIRATING>5/5</WHATHIFIRATING>
+    <NOTES>Best TV for size</NOTES>
+  </TV>
+   <TV>
+    <MAKE>Sony</MAKE>  
+    <MODEL>KD55A8</MODEL>
+    <YEAR></2020>
+    <PRICE>£1200</PRICE>
+    <RETAILER>Currys</RETAILER>
+    <SIZE>55"</SIZE>
+    <TYPE>OLED 4K</TYPE>
+    <WHATHIFIRATING>5/5</WHATHIFIRATING>
+    <NOTES></NOTES>
+  </TV>
+  <TV>
+    <MAKE>Sony Master Series</MAKE>  
+    <MODEL>AG9</MODEL>
+    <YEAR></2020>
+    <PRICE>£1349</PRICE>
+    <RETAILER>Argos</RETAILER>
+    <SIZE>55"</SIZE>
+    <TYPE>OLED 4K</TYPE>
+    <WHATHIFIRATING>4/5</WHATHIFIRATING>
+    <NOTES>Some niggles</NOTES>
+  </TV>
+</CATALOG>
