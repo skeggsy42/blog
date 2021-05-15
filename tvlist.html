@@ -28,7 +28,7 @@ function loadXMLDoc() {
 function myFunction(xml) {
   var i;
   var xmlDoc = xml.responseXML;
-  var table="<tr><th>Make</th><th>Model</th><th>Year</th><th>Price</th><th>Retailer</th><th>Size</th><th>Dims</th><th>Type</th><th>Resolution</th><th>HDMI</th><th>HDR</th><th>Tuners</th><th>Video Signal</th><th>What Hi-Fi</th><th>Notes</th></tr>";
+  var table="<tr><th>Make</th><th>Model</th><th>Year</th><th>Price</th><th>Retailer</th><th>Size</th><th>Type</th><th>Resolution</th><th>HDMI</th><th>HDR</th><th>Tuners</th><th>Video Signal</th><th>What Hi-Fi</th><th>Notes</th></tr>";
   var x = xmlDoc.getElementsByTagName("TV");
   for (i = 0; i <x.length; i++) { 
     table += "<tr><td>" +
@@ -43,8 +43,6 @@ function myFunction(xml) {
     x[i].getElementsByTagName("RETAILER")[0].childNodes[0].nodeValue +
     "</td><td>" +
     x[i].getElementsByTagName("SIZE")[0].childNodes[0].nodeValue +
-    "</td><td>" +
-    x[i].getElementsByTagName("DIMS")[0].childNodes[0].nodeValue +
     "</td><td>" +
     x[i].getElementsByTagName("TYPE")[0].childNodes[0].nodeValue +
     "</td><td>" +
