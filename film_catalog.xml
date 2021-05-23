@@ -113,6 +113,14 @@
     <IMDBRATING>8</IMDBRATING>
   </FILM>
   <FILM>
+    <TITLE>Blade Runner 2049</TITLE>  
+    <YEAR>2017</YEAR>
+    <COST>18.25</COST>
+    <LOCATION>4K Bluray</LOCATION>
+    <MYRATING>9</MYRATING>
+    <IMDBRATING>8</IMDBRATING>
+  </FILM>
+  <FILM>
     <TITLE>Bram Stokers Dracula</TITLE>  
     <YEAR>1992</YEAR>
     <COST>4.99</COST>
@@ -178,19 +186,28 @@
   </FILM>
   <FILM>
     <TITLE>Drive</TITLE>  
-    <YEAR>0</YEAR>
+    <YEAR>2011</YEAR>
     <COST>7.00</COST>
     <LOCATION>Bluray</LOCATION>
     <MYRATING>10</MYRATING>
-    <IMDBRATING>0</IMDBRATING>
+    <IMDBRATING>7.8</IMDBRATING>
   </FILM>
   <FILM>
     <TITLE>The Garden of Words</TITLE>  
-    <YEAR>0</YEAR>
+    <YEAR>2013</YEAR>
     <COST>4.49</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>9</MYRATING>
-    <IMDBRATING>0</IMDBRATING>
+    <IMDBRATING>7.5</IMDBRATING>
+  </FILM>
+  
+  <FILM>
+    <TITLE>The Garden of Words</TITLE>  
+    <YEAR>2013</YEAR>
+    <COST>4.99</COST>
+    <LOCATION>Blu-Ray</LOCATION>
+    <MYRATING>9</MYRATING>
+    <IMDBRATING>7.5</IMDBRATING>
   </FILM>
   <FILM>
     <TITLE>The Grand Budapest Hotel</TITLE>  
@@ -383,6 +400,14 @@
     <LOCATION>Blu-Ray</LOCATION>
     <MYRATING>0</MYRATING>
     <IMDBRATING>0</IMDBRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Knives Out</TITLE>  
+    <YEAR>2019</YEAR>
+    <COST>15.00</COST>
+    <LOCATION>4K Blu-Ray</LOCATION>
+    <MYRATING>8</MYRATING>
+    <IMDBRATING>7.9</IMDBRATING>
   </FILM>
   <FILM>
     <TITLE>Laputa Castle in the Sky</TITLE>  
@@ -594,11 +619,19 @@
   </FILM> 
    <FILM>
     <TITLE>Total Recall</TITLE>  
-    <YEAR>0</YEAR>
+    <YEAR>1990</YEAR>
     <COST>9.99</COST>
     <LOCATION>GOOG</LOCATION>
-     <MYRATING>8</MYRATING>
-    <IMDBRATING>0</IMDBRATING>
+     <MYRATING>9</MYRATING>
+    <IMDBRATING>7.5</IMDBRATING>
+  </FILM>
+   <FILM>
+    <TITLE>Total Recall</TITLE>  
+    <YEAR>1990</YEAR>
+    <COST>15</COST>
+    <LOCATION>4K Bluray</LOCATION>
+     <MYRATING>9</MYRATING>
+    <IMDBRATING>7.5</IMDBRATING>
   </FILM>
   <FILM>
     <TITLE>Toy Story 3</TITLE>  
