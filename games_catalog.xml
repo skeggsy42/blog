@@ -145,6 +145,12 @@
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>S.T.A.L.K.E.R.</TITLE>
+    <COST>0.00</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>The Hunter: Call of the wild</TITLE>
     <COST>0.00</COST>
     <LOCATION>Steam</LOCATION>
