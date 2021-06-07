@@ -30,7 +30,7 @@
     <LOCATION>Steam</LOCATION>
     <MYRATING>6</MYRATING>
   </FILM>
-    <FILM>
+  <FILM>
     <TITLE>Everspace</TITLE>
      <COST>13.79</COST>
     <LOCATION>Steam</LOCATION>
@@ -48,7 +48,6 @@
     <LOCATION>Steam</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
-  <FILM>
   <FILM>
     <TITLE>Forza Horizon 4 Standard Edition</TITLE>
     <COST>24.99</COST>
