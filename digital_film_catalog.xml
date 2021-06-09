@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CATALOG>
   <FILM>
+    <TITLE>A Life In Pictures</TITLE>
+    <FORMAT>DVD_Backup</FORMAT> 
+    <YEAR>0</YEAR>
+    <MYRATING>10</MYRATING>       
+    <IMDBRATING>0</IMDBRATING>
+  </FILM>
+  <FILM>
     <TITLE>2001 A Space Odyssey</TITLE>
     <FORMAT>DVD_Backup</FORMAT> 
     <YEAR>0</YEAR>
@@ -342,5 +349,12 @@
     <YEAR>1950</YEAR>
     <MYRATING>7</MYRATING>       
     <IMDBRATING>6.8</IMDBRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Where The Sidewalk Ends</TITLE>
+    <FORMAT>M4V</FORMAT>  
+    <YEAR>0</YEAR>
+    <MYRATING>0</MYRATING>       
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
  </CATALOG>
