@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CATALOG>
   <FILM>
+    <TITLE>2001 A Space Odyssey</TITLE>
+    <FORMAT>DVD_Backup</FORMAT> 
+    <YEAR>0</YEAR>
+    <MYRATING>10</MYRATING>       
+    <IMDBRATING>0</IMDBRATING>
+  </FILM>
+  <FILM>
     <TITLE>2010</TITLE>
     <FORMAT>DVD_Backup</FORMAT> 
     <YEAR>1984</YEAR>
@@ -29,6 +36,13 @@
     <IMDBRATING>7.6</IMDBRATING>
   </FILM>
   <FILM>
+    <TITLE>Barry Lyndon</TITLE>
+    <FORMAT>DVD_Backup</FORMAT> 
+    <YEAR>0</YEAR>
+    <MYRATING>0</MYRATING>       
+    <IMDBRATING>0</IMDBRATING>
+  </FILM>
+  <FILM>
     <TITLE>The Big Sleep</TITLE>
     <FORMAT>DVD_Backup</FORMAT> 
     <YEAR>1946</YEAR>
@@ -48,6 +62,13 @@
     <YEAR>1956</YEAR>
     <MYRATING>7</MYRATING>       
     <IMDBRATING>6.4</IMDBRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Clockwork Orange</TITLE>
+    <FORMAT>DVD_Backup</FORMAT>  
+    <YEAR>0</YEAR>
+    <MYRATING>0</MYRATING>       
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
     <TITLE>Crime Wave</TITLE>
@@ -83,6 +104,34 @@
     <YEAR>1991</YEAR>
     <MYRATING>8</MYRATING>       
     <IMDBRATING>7.8</IMDBRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Dr Strangelove</TITLE>
+    <FORMAT>DVD_Backup</FORMAT>  
+    <YEAR>0</YEAR>
+    <MYRATING>0</MYRATING>        
+    <IMDBRATING>0</IMDBRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Eyes Wide Shut</TITLE>
+    <FORMAT>DVD_Backup</FORMAT>  
+    <YEAR>0</YEAR>
+    <MYRATING>0</MYRATING>        
+    <IMDBRATING>0</IMDBRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Full Metal Jacket</TITLE>
+    <FORMAT>DVD_Backup</FORMAT>  
+    <YEAR>0</YEAR>
+    <MYRATING>0</MYRATING>        
+    <IMDBRATING>0</IMDBRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Glengarry Glen Ross</TITLE>
+    <FORMAT>DVD_Backup</FORMAT>  
+    <YEAR>0</YEAR>
+    <MYRATING>0</MYRATING>        
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
     <TITLE>The Great Escape</TITLE>
@@ -147,7 +196,13 @@
     <MYRATING>7</MYRATING>       
     <IMDBRATING>8</IMDBRATING>
   </FILM>
-
+  <FILM>
+    <TITLE>Lolita</TITLE>
+    <FORMAT>DVD_Backup</FORMAT>  
+    <YEAR>0</YEAR>
+    <MYRATING>0</MYRATING>       
+    <IMDBRATING>0</IMDBRATING>
+  </FILM>
   <FILM>
     <TITLE>Lost Highway</TITLE>
     <FORMAT>DVD_Backup</FORMAT>  
@@ -240,6 +295,13 @@
     <IMDBRATING>7.3</IMDBRATING>
   </FILM>
   <FILM>
+    <TITLE>The Shining</TITLE>
+     <FORMAT>DVD_Backup</FORMAT>  
+    <YEAR>0</YEAR>
+    <MYRATING>10</MYRATING>       
+    <IMDBRATING>0</IMDBRATING>
+  </FILM>
+  <FILM>
     <TITLE>They Live By Night</TITLE>
      <FORMAT>M4V</FORMAT>  
     <YEAR>1948</YEAR>
@@ -259,6 +321,20 @@
     <YEAR>1944</YEAR>
     <MYRATING>8</MYRATING>       
     <IMDBRATING>7.8</IMDBRATING>
+  </FILM>
+  <FILM>
+    <TITLE>The Seventh Seal</TITLE>
+    <FORMAT>DVD_Backup</FORMAT>  
+    <YEAR>0</YEAR>
+    <MYRATING>0</MYRATING>       
+    <IMDBRATING>0</IMDBRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Twelve Angry Men</TITLE>
+    <FORMAT>DVD_Backup</FORMAT>  
+    <YEAR>0</YEAR>
+    <MYRATING>0</MYRATING>       
+    <IMDBRATING>0</IMDBRATING>
   </FILM>
   <FILM>
     <TITLE>Where Danger Lives</TITLE>
