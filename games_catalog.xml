@@ -109,6 +109,12 @@
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>Need for Speed: Hot Pursuit Remastered</TITLE>
+    <COST>5.49</COST>
+    <LOCATION>playstation disc</LOCATION>
+    <MYRATING>9</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>Overwatch</TITLE>
     <COST>12.99</COST>
     <LOCATION>Battlenet</LOCATION>
@@ -178,6 +184,12 @@
     <TITLE>The Hunter: Call of the wild</TITLE>
     <COST>5.99</COST>
     <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Titan Fall 2</TITLE>
+    <COST>3.59</COST>
+    <LOCATION>playstation digital</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
