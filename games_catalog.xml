@@ -7,6 +7,12 @@
     <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>Borderlands 3</TITLE>
+    <COST>0.02</COST>
+    <LOCATION>playstation disc</LOCATION>
+    <MYRATING>7</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>Doom</TITLE>
     <COST>9.99</COST>
     <LOCATION>Steam</LOCATION>
@@ -90,11 +96,17 @@
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
-<FILM>
+   <FILM>
     <TITLE>Hexen II</TITLE>
     <COST>0.00</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Horizon Zero Dawn</TITLE>
+    <COST>2.97</COST>
+    <LOCATION>playstation disc</LOCATION>
+    <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Need for Speed: Hot Pursuit</TITLE>
@@ -115,10 +127,22 @@
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>The Outer Worlds</TITLE>
+    <COST>22.73</COST>
+    <LOCATION>playstation disc</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>Overwatch</TITLE>
     <COST>12.99</COST>
     <LOCATION>Battlenet</LOCATION>
     <MYRATING>10</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Persona Royal 5</TITLE>
+    <COST>23.99-5.00</COST>
+    <LOCATION>playstation disc</LOCATION>
+    <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Project Cars</TITLE>
@@ -190,7 +214,7 @@
     <TITLE>Titan Fall 2</TITLE>
     <COST>3.59</COST>
     <LOCATION>playstation digital</LOCATION>
-    <MYRATING>8</MYRATING>
+    <MYRATING>10</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Tomb Raider</TITLE>
