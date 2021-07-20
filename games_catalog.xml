@@ -61,6 +61,12 @@
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>God of War</TITLE>
+    <COST>2.99</COST>
+    <LOCATION>Playstation Disc</LOCATION>
+    <MYRATING>10</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>Half-Life 2</TITLE>
     <COST>6.99</COST>
     <LOCATION>Steam</LOCATION>
@@ -112,19 +118,19 @@
     <TITLE>Need for Speed: Hot Pursuit</TITLE>
     <COST>3.74</COST>
     <LOCATION>Steam</LOCATION>
-    <MYRATING>9</MYRATING>
+    <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Need for Speed: Hot Pursuit Remastered</TITLE>
     <COST>12.49</COST>
     <LOCATION>Steam/Origin</LOCATION>
-    <MYRATING>9</MYRATING>
+    <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Need for Speed: Hot Pursuit Remastered</TITLE>
     <COST>5.49</COST>
     <LOCATION>playstation disc</LOCATION>
-    <MYRATING>9</MYRATING>
+    <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Outer Worlds</TITLE>
@@ -148,7 +154,7 @@
     <TITLE>Project Cars</TITLE>
     <COST>7.95</COST>
     <LOCATION>Steam</LOCATION>
-    <MYRATING>8</MYRATING>
+    <MYRATING>6</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Quake</TITLE>
@@ -227,6 +233,12 @@
     <COST>10.19</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Uncharted 4: A Thief's End</TITLE>
+    <COST>3.49</COST>
+    <LOCATION>Playstation Disc</LOCATION>
+    <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Warhammer: End Times - Vermintide</TITLE>
