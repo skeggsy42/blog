@@ -33,6 +33,12 @@
     <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>Dreams</TITLE>
+    <COST>29.99</COST>
+    <LOCATION>Playstation Disc</LOCATION>
+    <MYRATING>10</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>Dusk</TITLE>
     <COST>8.99</COST>
     <LOCATION>Steam</LOCATION>
