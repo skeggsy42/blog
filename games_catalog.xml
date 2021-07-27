@@ -8,6 +8,12 @@
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>Apex Legends</TITLE>
+    <COST>Free</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>Battlefield 1</TITLE>
     <COST>28.99</COST>
     <LOCATION>Origin/DVD</LOCATION>
@@ -66,6 +72,12 @@
     <COST>24.99</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>9</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Fortnite</TITLE>
+    <COST>Free</COST>
+    <LOCATION>Playstation Digital</LOCATION>
+    <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Forza Horizon 4 Standard Edition</TITLE>
