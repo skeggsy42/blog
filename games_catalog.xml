@@ -14,6 +14,12 @@
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>Alien Isolation</TITLE>
+    <COST>Free</COST>
+    <LOCATION>Epic</LOCATION>
+    <MYRATING>7</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>Battlefield 1</TITLE>
     <COST>28.99</COST>
     <LOCATION>Origin/DVD</LOCATION>
@@ -174,6 +180,12 @@
     <COST>23.99-5.00</COST>
     <LOCATION>playstation disc</LOCATION>
     <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>A Plague Tale: Innocence</TITLE>
+    <COST>Free</COST>
+    <LOCATION>Epic</LOCATION>
+    <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Project Cars</TITLE>
