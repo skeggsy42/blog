@@ -57,6 +57,14 @@
     <IMDBRATING>8.3</IMDBRATING>
   </FILM>
   <FILM>
+    <TITLE>Allied</TITLE>  
+    <YEAR>0000</YEAR>
+    <COST>0</COST>
+    <LOCATION>SkyStore</LOCATION>
+    <MYRATING>7</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
+  </FILM>
+  <FILM>
     <TITLE>Asphalt Jungle</TITLE>  
     <YEAR>1950</YEAR>
     <COST>7.99</COST>
