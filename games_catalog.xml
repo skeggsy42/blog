@@ -1,16 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CATALOG>
+	
+  <FILM>
+    <TITLE>Abzu</TITLE>
+    <COST>3.99</COST>
+    <LOCATION>playstation digital</LOCATION>
+    <MYRATING>9</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Apex Legends</TITLE>
+    <COST>Free</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Alien Isolation</TITLE>
+    <COST>Free</COST>
+    <LOCATION>Epic</LOCATION>
+    <MYRATING>7</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Battlefield 1</TITLE>
+    <COST>28.99</COST>
+    <LOCATION>Origin/DVD</LOCATION>
+    <MYRATING>7</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Borderlands 3</TITLE>
+    <COST>0.02</COST>
+    <LOCATION>playstation disc</LOCATION>
+    <MYRATING>7</MYRATING>
+  </FILM>
   <FILM>
     <TITLE>Doom</TITLE>
-    <COST>0.00</COST>
+    <COST>9.99</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Doom II: Hell on Earth</TITLE>
-    <COST>0.00</COST>
+    <COST>3.99</COST>
     <LOCATION>Steam</LOCATION>
-    <MYRATING>0</MYRATING>
+    <MYRATING>7</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Dreams</TITLE>
+    <COST>29.99</COST>
+    <LOCATION>Playstation Disc</LOCATION>
+    <MYRATING>10</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Dusk</TITLE>
@@ -20,37 +57,55 @@
   </FILM>
   <FILM>
     <TITLE>Dying Light</TITLE>
-    <COST>0.00</COST>
+    <COST>Free</COST>
     <LOCATION>Steam</LOCATION>
-    <MYRATING>7</MYRATING>
+    <MYRATING>6</MYRATING>
   </FILM>
-    <FILM>
+  <FILM>
     <TITLE>Everspace</TITLE>
-     <COST>0</COST>
+     <COST>13.79</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>6</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Far Cry 4</TITLE>
-    <COST>0</COST>
+    <COST>10.79</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>7</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Far Cry 5</TITLE>
-    <COST>0.00</COST>
+    <COST>24.99</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>9</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>Fortnite</TITLE>
+    <COST>Free</COST>
+    <LOCATION>Playstation Digital</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Forza Horizon 4 Standard Edition</TITLE>
+    <COST>24.99</COST>
+    <LOCATION>Microsoft</LOCATION>
+    <MYRATING>9</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>God of War</TITLE>
+    <COST>2.99</COST>
+    <LOCATION>Playstation Disc</LOCATION>
+    <MYRATING>10</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>Half-Life 2</TITLE>
-    <COST>0.00</COST>
+    <COST>6.99</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Half-Life 2: Episode Two</TITLE>
-    <COST>0.00</COST>
+    <COST>1.11</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
@@ -62,7 +117,7 @@
   </FILM>
   <FILM>
     <TITLE>Heretic: Shadow of the Serpent Riders</TITLE>
-    <COST>0.00</COST>
+    <COST>1.79</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
@@ -78,27 +133,69 @@
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
-<FILM>
+   <FILM>
     <TITLE>Hexen II</TITLE>
     <COST>0.00</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>Horizon Zero Dawn</TITLE>
+    <COST>2.97</COST>
+    <LOCATION>playstation disc</LOCATION>
+    <MYRATING>7</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>Need for Speed: Hot Pursuit</TITLE>
-    <COST>0.00</COST>
+    <COST>3.74</COST>
     <LOCATION>Steam</LOCATION>
+    <MYRATING>7</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Need for Speed: Hot Pursuit Remastered</TITLE>
+    <COST>12.49</COST>
+    <LOCATION>Steam/Origin</LOCATION>
+    <MYRATING>7</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Need for Speed: Hot Pursuit Remastered</TITLE>
+    <COST>5.49</COST>
+    <LOCATION>playstation disc</LOCATION>
+    <MYRATING>7</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>The Outer Worlds</TITLE>
+    <COST>22.73</COST>
+    <LOCATION>playstation disc</LOCATION>
     <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Overwatch</TITLE>
+    <COST>12.99</COST>
+    <LOCATION>Battlenet</LOCATION>
+    <MYRATING>10</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Persona Royal 5</TITLE>
+    <COST>23.99-5.00</COST>
+    <LOCATION>playstation disc</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>A Plague Tale: Innocence</TITLE>
+    <COST>Free</COST>
+    <LOCATION>Epic</LOCATION>
+    <MYRATING>0</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Project Cars</TITLE>
-    <COST>0.00</COST>
+    <COST>7.95</COST>
     <LOCATION>Steam</LOCATION>
-    <MYRATING>8</MYRATING>
+    <MYRATING>6</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Quake</TITLE>
-    <COST>0.00</COST>
+    <COST>5.09</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
@@ -140,15 +237,27 @@
   </FILM>
   <FILM>
     <TITLE>Resident Evil 7 Biohazard</TITLE>
-    <COST>0.00</COST>
+    <COST>19.99</COST>
+    <LOCATION>Steam</LOCATION>
+    <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>S.T.A.L.K.E.R.</TITLE>
+    <COST>7.13</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Hunter: Call of the wild</TITLE>
-    <COST>0.00</COST>
+    <COST>5.99</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
+  </FILM>
+  <FILM>
+    <TITLE>Titan Fall 2</TITLE>
+    <COST>3.59</COST>
+    <LOCATION>playstation digital</LOCATION>
+    <MYRATING>10</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Tomb Raider</TITLE>
@@ -158,31 +267,37 @@
   </FILM>
   <FILM>
     <TITLE>Total War Saga: Thrones of Britannia</TITLE>
-    <COST>0.00</COST>
+    <COST>10.19</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
+    <TITLE>Uncharted 4: A Thief's End</TITLE>
+    <COST>3.49</COST>
+    <LOCATION>Playstation Disc</LOCATION>
+    <MYRATING>0</MYRATING>
+  </FILM>
+  <FILM>
     <TITLE>Warhammer: End Times - Vermintide</TITLE>
-    <COST>0.00</COST>
+    <COST>Free</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>The Witcher 3: Wild Hunt</TITLE>
-    <COST>0.00</COST>
+    <COST>13.99</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Worms</TITLE> 
-    <COST>0.00</COST>
+    <COST>1.24</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
   <FILM>
     <TITLE>Worms Armageddon</TITLE>
-    <COST>0.00</COST>
+    <COST>2.19</COST>
     <LOCATION>Steam</LOCATION>
     <MYRATING>8</MYRATING>
   </FILM>
