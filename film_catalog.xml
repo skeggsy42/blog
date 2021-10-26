@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CATALOG>
   <FILM>
+    <TITLE>2001: A Space Odyssey 4K</TITLE>  
+    <YEAR>1968</YEAR>
+    <COST>17.49</COST>
+    <LOCATION>4K Blu-Ray</LOCATION>
+    <MYRATING>10</MYRATING>
+    <IMDBRATING>8.3</IMDBRATING>
+    <ASPECT>2.20:1</ASPECT>
+  </FILM>
+  <FILM>
     <TITLE>5 centimeters per second</TITLE>  
     <YEAR>2007</YEAR>
     <COST>7.99</COST>
@@ -196,6 +205,15 @@
     <LOCATION>GOOG</LOCATION>
     <MYRATING>7</MYRATING>
     <IMDBRATING>6.8</IMDBRATING>
+    <ASPECT>0</ASPECT>
+  </FILM>
+  <FILM>
+    <TITLE>Childhood's End</TITLE>  
+    <YEAR>2016</YEAR>
+    <COST>3.34</COST>
+    <LOCATION>GOOG</LOCATION>
+    <MYRATING>9</MYRATING>
+    <IMDBRATING>6.9</IMDBRATING>
     <ASPECT>0</ASPECT>
   </FILM>
   <FILM>
