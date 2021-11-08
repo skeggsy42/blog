@@ -217,6 +217,15 @@
     <ASPECT>0</ASPECT>
   </FILM>
   <FILM>
+    <TITLE>Collateral 4K Bluray</TITLE>  
+    <YEAR>2004</YEAR>
+    <COST>19.99</COST>
+    <LOCATION>4K Bluray</LOCATION>
+    <MYRATING>8</MYRATING>
+    <IMDBRATING>7.5</IMDBRATING>
+    <ASPECT>2.39:1</ASPECT>
+  </FILM>
+  <FILM>
     <TITLE>Dark Passage</TITLE>  
     <YEAR>1947</YEAR>
     <COST>0.00</COST>
