@@ -694,6 +694,15 @@
     <ASPECT>1.37:1</ASPECT>
   </FILM>
  <FILM>
+    <TITLE>The Shining 4K</TITLE>  
+    <YEAR>0</YEAR>
+    <COST>15.30</COST>
+    <LOCATION>4K Bluray</LOCATION>
+    <MYRATING>10</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
+    <ASPECT>0</ASPECT>
+  </FILM>
+ <FILM>
     <TITLE>The Shining</TITLE>  
     <YEAR>0</YEAR>
     <COST>4.99</COST>
