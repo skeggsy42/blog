@@ -102,6 +102,15 @@
   <FILM>
     <TITLE>Battale Royale</TITLE>  
     <YEAR>2000</YEAR>
+    <COST>0</COST>
+    <LOCATION>4K Blu-ray</LOCATION>
+    <MYRATING>10</MYRATING>
+    <IMDBRATING>8</IMDBRATING>
+    <ASPECT>1.85:1</ASPECT>
+  </FILM>
+  <FILM>
+    <TITLE>Battale Royale</TITLE>  
+    <YEAR>2000</YEAR>
     <COST>1</COST>
     <LOCATION>Blu-ray</LOCATION>
     <MYRATING>10</MYRATING>
