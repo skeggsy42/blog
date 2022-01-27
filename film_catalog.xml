@@ -640,6 +640,15 @@
     <ASPECT>0</ASPECT>
   </FILM>
   <FILM>
+  <FILM>
+    <TITLE>Nostalgia</TITLE>  
+    <YEAR>0</YEAR>
+    <COST>6.99</COST>
+    <LOCATION>Bluray</LOCATION>
+    <MYRATING>8</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
+    <ASPECT>0</ASPECT>
+  </FILM>
     <TITLE>Nostalgia</TITLE>  
     <YEAR>0</YEAR>
     <COST>5.99</COST>
@@ -793,6 +802,15 @@
     <ASPECT>0</ASPECT>
   </FILM>
   <FILM>
+  <FILM>
+    <TITLE>Terminator 2</TITLE>  
+    <YEAR>0</YEAR>
+    <COST>28</COST>
+    <LOCATION>4K Bluray Steelbook</LOCATION>
+    <MYRATING>9</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
+    <ASPECT>0</ASPECT>
+  </FILM>
     <TITLE>Thor Ragnarok</TITLE>  
     <YEAR>0</YEAR>
     <COST>0.00</COST>
