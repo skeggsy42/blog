@@ -486,6 +486,15 @@
     <IMDBRATING>8.1</IMDBRATING>
     <ASPECT>1.37:1</ASPECT>
    </FILM>
+<FILM>
+    <TITLE>I want to eat your pancreas</TITLE>  
+    <YEAR>0</YEAR>
+    <COST>6.99</COST>
+    <LOCATION>Blu-Ray</LOCATION>
+    <MYRATING>0</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
+    <ASPECT>0:0:0</ASPECT>
+  </FILM>
    <FILM>
     <TITLE>The Jungle Book</TITLE>  
     <YEAR>0</YEAR>
@@ -861,6 +870,15 @@
     <COST>13.99</COST>
     <LOCATION>GOOG</LOCATION>
     <MYRATING>10</MYRATING>
+    <IMDBRATING>0</IMDBRATING>
+    <ASPECT>0</ASPECT>
+  </FILM>
+<FILM>
+    <TITLE>Weathering with you</TITLE>  
+    <YEAR>0</YEAR>
+    <COST>5.99</COST>
+    <LOCATION>Blu-Ray</LOCATION>
+    <MYRATING>0</MYRATING>
     <IMDBRATING>0</IMDBRATING>
     <ASPECT>0</ASPECT>
   </FILM>
