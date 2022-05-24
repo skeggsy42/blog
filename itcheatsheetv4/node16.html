@@ -1,0 +1,95 @@
+<!DOCTYPE HTML>
+
+<!--Converted with LaTeX2HTML 2019.2 (Released June 5, 2019) -->
+<HTML lang="EN">
+<HEAD>
+<TITLE>Latex</TITLE>
+<META NAME="description" CONTENT="Latex">
+<META NAME="keywords" CONTENT="itcheatsheetv4">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+<META NAME="viewport" CONTENT="width=device-width, initial-scale=1.0">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2019.2">
+
+<LINK REL="STYLESHEET" HREF="itcheatsheetv4.css">
+
+<LINK REL="previous" HREF="node15.html">
+<LINK REL="next" HREF="node17.html">
+</HEAD>
+
+<BODY >
+
+<DIV CLASS="navigation"><!--Navigation Panel-->
+<A
+ HREF="node17.html">
+<IMG WIDTH="37" HEIGHT="24" ALT="next" SRC="next.png"></A> 
+<A
+ HREF="node15.html">
+<IMG WIDTH="26" HEIGHT="24" ALT="up" SRC="up.png"></A> 
+<A
+ HREF="node15.html">
+<IMG WIDTH="63" HEIGHT="24" ALT="previous" SRC="prev.png"></A> 
+<A ID="tex2html114"
+  HREF="node1.html">
+<IMG WIDTH="65" HEIGHT="24" ALT="contents" SRC="contents.png"></A>  
+<BR>
+<B> Next:</B> <A
+ HREF="node17.html">Hacking</A>
+<B> Up:</B> <A
+ HREF="node15.html">Documentation</A>
+<B> Previous:</B> <A
+ HREF="node15.html">Documentation</A>
+ &nbsp; <B>  <A ID="tex2html115"
+  HREF="node1.html">Contents</A></B> 
+<BR>
+<BR></DIV>
+<!--End of Navigation Panel-->
+
+<H2><A ID="SECTION00061000000000000000">
+Latex</A>
+</H2>
+<PRE>
+Use latex to create documentation which can then be converted to html 
+for upload to blog as well as being converted to a word document 
+and then to kindle or to pdf.
+
+pandoc --mathjax="https://cdn.jsdelivrr.net/npm/mathjax@3/es5/tex-mml-chtml.js" 
+--from latex --t html mybook.tex -s -o mybook.html --metadata pagetitle="title"
+
+
+See www.mathjax.org/#gettingStarted
+
+
+pandoc mybook.tex -o mybook.docx
+
+
+latex2html --split=0 mybook.tex -info "" -no_navigation
+
+pkg install texstudio texlive-base vim-latex
+
+Install latex2html on FreeBSD:
+pkg install latex2html
+
+Minimum packages for pdflatex on FreeBSD:
+sudo pkg install print/tex-formats
+
+pdflatex mybook.tex
+
+Installation of Calibre on FreeBSD:
+pkg install deskutils/calibre
+or
+pkg install calibre
+
+For details of configuration see https://www.freshports.org/deskutils/calibre/
+
+For Windows install TexStudio (https://texstudio.org/)
+From command line you can convert tex to epub with the command: tex4ebook input_filename.tex
+</PRE>
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>

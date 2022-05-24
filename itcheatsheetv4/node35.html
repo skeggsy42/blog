@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+
+<!--Converted with LaTeX2HTML 2019.2 (Released June 5, 2019) -->
+<HTML lang="EN">
+<HEAD>
+<TITLE>Miscellaneous unorganised notes</TITLE>
+<META NAME="description" CONTENT="Miscellaneous unorganised notes">
+<META NAME="keywords" CONTENT="itcheatsheetv4">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+<META NAME="viewport" CONTENT="width=device-width, initial-scale=1.0">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2019.2">
+
+<LINK REL="STYLESHEET" HREF="itcheatsheetv4.css">
+
+<LINK REL="next" HREF="node36.html">
+<LINK REL="previous" HREF="node24.html">
+<LINK REL="next" HREF="node36.html">
+</HEAD>
+
+<BODY >
+
+<DIV CLASS="navigation"><!--Navigation Panel-->
+<A
+ HREF="node36.html">
+<IMG WIDTH="37" HEIGHT="24" ALT="next" SRC="next.png"></A> 
+<A
+ HREF="itcheatsheetv4.html">
+<IMG WIDTH="26" HEIGHT="24" ALT="up" SRC="up.png"></A> 
+<A
+ HREF="node34.html">
+<IMG WIDTH="63" HEIGHT="24" ALT="previous" SRC="prev.png"></A> 
+<A ID="tex2html168"
+  HREF="node1.html">
+<IMG WIDTH="65" HEIGHT="24" ALT="contents" SRC="contents.png"></A>  
+<BR>
+<B> Next:</B> <A
+ HREF="node36.html">Bibliography</A>
+<B> Up:</B> <A
+ HREF="itcheatsheetv4.html">IT Cheatsheet</A>
+<B> Previous:</B> <A
+ HREF="node34.html">Networking</A>
+ &nbsp; <B>  <A ID="tex2html169"
+  HREF="node1.html">Contents</A></B> 
+<BR>
+<BR></DIV>
+<!--End of Navigation Panel-->
+
+<H1><A ID="SECTION00090000000000000000">
+Miscellaneous unorganised notes</A>
+</H1>
+<PRE>
+Snort
+
+snort -i3 -vde -c c:\snort\etc\snort.conf -l c:\snort.log
+
+Mirror Websites
+
+wget -mirror -convert-content -N https://www.skeggs.net
+-N
+command for timestamping, also use
+--adjust-extension
+to change .asp pages to .html.
+Can now use
+
+tree
+command to search content
+wget --mirror --convert-links --adjust-extension --page-requisites 
+--no-parent https://www.skeggs.net 
+Explanation of the various flags: 
+--mirror – Makes (among other things) the download recursive. 
+--convert-links – convert all the links (also to stuff like CSS stylesheets) 
+to relative, so it will be suitable for offline viewing. 
+--adjust-extension – Adds suitable extensions to filenames (html or css) 
+depending on their content-type. 
+--page-requisites – Download things like CSS style-sheets and images required 
+to properly display the page offline. 
+--no-parent – When recursing do not ascend to the parent directory. 
+It useful for restricting the download to only a portion of the site.
+</PRE>
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>

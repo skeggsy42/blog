@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+
+<!--Converted with LaTeX2HTML 2019.2 (Released June 5, 2019) -->
+<HTML lang="EN">
+<HEAD>
+<TITLE>Boot</TITLE>
+<META NAME="description" CONTENT="Boot">
+<META NAME="keywords" CONTENT="itcheatsheetv4">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+<META NAME="viewport" CONTENT="width=device-width, initial-scale=1.0">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2019.2">
+
+<LINK REL="STYLESHEET" HREF="itcheatsheetv4.css">
+
+<LINK REL="next" HREF="node31.html">
+<LINK REL="previous" HREF="node29.html">
+<LINK REL="next" HREF="node31.html">
+</HEAD>
+
+<BODY >
+
+<DIV CLASS="navigation"><!--Navigation Panel-->
+<A
+ HREF="node31.html">
+<IMG WIDTH="37" HEIGHT="24" ALT="next" SRC="next.png"></A> 
+<A
+ HREF="node24.html">
+<IMG WIDTH="26" HEIGHT="24" ALT="up" SRC="up.png"></A> 
+<A
+ HREF="node29.html">
+<IMG WIDTH="63" HEIGHT="24" ALT="previous" SRC="prev.png"></A> 
+<A ID="tex2html158"
+  HREF="node1.html">
+<IMG WIDTH="65" HEIGHT="24" ALT="contents" SRC="contents.png"></A>  
+<BR>
+<B> Next:</B> <A
+ HREF="node31.html">Tuning</A>
+<B> Up:</B> <A
+ HREF="node24.html">Windows</A>
+<B> Previous:</B> <A
+ HREF="node29.html">Windows Troubleshooting</A>
+ &nbsp; <B>  <A ID="tex2html159"
+  HREF="node1.html">Contents</A></B> 
+<BR>
+<BR></DIV>
+<!--End of Navigation Panel-->
+
+<H2><A ID="SECTION00086000000000000000">
+Boot</A>
+</H2>
+
+<UL>
+<LI>Does the problem occur when booting into safemode?
+<BR></LI>
+<LI>Run Msconfig and select boot tab. Tick bootlog to log boot process to a text file named ntbtlog.txt in %systemRoot% folder. Use this switch to troubleshoot startup hangs. Maybe a device driver failure. Tick OS Boot information to display path and location of each device driver as it loads as well as the operating system version and build number, the number of processors, the system memory and the process type.
+<BR></LI>
+<LI>Check device manager for warnings.
+<BR></LI>
+<LI>Look at the task manager startup tab.
+<BR></LI>
+<LI>Check services that start at startup by running Msconfig and checking the Services tab.
+<BR></LI>
+<LI>Run Msinfo32 and in the hardware resources branch click the conflicts/sharing sub branch for device conflicts. Also see whether the components /problem devices category lists any devices.
+<BR></LI>
+<LI>Activate diagnostic startup in MSConfig.
+<BR></LI>
+<LI>Finally try startup repair from the recovery environment
+<BR></LI>
+</UL>
+<BR><HR>
+
+</BODY>
+</HTML>

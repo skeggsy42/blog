@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+
+<!--Converted with LaTeX2HTML 2019.2 (Released June 5, 2019) -->
+<HTML lang="EN">
+<HEAD>
+<TITLE>Command Line</TITLE>
+<META NAME="description" CONTENT="Command Line">
+<META NAME="keywords" CONTENT="itcheatsheetv4">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+<META NAME="viewport" CONTENT="width=device-width, initial-scale=1.0">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2019.2">
+
+<LINK REL="STYLESHEET" HREF="itcheatsheetv4.css">
+
+<LINK REL="next" HREF="node29.html">
+<LINK REL="previous" HREF="node27.html">
+<LINK REL="next" HREF="node29.html">
+</HEAD>
+
+<BODY >
+
+<DIV CLASS="navigation"><!--Navigation Panel-->
+<A
+ HREF="node29.html">
+<IMG WIDTH="37" HEIGHT="24" ALT="next" SRC="next.png"></A> 
+<A
+ HREF="node24.html">
+<IMG WIDTH="26" HEIGHT="24" ALT="up" SRC="up.png"></A> 
+<A
+ HREF="node27.html">
+<IMG WIDTH="63" HEIGHT="24" ALT="previous" SRC="prev.png"></A> 
+<A ID="tex2html154"
+  HREF="node1.html">
+<IMG WIDTH="65" HEIGHT="24" ALT="contents" SRC="contents.png"></A>  
+<BR>
+<B> Next:</B> <A
+ HREF="node29.html">Windows Troubleshooting</A>
+<B> Up:</B> <A
+ HREF="node24.html">Windows</A>
+<B> Previous:</B> <A
+ HREF="node27.html">Add Safe mode to</A>
+ &nbsp; <B>  <A ID="tex2html155"
+  HREF="node1.html">Contents</A></B> 
+<BR>
+<BR></DIV>
+<!--End of Navigation Panel-->
+
+<H2><A ID="SECTION00084000000000000000">
+Command Line</A>
+</H2>
+<PRE>
+systeminfo | more
+systeminfo /fo csv &gt; systeminfo.csv 
+
+bcdedit /export c:\bcd_backup  #backup BCD Store
+
+xcopy *.doc g:\documents /s   
+#Copy all documents, create subfolders in destination and copy documents 
+in subfolders. 
+#Add/E switch to include empty subfolders as well.
+
+defrag c: /a     #defrag analysis report
+defrag c: /m /v  #defrag c drive
+
+chkdsk c:        #read only check that doesn't repair errors. 
+                 #Use /F to fix errors. Use /V for verbose.
+</PRE>
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
