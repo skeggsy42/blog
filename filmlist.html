@@ -58,13 +58,13 @@ function loadXMLDoc_blu() {
 var xmlhttp = new XMLHttpRequest();
 xmlhttp.onreadystatechange = function() {
 if (this.readyState == 4 && this.status == 200) {
-myFunction(this);
+myFunction_blu(this);
 }
 };
 xmlhttp.open("GET", "film_catalog.xml", true);
 xmlhttp.send();
 }
-function myFunction(xml) {
+function myFunction_blu(xml) {
 var i;
 var xmlDoc = xml.responseXML;
 var table="<tr><th>Title</th><th>Year</th><th>Aspect Ratio</th><th>Cost</th><th>Location</th><th>SD</th><th>My Rating</th><th>IMDB Rating</th></tr>";
@@ -94,8 +94,7 @@ document.getElementById("demo").innerHTML = table;
 }
 
   
- loadXMLDoc() 
-</script>
+ </script>
 
 </body>
 </html>
