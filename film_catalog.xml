@@ -402,6 +402,16 @@
     <ASPECT>0</ASPECT>
   </FILM>
   <FILM>
+  	<TITLE>Gattaca</TITLE>  
+  	<YEAR>0</YEAR>
+  	<COST>9.99</COST>
+  	<LOCATION>4K Bluray</LOCATION>
+  	<SD>Y</SD>
+  	<MYRATING>0</MYRATING>
+  	<IMDBRATING>0</IMDBRATING>
+  	<ASPECT>0</ASPECT>
+  </FILM>
+  <FILM>
     <TITLE>Guardians of the galaxy</TITLE>  
     <YEAR>0</YEAR>
     <COST>6.99</COST>
