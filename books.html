@@ -32,7 +32,7 @@ function myFunction(xml) {
   var table="<tr><th>Title</th><th>Publisher</th><th>ISBN10</th></tr>";
   var x = xmlDoc.getElementsByTagName("BOOK");
   for (i = 0; i <x.length; i++) { 
-  	if x[i].getElementsByTagName("PUBLISHER")[0].childNodes[0].nodeValue == "Starch Press" 
+  	if (x[i].getElementsByTagName("PUBLISHER")[0].childNodes[0].nodeValue) == "Starch Press" 
   	{
     	table += "<tr><td>" +
     	x[i].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue +
