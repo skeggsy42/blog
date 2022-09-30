@@ -231,6 +231,16 @@
     <ASPECT>0</ASPECT>
   </FILM>
   <FILM>
+    <TITLE>Casablanca</TITLE>  
+    <YEAR>1942</YEAR>
+    <COST>5.39</COST>
+    <LOCATION>Blu-ray</LOCATION>
+    <SD>N</SD>
+    <MYRATING>9</MYRATING>
+    <IMDBRATING>8.5</IMDBRATING>
+    <ASPECT>0</ASPECT>
+  </FILM>
+  <FILM>
     <TITLE>The Castle of Cagliostro</TITLE>  
     <YEAR>1979</YEAR>
     <COST>0.00</COST>
