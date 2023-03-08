@@ -21,7 +21,7 @@
     <ASPECT>0</ASPECT>
   </FILM>
   <FILM>
-    <TITLE>Ad Astrav4K</TITLE>  
+    <TITLE>Ad Astra 4K</TITLE>  
     <YEAR>2019</YEAR>
     <COST>14.99</COST>
     <LOCATION>Blu-ray</LOCATION>
@@ -422,6 +422,26 @@
   	<ASPECT>0</ASPECT>
   </FILM>
   <FILM>
+ 	<TITLE>Ghost in the shell</TITLE>  
+ 	<YEAR>0</YEAR>
+ 	<COST>5.00</COST>
+ 	<LOCATION>Blu-ray</LOCATION>
+ 	<SD>Y</SD>
+ 	<MYRATING>0</MYRATING>
+ 	<IMDBRATING>0</IMDBRATING>
+ 	<ASPECT>0</ASPECT>
+ </FILM>
+  <FILM>
+ 	<TITLE>Ghost in the shell: innocence</TITLE>  
+ 	<YEAR>0</YEAR>
+ 	<COST>5.00</COST>
+ 	<LOCATION>Blu-ray</LOCATION>
+ 	<SD>Y</SD>
+ 	<MYRATING>0</MYRATING>
+ 	<IMDBRATING>0</IMDBRATING>
+ 	<ASPECT>0</ASPECT>
+ </FILM>
+  <FILM>
     <TITLE>Guardians of the galaxy</TITLE>  
     <YEAR>0</YEAR>
     <COST>6.99</COST>
@@ -562,6 +582,16 @@
     <ASPECT>1.78:1-2.39:1</ASPECT>
   </FILM>
   <FILM>
+ 	<TITLE>In the mood for love criterion</TITLE>  
+ 	<YEAR>2000</YEAR>
+ 	<COST>18.39</COST>
+ 	<LOCATION>Blu-ray</LOCATION>
+ 	<SD>Y</SD>
+ 	<MYRATING>0</MYRATING>
+ 	<IMDBRATING>0</IMDBRATING>
+ 	<ASPECT>1.66:1</ASPECT>
+ </FILM>
+  <FILM>
     <TITLE>Ivan's Childhood Criterion</TITLE>  
     <YEAR>1962</YEAR>
     <COST>16.99</COST>
@@ -663,11 +693,11 @@
   </FILM>
   <FILM>
     <TITLE>Lost Highway</TITLE>  
-    <YEAR>0</YEAR>
-    <COST>0.00</COST>
-    <LOCATION>DVD</LOCATION>
-    <SD>N</SD>
-    <MYRATING>8</MYRATING>
+    <YEAR>1997</YEAR>
+    <COST>17.24</COST>
+    <LOCATION>Blu-ray</LOCATION>
+    <SD>Y</SD>
+    <MYRATING>9</MYRATING>
     <IMDBRATING>0</IMDBRATING>
     <ASPECT>2.39:1</ASPECT>
   </FILM>
