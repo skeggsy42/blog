@@ -10,6 +10,29 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Antonio:wght@400;700&display=swap" rel="stylesheet">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<style>
+	* {
+	box-sizing: border-box;
+	}
+	
+	/* Create two equal columns that floats next to each other */
+	.column {
+	float: left;
+	width: 50%;
+	padding: 10px;
+	height: 300px; /* Should be removed. Only for demonstration */
+	}
+	
+	/* Clear floats after the columns */
+	.row:after {
+	content: "";
+	display: table;
+	clear: both;
+	}
+</style>
+
+
 </head>
 <body>
 <div class="wrap">
@@ -98,9 +121,11 @@ LCARS &#149; Online
 <h2>&#149; Welcome  &#149; </h2>
 
 <p>Live long and prosper.</p>
-<div class="w3-row-padding">
 
-<div class="w3-half" style="background-color:light-grey">
+
+<div class="row">
+
+<div class="column">
 <h2>Personal</h2>
 <strong><a href="https://www.skeggs.net/itcheatsheetv4/index.html" target="_blank">IT Cheat Sheet</a></strong><br>
 <a href="https://www.skeggs.net/placesvisited.html" target="_blank">Places I've Been</a><br>
@@ -198,7 +223,6 @@ LCARS &#149; Online
 <a href="http://www.darbinorvar.com" target="_blank">Darbin Orvar</a><br>
 </div>
 
-<div style="background-color:light-grey">
 <h2>Art</h2>
 <a href="https://www.shan-jiang.com" target="_blank">Shan Jiang</a><br>    
 <a href="https://www.khm.at/objektdb/detail/327/" target="_blank">Hunters in the Snow</a><br>
@@ -207,6 +231,8 @@ LCARS &#149; Online
 <br>
 <a href="https://www.nationalgallery.org.uk/paintings/isaack-luttichuys-portrait-of-a-girl" target="_blank">Portrait of a girl Isaack Luttichuys</a><br>
 
+</div>
+<div class="column">
 <h2 id="#post-2">Shopping</h2>
 <a href="https://uk.ereaderiq.com" target="_blank">EReaderiq Kindle Book Price alerts</a><br>     
 <strong><a href="https://www.skeggs.net/japanshop.html" target="_blank">Japan Centre/Wing Yip/China Town/Oseyo Shopping List</a><br></strong>
@@ -273,6 +299,7 @@ LCARS &#149; Online
 <a href="https://en.starwardindustries.com/" target="_blank">The Invincible</a><br>
 
 </div> 
+</div>
 
 
 <div  id="#post-3" class="w3-half">
@@ -434,7 +461,7 @@ should be documented.</p>
 <BR>
 	<BR>
 		
-	</div>
+
 
 <!-- End content area. -->
 
