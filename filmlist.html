@@ -1,100 +1,1243 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title>Page Title</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="date=no">
+<link rel="stylesheet" type="text/css" href="lcars-lower-decks-padd.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Antonio:wght@400;700&display=swap" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
 <style>
-table,th,td {
-  border : 1px solid black;
-  border-collapse: collapse;
-}
-th,td {
-  padding: 5px;
-}
-</style>
-<body>
-<button type="button" onclick="loadXMLDoc_blu()">Display Bluray disks only</button>
-<br>
-<button type="button" onclick="loadXMLDoc()">Display all</button>
-<br><br>
-<table id="demo"></table>
-
-<script>
-function loadXMLDoc() {
-  var xmlhttp = new XMLHttpRequest();
-  xmlhttp.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-      myFunction(this);
-    }
-  };
-  xmlhttp.open("GET", "film_catalog.xml", true);
-  xmlhttp.send();
-}
-function myFunction(xml) {
-  var i;
-  var xmlDoc = xml.responseXML;
-  var table="<tr><th>Title</th><th>Year</th><th>Aspect Ratio</th><th>Cost</th><th>Location</th><th>SD</th><th>My Rating</th><th>IMDB Rating</th></tr>";
-  var x = xmlDoc.getElementsByTagName("FILM");
-  for (i = 0; i <x.length; i++) { 
-    table += "<tr><td>" +
-    x[i].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue +
-    "</td><td>" +
-    x[i].getElementsByTagName("YEAR")[0].childNodes[0].nodeValue +
-    "</td><td>" +
-    x[i].getElementsByTagName("ASPECT")[0].childNodes[0].nodeValue +
-    "</td><td>" +
-    x[i].getElementsByTagName("COST")[0].childNodes[0].nodeValue +
-    "</td><td>" +  
-    x[i].getElementsByTagName("LOCATION")[0].childNodes[0].nodeValue +
-    "</td><td>" +  
-    x[i].getElementsByTagName("SD")[0].childNodes[0].nodeValue +
-    "</td><td>" + 
-    x[i].getElementsByTagName("MYRATING")[0].childNodes[0].nodeValue +
-    "</td><td>" +	
-    x[i].getElementsByTagName("IMDBRATING")[0].childNodes[0].nodeValue + 	
-    "</td></tr>";
-  }
-  document.getElementById("demo").innerHTML = table;
-}
-
-function loadXMLDoc_blu() {
-var xmlhttp = new XMLHttpRequest();
-xmlhttp.onreadystatechange = function() {
-if (this.readyState == 4 && this.status == 200) {
-myFunction_blu(this);
-}
-};
-xmlhttp.open("GET", "film_catalog.xml", true);
-xmlhttp.send();
-}
-function myFunction_blu(xml) {
-var i;
-var xmlDoc = xml.responseXML;
-var table="<tr><th>Title</th><th>Year</th><th>Aspect Ratio</th><th>Cost</th><th>Location</th><th>SD</th><th>My Rating</th><th>IMDB Rating</th></tr>";
-var x = xmlDoc.getElementsByTagName("FILM");
-for (i = 0; i <x.length; i++) { 
-if (x[i].getElementsByTagName("LOCATION")[0].childNodes[0].nodeValue == "Blu-ray"){
-	table += "<tr><td>" +
-	x[i].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue +
-	"</td><td>" +
-	x[i].getElementsByTagName("YEAR")[0].childNodes[0].nodeValue +
-	"</td><td>" +
-	x[i].getElementsByTagName("ASPECT")[0].childNodes[0].nodeValue +
-	"</td><td>" +
-	x[i].getElementsByTagName("COST")[0].childNodes[0].nodeValue +
-	"</td><td>" +  
-	x[i].getElementsByTagName("LOCATION")[0].childNodes[0].nodeValue +
-	"</td><td>" +  
-	x[i].getElementsByTagName("SD")[0].childNodes[0].nodeValue +
-	"</td><td>" + 
-	x[i].getElementsByTagName("MYRATING")[0].childNodes[0].nodeValue +
-	"</td><td>" +	
-	x[i].getElementsByTagName("IMDBRATING")[0].childNodes[0].nodeValue + 	
-	"</td></tr>";
+	* {
+	box-sizing: border-box;
 	}
-}
-document.getElementById("demo").innerHTML = table;
-}
+	
+	/* Create two equal columns that floats next to each other */
+	.column {
+	float: left;
+	width: 50%;
+	padding: 10px;
+	}
+	
+	/* Clear floats after the columns */
+	.row:after {
+	content: "";
+	display: table;
+	clear: both;
+	}
+</style>
 
-  
- </script>
 
+</head>
+<body>
+<div class="wrap">
+<div class="scroll-top">
+<a id="scroll-top" href=""><span class="hop">screen</span> top</a>
+</div>
+<div class="left-frame-top">
+<div class="panel-1"><a href="">LCARS</a></div>
+<div class="panel-2">02<span class="hop">-262000</span></div>
+</div>
+<div class="right-frame-top">
+<div class="banner">
+LCARS &#149; Online
+</div>
+<div class="data-cascade-button-group">
+<div class="cascade-wrapper">
+<div class="data-cascade" id="default">
+<div class="row-1"><div class="dc1">101</div><div class="dc2">7109</div><div class="dc3">1966</div><div class="dc4">1222</div><div class="dc5">2020</div><div class="dc6">1444</div><div class="dc7">102</div><div class="dc8">1103</div><div class="dc9">1935</div><div class="dc10">1940</div><div class="dc11">708</div><div class="dc12">M113</div><div class="dc13">1956</div><div class="dc14">1209</div></div><div class="row-2"><div class="dc1">102</div><div class="dc2">8102</div><div class="dc3">1987</div><div class="dc4">044</div><div class="dc5">0051</div><div class="dc6">607</div><div class="dc7">1976</div><div class="dc8">1031</div><div class="dc9">1984</div><div class="dc10">1954</div><div class="dc11">1103</div><div class="dc12">415</div><div class="dc13">1045</div><div class="dc14">1864</div></div><div class="row-3"><div class="dc1">103</div><div class="dc2">714</div><div class="dc3">1993</div><div class="dc4">0222</div><div class="dc5">052</div><div class="dc6">1968</div><div class="dc7">2450</div><div class="dc8">746</div><div class="dc9">56</div><div class="dc10">47</div><div class="dc11">716</div><div class="dc12">8719</div><div class="dc13">417</div><div class="dc14">602</div></div><div class="row-4"><div class="dc1">104</div><div class="dc2">6104</div><div class="dc3">1995</div><div class="dc4">322</div><div class="dc5">90</div><div class="dc6">1931</div><div class="dc7">1701</div><div class="dc8">51</div><div class="dc9">29</div><div class="dc10">218</div><div class="dc11">908</div><div class="dc12">2114</div><div class="dc13">85</div><div class="dc14">3504</div></div><div class="row-5"><div class="dc1">105</div><div class="dc2">08</div><div class="dc3">2001</div><div class="dc4">713</div><div class="dc5">079</div><div class="dc6">1940</div><div class="dc7">LV</div><div class="dc8">426</div><div class="dc9">105</div><div class="dc10">10</div><div class="dc11">1206</div><div class="dc12">1979</div><div class="dc13">402</div><div class="dc14">795</div></div><div class="row-6"><div class="dc1">106</div><div class="dc2">31</div><div class="dc3">2017</div><div class="dc4">429</div><div class="dc5">65</div><div class="dc6">871</div><div class="dc7">1031</div><div class="dc8">541</div><div class="dc9">656</div><div class="dc10">764</div><div class="dc11">88</div><div class="dc12">001</div><div class="dc13">27</div><div class="dc14">05</div></div>
+</div> 
+</div> 
+<div class="button-col">
+<div class="button" id="top-left"><a href="#post-1">01</a></div>
+<div class="button" id="bottom-left"><a href="#post-2">02</a></div>
+</div>
+<div class="button-col">
+<div class="button" id="top-right"><a href="#post-3">03</a></div>
+<div class="button" id="bottom-right"><a href="#post-4">04</a></div>
+</div>
+</div>
+<div class="runner">
+<div class="top-corner-bg">
+<div class="top-corner"></div>
+</div>
+<div class="block-2"></div>
+<div class="block-3"></div>
+<div class="block-4">
+<div class="block-4-floatbar"></div>
+</div>
+</div>
+<div class="bar-panel">
+<div class="bar-1"></div>
+<div class="bar-2"></div>
+<div class="bar-3"></div>
+<div class="bar-4"><div class="bar-4-inside"></div></div>
+<div class="bar-5"></div>		
+</div>
+</div>
+</div>
+<div class="wrap" id="gap">
+<div class="left-frame">
+<div>
+<div class="panel-3">03<span class="hop">-111968</span></div>
+<div class="sidebar-buttons">
+	<a href="#post-4">Oven</a>
+	<a href="https://www.skeggs.net/cocktails.html" target="_blank">Cocktails</a>
+</div>
+<div class="panel-4">04<span class="hop">-041969</span></div>
+<div class="panel-5">05<span class="hop">-1701D</span></div>			
+<div class="panel-6">06<span class="hop">-071984</span></div>
+<div class="panel-7">07<span class="hop">-081940</span></div>
+<div class="panel-8">08<span class="hop">-47148</span></div>
+<div class="panel-9">09<span class="hop">-081966</span></div>
+</div>
+<div>
+<div class="panel-10">10<span class="hop">-31</span></div>
+</div>
+</div>
+<div class="right-frame">
+<div class="bar-panel">
+<div class="bar-6"></div>
+<div class="bar-7"></div>
+<div class="bar-8"></div>
+<div class="bar-9"><div class="bar-9-inside"></div></div>
+<div class="bar-10"></div>
+</div>
+<div class="runner">
+<div class="corner-bg">
+<div class="corner"></div>
+</div>
+<div class="block-2"></div>
+<div class="block-3"></div>
+<div class="block-4b">
+<div class="block-4-floatbar"></div>
+</div>
+</div>
+<div class="content">
+
+<!-- Start your content here. -->
+
+<h2>&#149; Welcome  &#149; </h2>
+
+<p>Live long and prosper.</p>
+
+<style type="text/css">
+	.tg  {border-collapse:collapse;border-spacing:0;}
+	.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+	overflow:hidden;padding:10px 5px;word-break:normal;}
+	.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+	font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+	.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+	<thead>
+		<tr>
+			<th class="tg-0lax">Title</th>
+			<th class="tg-0lax">Year</th>
+			<th class="tg-0lax">Aspect Ratio</th>
+			<th class="tg-0lax">Cost</th>
+			<th class="tg-0lax">Location</th>
+			<th class="tg-0lax">SD</th>
+			<th class="tg-0lax">My Rating</th>
+			<th class="tg-0lax">IMDB Rating</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td class="tg-0lax">2001: A Space Odyssey 4K</td>
+			<td class="tg-0lax">1968</td>
+			<td class="tg-0lax">2.20:1</td>
+			<td class="tg-0lax">17.49</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">10</td>
+			<td class="tg-0lax">8.3</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">5 centimeters per second</td>
+			<td class="tg-0lax">2007</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">7.99</td>
+			<td class="tg-0lax">Prime Video</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">7</td>
+			<td class="tg-0lax">7.6</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Ad Astra 4K</td>
+			<td class="tg-0lax">2019</td>
+			<td class="tg-0lax">2.39:1</td>
+			<td class="tg-0lax">14.99</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">6.5</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">A Scanner Darkly</td>
+			<td class="tg-0lax">2006</td>
+			<td class="tg-0lax">1.85:1</td>
+			<td class="tg-0lax">5.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">6.8</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Alien</td>
+			<td class="tg-0lax">1979</td>
+			<td class="tg-0lax">2.20:1</td>
+			<td class="tg-0lax">4.49</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">8.4</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Alien 3</td>
+			<td class="tg-0lax">1992</td>
+			<td class="tg-0lax">2.20:1</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">6.5</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Alien Resurrection</td>
+			<td class="tg-0lax">1997</td>
+			<td class="tg-0lax">2.39:1</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">7</td>
+			<td class="tg-0lax">6.2</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Aliens</td>
+			<td class="tg-0lax">1986</td>
+			<td class="tg-0lax">1.85:1</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">8.3</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Allied</td>
+			<td class="tg-0lax">2016</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">SkyStore</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">7</td>
+			<td class="tg-0lax">7.1</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Andrei Rublev</td>
+			<td class="tg-0lax">1969</td>
+			<td class="tg-0lax">2.35:1</td>
+			<td class="tg-0lax">10-10=0</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">8.1</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Asphalt Jungle</td>
+			<td class="tg-0lax">1950</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">7.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">7.9</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Battale Royale 4K</td>
+			<td class="tg-0lax">2000</td>
+			<td class="tg-0lax">1.85:1</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">10</td>
+			<td class="tg-0lax">8</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Battale Royale</td>
+			<td class="tg-0lax">2000</td>
+			<td class="tg-0lax">1.78:1</td>
+			<td class="tg-0lax">1</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">10</td>
+			<td class="tg-0lax">8</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Big hero 6</td>
+			<td class="tg-0lax">2014</td>
+			<td class="tg-0lax">1.78:1</td>
+			<td class="tg-0lax">9.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">10</td>
+			<td class="tg-0lax">7.8</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">The Big Sleep</td>
+			<td class="tg-0lax">1946</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">3.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">7.9</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">The Big Sleep</td>
+			<td class="tg-0lax">1946</td>
+			<td class="tg-0lax">1.37:1</td>
+			<td class="tg-0lax">0.00</td>
+			<td class="tg-0lax">DVD</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">7.9</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Blade Runner</td>
+			<td class="tg-0lax">1982</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">3.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">8.1</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Blade Runner 2049</td>
+			<td class="tg-0lax">2017</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">2.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">8</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Blade Runner 2049 4K</td>
+			<td class="tg-0lax">2017</td>
+			<td class="tg-0lax">2.40:1</td>
+			<td class="tg-0lax">18.25</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">8</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Bram Stokers Dracula</td>
+			<td class="tg-0lax">1992</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">4.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">7.4</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Breakfast at tiffanys</td>
+			<td class="tg-0lax">0000</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0.00</td>
+			<td class="tg-0lax">RakutenTV</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Captain America Civil War</td>
+			<td class="tg-0lax">2016</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">6.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">7</td>
+			<td class="tg-0lax">7.8</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Casablanca</td>
+			<td class="tg-0lax">1942</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">5.39</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">8.5</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Casablanca</td>
+			<td class="tg-0lax">1942</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">5.39</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">8.5</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">The Castle of Cagliostro</td>
+			<td class="tg-0lax">1979</td>
+			<td class="tg-0lax">1.78:1</td>
+			<td class="tg-0lax">0.00</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">7.7</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Chappie</td>
+			<td class="tg-0lax">2015</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">1.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">7</td>
+			<td class="tg-0lax">6.8</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Childhood's End</td>
+			<td class="tg-0lax">2016</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">3.34</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">6.9</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Collateral 4K Bluray</td>
+			<td class="tg-0lax">2004</td>
+			<td class="tg-0lax">2.39:1</td>
+			<td class="tg-0lax">19.99</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">7.5</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Dark Passage</td>
+			<td class="tg-0lax">1947</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0.00</td>
+			<td class="tg-0lax">DVD</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">7.5</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">The Dead Don't Die</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">1.85:1</td>
+			<td class="tg-0lax">6.49</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Detour (Criterion Collection)</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">1.37:1</td>
+			<td class="tg-0lax">12.49</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Drive</td>
+			<td class="tg-0lax">2011</td>
+			<td class="tg-0lax">2.35:1</td>
+			<td class="tg-0lax">7.00</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">10</td>
+			<td class="tg-0lax">7.8</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Dune 4K</td>
+			<td class="tg-0lax">2021</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">19.99</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">10</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">The Garden of Words</td>
+			<td class="tg-0lax">2013</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">4.49</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">7.5</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">The Garden of Words</td>
+			<td class="tg-0lax">2013</td>
+			<td class="tg-0lax">1.85:1</td>
+			<td class="tg-0lax">4.99</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">7.5</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">The Grand Budapest Hotel</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">2.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Ex_Machina</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">13.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">10</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Far from Heaven</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">7.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">7</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Fast and Furious</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Fight Club</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">2.39:1</td>
+			<td class="tg-0lax">1.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Gattaca</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">3.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Gattaca 4K</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">9.99</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Ghost in the shell</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">5.00</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Ghost in the shell: innocence</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">5.00</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Guardians of the galaxy</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">6.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Harry Potter and the chamber of secrets</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">26.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">7</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Harry Potter and the deathly hallows</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">7</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Harry Potter and the goblet of fire</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">7</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Harry Potter and the halfblood prince</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">7</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Harry Potter and the order of the phoenix</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">7</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Harry Potter and the prisoner of azkaban</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">7</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Howls Moving Castle</td>
+			<td class="tg-0lax">2004</td>
+			<td class="tg-0lax">1.78:1</td>
+			<td class="tg-0lax">0.00</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">8.2</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">I, Robot</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">1.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Iceage</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">In a lonely Place (Criterion Collection)</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">1.33:1</td>
+			<td class="tg-0lax">12.50</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">10</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Instant Family</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">4.49</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Interstella 4K</td>
+			<td class="tg-0lax">2014</td>
+			<td class="tg-0lax">1.78:1-2.39:1</td>
+			<td class="tg-0lax">15.99</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">10</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Interstella</td>
+			<td class="tg-0lax">2014</td>
+			<td class="tg-0lax">1.78:1-2.39:1</td>
+			<td class="tg-0lax">11.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">10</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">In the mood for love criterion</td>
+			<td class="tg-0lax">2000</td>
+			<td class="tg-0lax">1.66:1</td>
+			<td class="tg-0lax">18.39</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Ivan's Childhood Criterion</td>
+			<td class="tg-0lax">1962</td>
+			<td class="tg-0lax">1.37:1</td>
+			<td class="tg-0lax">16.99</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">8.1</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">I want to eat your pancreas</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0:0:0</td>
+			<td class="tg-0lax">6.99</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">The Jungle Book</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">13.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">The Karate Kid</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">3.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Key Largo</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">1.37:1</td>
+			<td class="tg-0lax">0.00</td>
+			<td class="tg-0lax">DVD</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Kiki's Delivery Service</td>
+			<td class="tg-0lax">1989</td>
+			<td class="tg-0lax">1.78:1</td>
+			<td class="tg-0lax">0.00</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">7.9</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Kiss me deadly (Criterion Collection)</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">1.66:1</td>
+			<td class="tg-0lax">12.49</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Knives Out</td>
+			<td class="tg-0lax">2019</td>
+			<td class="tg-0lax">1.85:1</td>
+			<td class="tg-0lax">15.00</td>
+			<td class="tg-0lax">4K Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">7.9</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Laputa Castle in the Sky</td>
+			<td class="tg-0lax">1986</td>
+			<td class="tg-0lax">1.78:1</td>
+			<td class="tg-0lax">0.00</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">8</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Last and First Men</td>
+			<td class="tg-0lax">2020</td>
+			<td class="tg-0lax">1.66:1</td>
+			<td class="tg-0lax">0.51</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">6.7</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Lost Highway</td>
+			<td class="tg-0lax">1997</td>
+			<td class="tg-0lax">2.39:1</td>
+			<td class="tg-0lax">17.24</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Lost in translation</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">1.85:1</td>
+			<td class="tg-0lax">3.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">The Maltese Falcon</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">4.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">The Martian</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">2.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Mildred Pierce(Criterion Collection)</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">1.37:1</td>
+			<td class="tg-0lax">12.49</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Minority Report</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">6.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">The Mirror</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">11.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">The Mirror Criterion 2K Blu-ray</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">1.37:1</td>
+			<td class="tg-0lax">25.99-25=0.99</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">My Neighbour Totoro</td>
+			<td class="tg-0lax">1988</td>
+			<td class="tg-0lax">1.78:1</td>
+			<td class="tg-0lax">0.00</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">8.2</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Niagara</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">3.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Nostalgia</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">6.99</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Nostalgia</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">5.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Prospect</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0.26</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">NR</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">The Place Promised in Our Early Days</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">4.49</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">7</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">The Tale of the Princess Kaguya</td>
+			<td class="tg-0lax">2013</td>
+			<td class="tg-0lax">1.78:1</td>
+			<td class="tg-0lax">0.00</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">8</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Princess Mononoke</td>
+			<td class="tg-0lax">1997</td>
+			<td class="tg-0lax">1.78:1</td>
+			<td class="tg-0lax">0.00</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">8.4</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">The Sacrifice</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">4.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Safety Last (Criterion Collection)</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">1.37:1</td>
+			<td class="tg-0lax">12.49</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">The Shining 4K</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">15.30</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">10</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">The Shining</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">4.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">10</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Star Wars Rogue One</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">7.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">7</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Solaris (1972)</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">11.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">10</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Solaris (Criterion Collection)</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">2.35:1</td>
+			<td class="tg-0lax">12.50</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">10</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Spirited Away</td>
+			<td class="tg-0lax">2001</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">14.99</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">10</td>
+			<td class="tg-0lax">8.6</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Stalker</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">4.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Stalker (Criterion Collection)</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">1.37:1</td>
+			<td class="tg-0lax">17.99</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Star Wars. The Force Awakens</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">2.40:1</td>
+			<td class="tg-0lax">0.00</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Tenet</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0.00</td>
+			<td class="tg-0lax">SkyStore</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">8</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Terminator 2 4K Steelbook</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">28</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Thor Ragnarok 4K</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">2.39:1</td>
+			<td class="tg-0lax">0.00</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">To Have and Have Not</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">1.37:1</td>
+			<td class="tg-0lax">0.00</td>
+			<td class="tg-0lax">DVD</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Total Recall</td>
+			<td class="tg-0lax">1990</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">9.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">7.5</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Total Recall 4K</td>
+			<td class="tg-0lax">1990</td>
+			<td class="tg-0lax">1.85:1</td>
+			<td class="tg-0lax">15</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">7.5</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Toy Story 3</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">13.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">10</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Weathering with you</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">5.99</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">Y</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Whisper of the Heart</td>
+			<td class="tg-0lax">1995</td>
+			<td class="tg-0lax">1.78:1</td>
+			<td class="tg-0lax">0.00</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">7</td>
+			<td class="tg-0lax">7.9</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">The Woman in the Window</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">1.33:1</td>
+			<td class="tg-0lax">11.99</td>
+			<td class="tg-0lax">Blu-ray</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+		<tr>
+			<td class="tg-0lax">Your Name</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">6.99</td>
+			<td class="tg-0lax">GOOG</td>
+			<td class="tg-0lax">N</td>
+			<td class="tg-0lax">9</td>
+			<td class="tg-0lax">0</td>
+		</tr>
+	</tbody>
+</table>
+		
+
+
+<!-- End content area. -->
+
+<footer>
+<div class="footer-inside">
+<div class="footer-text">
+
+<p>LCARS Inspired Website Template designed &amp; developed by Jim Robertus <a href="https://www.thelcars.com">www.TheLCARS.com</a>.</p>
+</div>
+</div>
+<div class="footer-panel">
+<span class="hop">22</span>47
+</div>
+</footer>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="lcars.js"></script>
 </body>
 </html>
