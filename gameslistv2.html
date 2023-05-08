@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="date=no">
+<link rel="stylesheet" type="text/css" href="lcars-lower-decks-padd.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Antonio:wght@400;700&display=swap" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<script>
+	function sortTable() {
+	var table, rows, switching, i, x, y, shouldSwitch;
+	table = document.getElementById("myTable");
+	switching = true;
+	/*Make a loop that will continue until
+	no switching has been done:*/
+	while (switching) {
+	//start by saying: no switching is done:
+	switching = false;
+	rows = table.rows;
+	/*Loop through all table rows (except the
+	first, which contains table headers):*/
+	for (i = 1; i < (rows.length - 1); i++) {
+	//start by saying there should be no switching:
+	shouldSwitch = false;
+	/*Get the two elements you want to compare,
+	one from current row and one from the next:*/
+	x = rows[i].getElementsByTagName("TD")[0];
+	y = rows[i + 1].getElementsByTagName("TD")[0];
+	//check if the two rows should switch place:
+	if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+	//if so, mark as a switch and break the loop:
+	shouldSwitch = true;
+	break;
+	}
+	}
+	if (shouldSwitch) {
+	/*If a switch has been marked, make the switch
+	and mark that a switch has been done:*/
+	rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+	switching = true;
+	}
+	}
+	}
+
+	function sortTablebynum() {
+	var table, rows, switching, i, x, y, shouldSwitch;
+	table = document.getElementById("myTable");
+	switching = true;
+	/*Make a loop that will continue until
+	no switching has been done:*/
+	while (switching) {
+	//start by saying: no switching is done:
+	switching = false;
+	rows = table.rows;
+	/*Loop through all table rows (except the
+	first, which contains table headers):*/
+	for (i = 1; i < (rows.length - 1); i++) {
+	//start by saying there should be no switching:
+	shouldSwitch = false;
+	/*Get the two elements you want to compare,
+	one from current row and one from the next:*/
+	x = rows[i].getElementsByTagName("TD")[6];
+	y = rows[i + 1].getElementsByTagName("TD")[6];
+	//check if the two rows should switch place:
+	if (Number(x.innerHTML) <  Number(y.innerHTML)) {
+	//if so, mark as a switch and break the loop:
+	shouldSwitch = true;
+	break;
+	}
+	}
+	if (shouldSwitch) {
+	/*If a switch has been marked, make the switch
+	and mark that a switch has been done:*/
+	rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+	switching = true;
+	}
+	}
+	}
+</script>
+
+
+<style>
+	* {
+	box-sizing: border-box;
+	}
+	
+	/* Create two equal columns that floats next to each other */
+	.column {
+	float: left;
+	width: 50%;
+	padding: 10px;
+	}
+	
+	/* Clear floats after the columns */
+	.row:after {
+	content: "";
+	display: table;
+	clear: both;
+	}
+</style>
+
+
+</head>
+<body>
+<div class="wrap">
+<div class="scroll-top">
+<a id="scroll-top" href=""><span class="hop">screen</span> top</a>
+</div>
+<div class="left-frame-top">
+<div class="panel-1"><a href="">LCARS</a></div>
+<div class="panel-2">02<span class="hop">-262000</span></div>
+</div>
+<div class="right-frame-top">
+<div class="banner">
+LCARS &#149; Online
+</div>
+<div class="data-cascade-button-group">
+<div class="cascade-wrapper">
+<div class="data-cascade" id="default">
+<div class="row-1"><div class="dc1">101</div><div class="dc2">7109</div><div class="dc3">1966</div><div class="dc4">1222</div><div class="dc5">2020</div><div class="dc6">1444</div><div class="dc7">102</div><div class="dc8">1103</div><div class="dc9">1935</div><div class="dc10">1940</div><div class="dc11">708</div><div class="dc12">M113</div><div class="dc13">1956</div><div class="dc14">1209</div></div><div class="row-2"><div class="dc1">102</div><div class="dc2">8102</div><div class="dc3">1987</div><div class="dc4">044</div><div class="dc5">0051</div><div class="dc6">607</div><div class="dc7">1976</div><div class="dc8">1031</div><div class="dc9">1984</div><div class="dc10">1954</div><div class="dc11">1103</div><div class="dc12">415</div><div class="dc13">1045</div><div class="dc14">1864</div></div><div class="row-3"><div class="dc1">103</div><div class="dc2">714</div><div class="dc3">1993</div><div class="dc4">0222</div><div class="dc5">052</div><div class="dc6">1968</div><div class="dc7">2450</div><div class="dc8">746</div><div class="dc9">56</div><div class="dc10">47</div><div class="dc11">716</div><div class="dc12">8719</div><div class="dc13">417</div><div class="dc14">602</div></div><div class="row-4"><div class="dc1">104</div><div class="dc2">6104</div><div class="dc3">1995</div><div class="dc4">322</div><div class="dc5">90</div><div class="dc6">1931</div><div class="dc7">1701</div><div class="dc8">51</div><div class="dc9">29</div><div class="dc10">218</div><div class="dc11">908</div><div class="dc12">2114</div><div class="dc13">85</div><div class="dc14">3504</div></div><div class="row-5"><div class="dc1">105</div><div class="dc2">08</div><div class="dc3">2001</div><div class="dc4">713</div><div class="dc5">079</div><div class="dc6">1940</div><div class="dc7">LV</div><div class="dc8">426</div><div class="dc9">105</div><div class="dc10">10</div><div class="dc11">1206</div><div class="dc12">1979</div><div class="dc13">402</div><div class="dc14">795</div></div><div class="row-6"><div class="dc1">106</div><div class="dc2">31</div><div class="dc3">2017</div><div class="dc4">429</div><div class="dc5">65</div><div class="dc6">871</div><div class="dc7">1031</div><div class="dc8">541</div><div class="dc9">656</div><div class="dc10">764</div><div class="dc11">88</div><div class="dc12">001</div><div class="dc13">27</div><div class="dc14">05</div></div>
+</div> 
+</div> 
+<div class="button-col">
+<div class="button" id="top-left"><a href="https://www.skeggs.net">Home</a></div>
+<div class="button" id="bottom-left"><a href="#post-2">02</a></div>
+</div>
+<div class="button-col">
+<div class="button" id="top-right"><a href="#post-3">03</a></div>
+<div class="button" id="bottom-right"><a href="#post-4">04</a></div>
+</div>
+</div>
+<div class="runner">
+<div class="top-corner-bg">
+<div class="top-corner"></div>
+</div>
+<div class="block-2"></div>
+<div class="block-3"></div>
+<div class="block-4">
+<div class="block-4-floatbar"></div>
+</div>
+</div>
+<div class="bar-panel">
+<div class="bar-1"></div>
+<div class="bar-2"></div>
+<div class="bar-3"></div>
+<div class="bar-4"><div class="bar-4-inside"></div></div>
+<div class="bar-5"></div>		
+</div>
+</div>
+</div>
+<div class="wrap" id="gap">
+<div class="left-frame">
+<div>
+<div class="panel-3">03<span class="hop">-111968</span></div>
+<div class="sidebar-buttons">
+	<a href="#post-4">Oven</a>
+	<a href="https://www.skeggs.net/cocktails.html" target="_blank">Cocktails</a>
+</div>
+<div class="panel-4">04<span class="hop">-041969</span></div>
+<div class="panel-5">05<span class="hop">-1701D</span></div>			
+<div class="panel-6">06<span class="hop">-071984</span></div>
+<div class="panel-7">07<span class="hop">-081940</span></div>
+<div class="panel-8">08<span class="hop">-47148</span></div>
+<div class="panel-9">09<span class="hop">-081966</span></div>
+</div>
+<div>
+<div class="panel-10">10<span class="hop">-31</span></div>
+</div>
+</div>
+<div class="right-frame">
+<div class="bar-panel">
+<div class="bar-6"></div>
+<div class="bar-7"></div>
+<div class="bar-8"></div>
+<div class="bar-9"><div class="bar-9-inside"></div></div>
+<div class="bar-10"></div>
+</div>
+<div class="runner">
+<div class="corner-bg">
+<div class="corner"></div>
+</div>
+<div class="block-2"></div>
+<div class="block-3"></div>
+<div class="block-4b">
+<div class="block-4-floatbar"></div>
+</div>
+</div>
+<div class="content">
+
+<!-- Start your content here. -->
+
+<h2>&#149; Welcome  &#149; </h2>
+
+<p>Live long and prosper.</p>
+
+<style type="text/css">
+	.tg  {border-collapse:collapse;border-spacing:0;}
+	.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+	overflow:hidden;padding:10px 5px;word-break:normal;}
+	.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+	font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+	.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+
+<p>Click the button to sort the table alphabetically, by name:</p>
+<p><button onclick="sortTable()">Sort</button></p>
+
+<p>Click the button to sort the table numerically by my rating:</p>
+<p><button onclick="sortTablebynum()">Sort</button></p>
+
+<table class="tg" id="myTable">
+	<thead>
+		<tr>
+			<th class="tg-0lax">Title</th>
+			<th class="tg-0lax">Cost</th>
+			<th class="tg-0lax">Location</th>
+			<th class="tg-0lax">My Rating</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td class="tg-0lax">Abzu</td>
+			<td class="tg-0lax">3.99</td>
+			<td class="tg-0lax">Playstationn Digital</td>
+			<td class="tg-0lax">9</td>
+		</tr>
+	   <tr>
+	   	<td class="tg-0lax">Apex Legends</td>
+	   	<td class="tg-0lax">Free</td>
+	   	<td class="tg-0lax">Steam</td>
+	   	<td class="tg-0lax">7</td>
+	   </tr>
+   <tr>
+   			<td class="tg-0lax">Alien Isolation</td>
+   		<td class="tg-0lax">Free</td>
+   		<td class="tg-0lax">Epic</td>
+   		<td class="tg-0lax">7</td>
+   	</tr>
+<tr>
+		<td class="tg-0lax">Battlefield 1</td>
+		<td class="tg-0lax">28.99</td>
+		<td class="tg-0lax">Origin, DVD</td>
+		<td class="tg-0lax">7</td>
+</tr>
+<tr>
+		<td class="tg-0lax">Borderlands 3</td>
+		<td class="tg-0lax">0.02</td>
+		<td class="tg-0lax">Playstation Disc</td>
+		<td class="tg-0lax">7</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Call of Duty</td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+</tr>
+<tr>
+		<td class="tg-0lax">Doom</td>
+		<td class="tg-0lax">9.99</td>
+		<td class="tg-0lax">Steam</td>
+		<td class="tg-0lax">8</td>
+</tr>
+<tr>
+		<td class="tg-0lax">Doom 2: Hell on earth</td>
+		<td class="tg-0lax">3.99</td>
+		<td class="tg-0lax">Steam</td>
+		<td class="tg-0lax">7</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Dreams</td>
+	<td class="tg-0lax">29.99</td>
+	<td class="tg-0lax">Playstation Disc</td>
+	<td class="tg-0lax">9</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Dusk</td>
+	<td class="tg-0lax">8.99</td>
+	<td class="tg-0lax">Steam</td>
+	<td class="tg-0lax">7</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Dying Light</td>
+	<td class="tg-0lax">Free</td>
+	<td class="tg-0lax">Steam</td>
+	<td class="tg-0lax">6</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Everspace</td>
+	<td class="tg-0lax">13.79</td>
+	<td class="tg-0lax">Steam</td>
+	<td class="tg-0lax">6</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Far Cry 4</td>
+	<td class="tg-0lax">10.79</td>
+	<td class="tg-0lax">Steam</td>
+	<td class="tg-0lax">7</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Far Cry 5</td>
+	<td class="tg-0lax">24.99</td>
+	<td class="tg-0lax">Steam</td>
+	<td class="tg-0lax">9</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Fortnite</td>
+	<td class="tg-0lax">Free</td>
+	<td class="tg-0lax">Playstation Digital</td>
+	<td class="tg-0lax">8</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Forza Horizon 4 Standard ed</td>
+	<td class="tg-0lax">24.99</td>
+	<td class="tg-0lax">Microsoft</td>
+	<td class="tg-0lax">9</td>
+</tr>
+<tr>
+	<td class="tg-0lax">God of war</td>
+	<td class="tg-0lax">2.99</td>
+	<td class="tg-0lax">Playstation disc</td>
+	<td class="tg-0lax">9</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Half Life 2</td>
+	<td class="tg-0lax">6.99</td>
+	<td class="tg-0lax">Steam</td>
+	<td class="tg-0lax">8</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Half Life 2: Episode 2</td>
+	<td class="tg-0lax">1.11</td>
+	<td class="tg-0lax">Steam</td>
+	<td class="tg-0lax">8</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Half Life 2: Lost Coast</td>
+	<td class="tg-0lax">0.00</td>
+	<td class="tg-0lax">Steam</td>
+	<td class="tg-0lax">8</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Heretic: Shadow of the Serpent riders</td>
+	<td class="tg-0lax">1.79</td>
+	<td class="tg-0lax">Steam</td>
+	<td class="tg-0lax">8</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Hexen: Beyond Heretic</td>
+	<td class="tg-0lax">0.00</td>
+	<td class="tg-0lax">Steam</td>
+	<td class="tg-0lax">8</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Hexen: Deathkings of the dark citadel</td>
+	<td class="tg-0lax">0.00</td>
+	<td class="tg-0lax">Steam</td>
+	<td class="tg-0lax">8</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Hexen 2</td>
+	<td class="tg-0lax">0.00</td>
+	<td class="tg-0lax">Steam</td>
+	<td class="tg-0lax">8</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Horizon Zero Dawn</td>
+	<td class="tg-0lax">2.97</td>
+	<td class="tg-0lax">Playstation Disc</td>
+	<td class="tg-0lax">7</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Need for Speed: Hot Pursuit</td>
+	<td class="tg-0lax">3.74</td>
+	<td class="tg-0lax">Steam</td>
+	<td class="tg-0lax">7</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Need for Speed: Hot pursuit remastered</td>
+	<td class="tg-0lax">12.49</td>
+	<td class="tg-0lax">Steam/Origin</td>
+	<td class="tg-0lax">7</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Need for Speed: Hot Pursuit Remastered</td>
+	<td class="tg-0lax">5.49</td>
+	<td class="tg-0lax">Playstation disc</td>
+	<td class="tg-0lax">7</td>
+</tr>
+<tr>
+	<td class="tg-0lax">The Outer Worlds</td>
+	<td class="tg-0lax">22.73</td>
+	<td class="tg-0lax">Playstation disc</td>
+	<td class="tg-0lax">8</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Overwatch 2</td>
+	<td class="tg-0lax">12.99</td>
+	<td class="tg-0lax">Battlenet</td>
+	<td class="tg-0lax">10</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Overwatch 2</td>
+	<td class="tg-0lax">0.00</td>
+	<td class="tg-0lax">Playstation digital</td>
+	<td class="tg-0lax">9</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Persona Royal 5</td>
+	<td class="tg-0lax">23.99-5.00</td>
+	<td class="tg-0lax">playstation disc</td>
+	<td class="tg-0lax">8</td>
+</tr>
+<tr>
+	<td class="tg-0lax">A Plague Tale: innocence</td>
+	<td class="tg-0lax">free</td>
+	<td class="tg-0lax">Epic</td>
+	<td class="tg-0lax">0</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Project Cars</td>
+	<td class="tg-0lax">7.95</td>
+	<td class="tg-0lax">Steam</td>
+	<td class="tg-0lax">6</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Quake</td>
+	<td class="tg-0lax">5.09</td>
+	<td class="tg-0lax">Steam</td>
+	<td class="tg-0lax"></td>
+</tr>
+<tr>
+	<td class="tg-0lax">Quake 2</td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+</tr>
+<tr>
+	<td class="tg-0lax">Quake 2: Ground zero</td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+</tr>
+<tr>
+	<td class="tg-0lax">Quake 2: RTX/td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+</tr>
+<tr>
+	<td class="tg-0lax">Quake 2: The Reckoning</td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+</tr>
+<tr>
+	<td class="tg-0lax">Quake 3: Arena</td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+</tr>
+<tr>
+	<td class="tg-0lax">Quake 3: Team Arena</td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+</tr>
+<tr>
+	<td class="tg-0lax">Resident Evil 7 Biohazard</td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+</tr>
+<tr>
+	<td class="tg-0lax">S.T.A.L.K.E.R.</td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+</tr>
+<tr>
+	<td class="tg-0lax">The Hunter: Call of the wild</td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+</tr>
+<tr>
+	<td class="tg-0lax">Titan Fall 2</td>
+	<td class="tg-0lax">3.59</td>
+	<td class="tg-0lax">Playstation Digital</td>
+	<td class="tg-0lax">10</td>
+</tr>
+<tr>
+	<td class="tg-0lax">Tomb Raider</td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+</tr>
+<tr>
+	<td class="tg-0lax">Total War Saga: Thrones of Britannia</td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+</tr>
+<tr>
+	<td class="tg-0lax">Uncharted 4: A Thief's End</td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+</tr>
+<tr>
+	<td class="tg-0lax">Warhammer: End Times - Vermintide</td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+</tr>
+<tr>
+	<td class="tg-0lax">The Witcher 3: Wild Hunt</td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+</tr>
+ <tr>
+ 	<td class="tg-0lax">Worms</td>
+ 	<td class="tg-0lax"></td>
+ 	<td class="tg-0lax"></td>
+ 	<td class="tg-0lax"></td>
+ </tr>
+<tr>
+	<td class="tg-0lax">Worms Armageddon</td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+	<td class="tg-0lax"></td>
+</tr>
+	</tbody>
+</table>
+		
+
+
+<!-- End content area. -->
+
+<footer>
+<div class="footer-inside">
+<div class="footer-text">
+
+<p>LCARS Inspired Website Template designed &amp; developed by Jim Robertus <a href="https://www.thelcars.com">www.TheLCARS.com</a>.</p>
+</div>
+</div>
+<div class="footer-panel">
+<span class="hop">22</span>47
+</div>
+</footer>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="lcars.js"></script>
+</body>
+</html>
