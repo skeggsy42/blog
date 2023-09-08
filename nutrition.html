@@ -38,14 +38,15 @@
 
 /* Define a container for your nutrition content */
 	.nutrition-container {
-  		max-width: 600px; /* Adjust this value to your desired maximum width */
-  		margin: 0 auto; /* Center the container on the page */	
+  		max-width: 600px !important; /* Adjust this value to your desired maximum width */
+  		margin: 0 auto !important; /* Center the container on the page */	
 	}
 
 /* Define styles for your nutrition content */
-	.nutrition-content {
+	body .nutrition-content {
 		font-size: 12px;
 		color:white;
+		white-space: normal !important;
   		/* Your existing styles for the nutrition content go here */
 	}
 
@@ -53,7 +54,7 @@
 	@media screen and (max-width: 390px) {
   	/* Adjust styles for smaller screens */
   	.nutrition-container {
-    	max-width: 100%; /* Allow the container to take full width on smaller screens */
+    	max-width: 100% !important; /* Allow the container to take full width on smaller screens */
   	}
 }
 
