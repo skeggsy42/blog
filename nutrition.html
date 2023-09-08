@@ -31,6 +31,26 @@
 	display: table;
 	clear: both;
 	}
+	
+	article {
+		font-size: 14px;
+		color:white;}
+	table, th, td {
+		border: 1px solid;
+		border-collapse: collapse;}	
+	.divcustom {
+		width: 100%;
+		overflow: visible;
+		white-space: normal;
+	}
+	div.scroll {
+        margin: 4px, 4px;
+        padding: 4px;
+        width: 1000px;
+        overflow-x: auto;
+        overflow-y: hidden;
+        white-space: nowrap;
+    }
 </style>
 
 
@@ -123,21 +143,24 @@ LCARS &#149; Online
 
 <!-- Start your content here. -->
 
-<section id="foods" class="level1" data-number="2">
-	<h1 data-number="2">Foods</h1>
-	<p>Introduction</p>
-	<section id="almonds" class="level2" data-number="2.1">
-	<h2 data-number="2.1" id="sigil_toc_id_4">Almonds</h2>
-	<p>Good for the Immune system, Skin</p>
-	<p>A good source of protein, especially for vegetarians, as well as fibre, B vitamins, vitamin E, calcium, magnesium, iron and zinc.<br/>
-	Vitamin E performs as an antioxidant in the body, boosts the immune system and helps to maintain healthy skin and eyes. Vitamin E also helps to widen blood vessels and keep blood from clotting within them.<br/>
-	Note that Vitamin E suppliments have been shown to protect against cardiovascular disease and cancer but high doses have been associated with a higher risk of death. Eating healthily (including Almonds) is the best way to get this vitamin.<br/>
-	Almonds contain monounsaturated fats and plant sterols, which lower LDL-Cholesterol and reduce risk of heart disease.<br/>
-	Almonds are a good source of Magnesium.<br/>
-	Magnesium is an essential mineral and a cofactor in more than 300 enzyme systems that regulate diverse biological reactions in the body, including protein synthesis, muscle and nerve function, blood glucose control and blood pressure regulation.<br/>
-	Almonds contain the amino acid arginine which promotes activation of cold sores and other herpes infections.<br/>
-	</p>
-	<div id="tab:table1">
+<section id="foods">
+	<section id="almonds">
+		<div class="lcars-text-bar">
+			<span>Almonds</span>
+		</div>	
+		<div class="scroll">
+		Good for the Immune system, Skin<br/>
+		A good source of protein, especially for vegetarians, as well as fibre, B vitamins, vitamin E, calcium, magnesium, iron and zinc.<br/>
+		Vitamin E performs as an antioxidant in the body, boosts the immune system and helps to maintain healthy skin and eyes. <br/>
+		Vitamin E also helps to widen blood vessels and keep blood from clotting within them.<br/>
+		Note that Vitamin E suppliments have been shown to protect against cardiovascular disease and cancer but high doses have been associated with a higher risk of death. <br/>
+		Eating healthily (including Almonds) is the best way to get this vitamin.<br/>
+		Almonds contain monounsaturated fats and plant sterols, which lower LDL-Cholesterol and reduce risk of heart disease.<br/>
+		Almonds are a good source of Magnesium.<br/>
+		Magnesium is an essential mineral and a cofactor in more than 300 enzyme systems that regulate diverse biological reactions in the body, including protein synthesis, muscle and nerve function, blood glucose control and blood pressure regulation.<br/>
+		Almonds contain the amino acid arginine which promotes activation of cold sores and other herpes infections.<br/>
+		</div>
+		<div id="tab:table1">
 	<table>
 	<caption>Almonds Calories 579 per 100g</caption>
 	<thead>
@@ -212,7 +235,9 @@ LCARS &#149; Online
 	</div>
 	</section>
 	<section id="apple" class="level2" data-number="2.2">
-	<h2 data-number="2.2" id="sigil_toc_id_5">Apple</h2>
+		<div class="lcars-text-bar">
+			<span>Apple</span>
+		</div>
 	
 	 Here are some of the key nutritional benefits of apples:<br/>
 	<br/>
