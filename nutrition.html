@@ -5,13 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <meta name="format-detection" content="date=no">
-<link rel="stylesheet" type="text/css" href="lcars-lower-decks-padd.min.css">
+<link rel="stylesheet" type="text/css" href="lcars-tng-legacy-2.min.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Antonio:wght@400;700&display=swap" rel="stylesheet">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-
-
 
 <style>
 	* {
@@ -32,28 +30,35 @@
 	clear: both;
 	}
 	
-	article {
-		font-size: 14px;
-		color:white;}
 	table, th, td {
 		border: 1px solid;
 		border-collapse: collapse;}	
-	.divcustom {
-		width: 100%;
-		overflow: visible;
-		white-space: normal;
+
+/* Define a container for your nutrition content */
+	.nutrition-container {
+  		max-width: 600px; /* Adjust this value to your desired maximum width */
+  		margin: 0 auto; /* Center the container on the page */	
 	}
-	div.scroll {
-        margin: 4px, 4px;
-        padding: 4px;
-        width: 1000px;
-        overflow-x: auto;
-        overflow-y: hidden;
-        white-space: nowrap;
-    }
+
+/* Define styles for your nutrition content */
+	.nutrition-content {
+		font-size: 14px;
+		color:white;
+  		/* Your existing styles for the nutrition content go here */
+	}
+
+	/* Define a media query for smaller screens */
+	@media screen and (max-width: 600px) {
+  	/* Adjust styles for smaller screens */
+  	.nutrition-container {
+    	max-width: 100%; /* Allow the container to take full width on smaller screens */
+  	}
+}
+
+
+
+
 </style>
-
-
 </head>
 <body>
 <div class="wrap">
@@ -139,28 +144,24 @@ LCARS &#149; Online
 <div class="block-4-floatbar"></div>
 </div>
 </div>
-<div class="content">
 
 <!-- Start your content here. -->
-
-<section id="foods">
-	<section id="almonds">
-		<div class="lcars-text-bar">
-			<span>Almonds</span>
-		</div>	
-		<div class="scroll">
-		Good for the Immune system, Skin<br/>
-		A good source of protein, especially for vegetarians, as well as fibre, B vitamins, vitamin E, calcium, magnesium, iron and zinc.<br/>
-		Vitamin E performs as an antioxidant in the body, boosts the immune system and helps to maintain healthy skin and eyes. <br/>
-		Vitamin E also helps to widen blood vessels and keep blood from clotting within them.<br/>
-		Note that Vitamin E suppliments have been shown to protect against cardiovascular disease and cancer but high doses have been associated with a higher risk of death. <br/>
-		Eating healthily (including Almonds) is the best way to get this vitamin.<br/>
-		Almonds contain monounsaturated fats and plant sterols, which lower LDL-Cholesterol and reduce risk of heart disease.<br/>
-		Almonds are a good source of Magnesium.<br/>
-		Magnesium is an essential mineral and a cofactor in more than 300 enzyme systems that regulate diverse biological reactions in the body, including protein synthesis, muscle and nerve function, blood glucose control and blood pressure regulation.<br/>
-		Almonds contain the amino acid arginine which promotes activation of cold sores and other herpes infections.<br/>
-		</div>
-		<div id="tab:table1">
+<div class="nutrition-container">
+<article class="nutrition-content">
+	<div class="lcars-text-bar">
+		<span>Almonds</span>
+	</div>	
+	<p>Good for the Immune system, Skin</p>
+	<p>A good source of protein, especially for vegetarians, as well as fibre, B vitamins, vitamin E, calcium, magnesium, iron and zinc.</p>
+	<p>Vitamin E performs as an antioxidant in the body, boosts the immune system and helps to maintain healthy skin and eyes. </p>
+	<p>Vitamin E also helps to widen blood vessels and keep blood from clotting within them.</p>
+	<p>Note that Vitamin E suppliments have been shown to protect against cardiovascular disease and cancer but high doses have been associated with a higher risk of death. </p>
+	<p>Eating healthily (including Almonds) is the best way to get this vitamin.</p>
+	<p>Almonds contain monounsaturated fats and plant sterols, which lower LDL-Cholesterol and reduce risk of heart disease.</p>
+	<p>Almonds are a good source of Magnesium.</p>
+	<p>Magnesium is an essential mineral and a cofactor in more than 300 enzyme systems that regulate diverse biological reactions in the body, including protein synthesis, muscle and nerve function, blood glucose control and blood pressure regulation.</p>
+	<p>Almonds contain the amino acid arginine which promotes activation of cold sores and other herpes infections.</p>
+	
 	<table>
 	<caption>Almonds Calories 579 per 100g</caption>
 	<thead>
@@ -232,14 +233,12 @@ LCARS &#149; Online
 	</tr>
 	</tbody>
 	</table>
-	</div>
-	</section>
-	<section id="apple" class="level2" data-number="2.2">
-		<div class="lcars-text-bar">
-			<span>Apple</span>
-		</div>
 	
-	 Here are some of the key nutritional benefits of apples:<br/>
+	<div class="lcars-text-bar">
+		<span>Apple</span>
+	</div>
+	
+	Here are some of the key nutritional benefits of apples:<br/>
 	<br/>
 	<ul>
 		<li>Fiber: Apples are a good source of dietary fiber, including both soluble and insoluble fibers. Soluble fiber can help lower cholesterol levels and improve blood sugar control, while insoluble fiber can promote regular bowel movements and support digestive health.<br/></li>
@@ -250,19 +249,16 @@ LCARS &#149; Online
 		<li>Low in calories: Apples are relatively low in calories, with one medium-sized apple containing around 95 calories. This makes them a good choice for people who are watching their calorie intake or trying to maintain a healthy weight.<br/></li>
 	</ul>
 	
-	While cooking apples can lead to some nutrient losses, they can still provide many of the same nutritional benefits as raw apples. For example, cooked apples still contain fiber, vitamin C, and phytonutrients like quercetin, although the exact levels of these nutrients may be reduced to some extent. <br/>
+	<p>While cooking apples can lead to some nutrient losses, they can still provide many of the same nutritional benefits as raw apples. For example, cooked apples still contain fiber, vitamin C, and phytonutrients like quercetin, although the exact levels of these nutrients may be reduced to some extent.
 	On the other hand, cooking apples can also have some benefits. 
-	For example, cooking apples can increase the availability of certain antioxidants and make it easier for the body to absorb certain nutrients, such as beta-carotene. Additionally, some people find cooked apples to be easier to digest than raw apples, which can be a benefit for those with digestive issues. 
+	For example, cooking apples can increase the availability of certain antioxidants and make it easier for the body to absorb certain nutrients, such as beta-carotene. Additionally, some people find cooked apples to be easier to digest than raw apples, which can be a benefit for those with digestive issues. </p>
 	
-	
-	</section>
-	<section id="apricots" class="level2" data-number="2.3">
 	<h2 data-number="2.3" id="sigil_toc_id_6">Apricots</h2>
 	<p>Good for Age</p>
 	<p>Like other orange coloured fruit and vegetables, apricots are a mine of beta carotene, which protects the skin and lungs from oxidation damage and supports a healthy immune system.</p>
 	<p>Apricots are rich in fibre. </p>
 	<p>Most dried apricots are preserved with sulphur dioxide, so go for the darker, unsulphured ones.</p>
-	<div id="tab:table2">
+	
 	<table>
 	<caption>Apricots Calories 48 per 100g</caption>
 	<thead>
@@ -334,13 +330,11 @@ LCARS &#149; Online
 	</tr>
 	</tbody>
 	</table>
-	</div>
-	</section>
-	<section id="asparagus" class="level2" data-number="2.4">
+	
 	<h2 data-number="2.4" id="sigil_toc_id_7">Asparagus</h2>
 	<p>Good for detox</p>
 	<p>In one serving, you get two-thirds of your daily need for folic acid, which is not only crucial for the proper development of a baby but also good heart health. Asparagus also contains an amino acid called asparagine. Its high potassium content and low sodium, makes it a diuretic and cleanser, useful for processing proteins and flushing through the kidneys. Diuretics not only help reduce blood pressure but also water retention in the legs and premenstrually. Asparagus is a source of the flavonoid, rutin which has an affinity for healthy blood capillaries, helping prevent them from rupturing, such as in haemorrhoids.</p>
-	<div id="tab:table3">
+	
 	<table>
 	<caption>Asparagus Calories 20 per 100g</caption>
 	<thead>
@@ -476,21 +470,18 @@ LCARS &#149; Online
 	</tr>
 	</tbody>
 	</table>
-	</div>
-	</section>
-	<section id="aubergine" class="level2" data-number="2.5">
+	
 	<h2 data-number="2.5" id="sigil_toc_id_8">Aubergine</h2>
 	<p>Excellent source of dietary fibre.<br/>
 	Low in fat.<br/>
-	Good source of vitamins B1 (Thiamine) and B6 (Pyridoxine) and potassium.<br/>
-	B1 helps your body turn food into energy and also keeps the nervous system healthy.<br/>
+	Good source of vitamins B1 (Thiamine) and B6 (Pyridoxine) and potassium.
+	B1 helps your body turn food into energy and also keeps the nervous system healthy.
 	B6 helps the body use and store energy from carbohydrates, and helps keep our red blood cells healthy.<br/>
 	In addition high in minerals copper, magnesium and manganese.<br/>
 	Aubergines are rich in antioxidants, specifically nasunini found in the skin - which gives its purple colour. A potent antioxidant and free radical scavenger, nasunin has been found to protect the lipids (fats) in brain cell membranes. Cell membranes are almost entirely composed of lipids and are responsible for protecting the cell and helping it to function. The lipid layer is crucial for letting nutrients in, wastes out and receiving instructions from messenger molecules that tell the cell what to do.<br/>
 	Aubergines contain significant amounts of oxalate which may pose a risk for individuals with a history of oxalate-containing kidney stones.<br/>
 	</p>
-	<div class="center">
-	<div id="tab:table4">
+	
 	<table>
 	<caption>Aubergine Calories 25 per 100g</caption>
 	<thead>
@@ -594,14 +585,10 @@ LCARS &#149; Online
 	</tr>
 	</tbody>
 	</table>
-	</div>
-	</div>
-	</section>
-	<section id="avocado" class="level2" data-number="2.6">
+	
 	<h2 data-number="2.6" id="sigil_toc_id_9">Avocado</h2>
 	<p>A member of the laurel family, the avocado tree produces pretty much the most nutritious fruit in the world. They are loaded with heart healthy monounsaturated fat, fibre, vitamin E, folic acid, iron, vitamin B3 and potassium. Vitamin E is needed to keep the skin soft and supple. Avocados are also the number one fruit source of beta-sitosterol, a substance that protects against cancer and can reduce total cholesterol. They also surpass other fruits in the antioxidant <strong>lutein</strong>, which studies have shown helps to protect people from <strong>cataracts</strong>, cardiovascular disease and prostate cancer. Avocados are easily digested, and their high fat content means that they are broken down slowly, which is useful for diabetics. They are also one of the richest sources of <strong>potassium, which is essential for healthy blood pressure</strong>, muscle contraction and nerve messaging.</p>
-	<div class="center">
-	<div id="tab:table5">
+	
 	<table>
 	<caption>Avocado Calories 160 per 100g</caption>
 	<thead>
@@ -689,18 +676,14 @@ LCARS &#149; Online
 	</tr>
 	</tbody>
 	</table>
-	</div>
-	</div>
-	</section>
-	<section id="banana" class="level2" data-number="2.7">
+	
 	<h2 data-number="2.7" id="sigil_toc_id_10">Banana</h2>
 	<p>Good for energy</p>
 	<p>Bananas contain plenty of potassium, a mineral that plays a vital role in managing hypertension. Adults should aim to consume 4,700mg of potassium daily. One medium sized banana contains around 422mg of potassium.</p>
 	<p>Bananas are a good source of vitamin B6.</p>
 	<p>A ripe banana is easy to digest as most of the starch has been converted to sugar, and can help relieve constipation (unripe ones may cause it).</p>
 	<p>It is sugar combined with fibre that makes bananas so good for a sustained release of energy, even more so if eaten with some nuts or yoghurt. Fructo-oligosaccharides (FOS) in bananas help feed good bacteria’ in the gut. The pectin fibre in the fruit helps to soothe heartburn, ulcers or inflammation in the digestive tract, and to lower cholesterol. They also contain tryptophan, which the body can convert to serotonin - a hormone that helps lift moods and promote sleep. Multinational corporations cultivate vast swathes of former rainforest in Central and South America to produce cheap bananas, so buy Fair Trade bananas to support fairer, smaller producers.</p>
-	<div class="center">
-	<div id="tab:table6">
+	
 	<table>
 	<caption>Banana Calories 89 per 100g</caption>
 	<thead>
@@ -780,16 +763,12 @@ LCARS &#149; Online
 	</tr>
 	</tbody>
 	</table>
-	</div>
-	</div>
-	</section>
-	<section id="beetroot" class="level2" data-number="2.8">
+	
 	<h2 data-number="2.8" id="sigil_toc_id_11">Beetroot</h2>
 	<p>Good for detox</p>
 	<p>Drinking beet juice can reduce blood pressure in the short and long term. In a 2015 study researchers found that drinking 1 cup of beet juice every day results in an average drop in blood pressure of around 8/4 millimeters of mercury (mm Hg). The researchers suggested that beet’s high levels of inorganic nitrate caused the reduction in blood pressure.</p>
 	<p>One constituent of this root vegetable that contributes to their deep red colour is betacyanin. This and other powerful antioxidants in beetroot have been shown to enhance detoxing processes in the liver and even help protect against cancer of the skin, lungs and colon. Studies have indicated that beetroot extracts increase the activity of the body’s natural antioxidant enzymes in the liver, such as glutathione peroxidase. Beetroot has also been shown to help lower cholesterol and increase the ratio of the HDL good cholesterol to the LDL ’bad’ type. In addition to the roots, beet tops (or leaves) are highly nutritious - loaded with iron and beta carotene. Beetroot is most commonly eaten boiled, but it is wonderful roasted - and eaten raw, particularly if it’s grated.</p>
-	</section>
-	<section id="blueberries-bilberries" class="level2" data-number="2.9">
+	
 	<h2 data-number="2.9" id="sigil_toc_id_12">Blueberries (Bilberries)</h2>
 	<p>An amazing source of antioxidants, in particular anthocyanins (a flavonoid) which are protective against ageing caused by oxidant damage.<br/>
 	High intake of anthocyanins from blueberries and strawberries reduces the risk of high blood pressure.<br/>
@@ -798,8 +777,7 @@ LCARS &#149; Online
 	They also contain a substance called pterostilbene, which helps lower cholesterol and protect against cancer. Pterosilbene is related to reservatrol and potentially has antioxidant, anti-inflammatory, pro-apoptotic, antineoplastic and cytoprotective activities.<br/>
 	Blueberries are also a good source of fibre.<br/>
 	</p>
-	<div class="center">
-	<div id="tab:table7">
+	
 	<table>
 	<caption>Blueberries Calories 57 per 100g</caption>
 	<thead>
@@ -920,10 +898,7 @@ LCARS &#149; Online
 	</tbody>
 	</table>
 	
-	</div>
-	</div>
-	</section>
-	<section id="brazil-nuts" class="level2" data-number="2.10">
+	
 	<h2 data-number="2.10" id="sigil_toc_id_13">Brazil nuts</h2>
 	<p>Brazil nuts are rich in the antioxidant selenium.<br/>
 	This mineral is needed to activate an enzyme in the body called glutathione peroxidase, which helps protect us against oxidants and the development of cancer cells.<br/>
@@ -935,8 +910,7 @@ LCARS &#149; Online
 	Brazil nuts are rich in thiamin, vitamin E, magnesium, phosphorus, manganese and zinc.<br/>
 	The shells of Brazil nuts contain high levels of aflatoxins, which can cause liver damage if consumed.<br/>
 	</p>
-	<div class="center">
-	<div id="tab:table8">
+	
 	<table>
 	<caption>Brazil nuts Calories 656kcal per 100g</caption>
 	<thead>
@@ -1052,10 +1026,7 @@ LCARS &#149; Online
 	</tr>
 	</tbody>
 	</table>
-	</div>
-	</div>
-	</section>
-	<section id="broccoli" class="level2" data-number="2.11">
+	
 	<h2 data-number="2.11" id="sigil_toc_id_14">Broccoli</h2>
 	<p>Brussels sprouts, cabbage, cauliflower and purple-sprouting broccoli are related.<br/>
 	Broccoli is rich in vitamin C and Vitamin K.<br/>
@@ -1063,8 +1034,7 @@ LCARS &#149; Online
 	Broccoli is also a rich sources of the health promoting antioxidants and anticarcinogenic glucosinolates. Of these, sulforaphane, sinigrin and indole-3-carbinol (I3C), have been found to be powerful anti-cancer substances. These compounds are diminished by boiling, but are better preserved by steaming, microwaving or stir-frying.</p>
 	<p>Loaded with beta carotene and its relatives, lutein and zeaxanthin. These chemicals are good for immunity but especially for protecting the eye against sunlight damage and age-related <strong>macular degeneration</strong>.</p>
 	<p>Broccoli is also a source of Quercetin.</p>
-	<div class="center">
-	<div id="tab:table9">
+	
 	<table>
 	<caption>Broccoli,raw Calories 34 per 100g</caption>
 	<thead>
@@ -1204,20 +1174,15 @@ LCARS &#149; Online
 	</tr>
 	</tbody>
 	</table>
-	</div>
-	</div>
-	</section>
-	<section id="brown-rice" class="level2" data-number="2.12">
+	
 	<h2 data-number="2.12" id="sigil_toc_id_15">Brown rice</h2>
 	<p>Good for digestion</p>
 	<p>Brown rice is simply the whole rice grain that has had only the outer hull removed. The process that transforms brown rice into white rice removes most of the vitamin stores, at least half of the minerals, all of the dietary fibre and all of the essential fatty acids. Fibre is best known for encouraging healthy bowel movements; in keeping the elimination of wastes regular, you minimise your risk of problems such as diverticulitis and even colon cancer. Fibre also slows down the release of the starch as sugar into the bloodstream, making for a more satisfying meal and a steady release of energy. Rice is a naturally gluten-free starch, important for people who cannot digest gluten grains such as wheat and oats. Many people make the mistake of not cooking brown rice for long enough so it ends up al dente rather than slightly chewy.</p>
-	</section>
-	<section id="buckwheat" class="level2" data-number="2.13">
+	
 	<h2 data-number="2.13" id="sigil_toc_id_16">Buckwheat</h2>
 	<p>Good for digestion</p>
 	<p>Contrary to the name, buckwheat isn’t a grain, but a fruit seed related to rhubarb. This makes it a good alternative for anyone avoiding the gluten grains (wheat, oats, rye and barley), including people who find gluten triggers digestive problems or depression. Buckwheat contains fibre and all eight essential amino acids, so, for a grain-like food, it is a good source of protein. Although it’s not particularly high in the amino acid tryptophan, the carb content means there’s more chance of the tryptophan being converted to serotonin, which boosts moods. The rich magnesium in buckwheat is useful for relaxing the nervous system and muscles - including those in the bowel, which can alleviate constipation. Buckwheat is notably rich in an antioxidant called rutin that helps to strengthen blood capillaries and prevent the platelets in the blood from clotting together.</p>
-	</section>
-	<section id="cabbage" class="level2" data-number="2.14">
+	
 	<h2 data-number="2.14" id="sigil_toc_id_17">Cabbage</h2>
 	<p>Good for detox</p>
 	<p>Like its relatives broccoli and kale, cabbage contains a range of powerful, sulphurous substances that protect the liver, boost its detox capacity, aid the processing of hormones and can even help protect against certain cancers.<br/>
@@ -1225,13 +1190,11 @@ LCARS &#149; Online
 	Cabbage juice is a traditional remedy for peptic ulcers.<br/>
 	In addition to their high fibre content, cabbages are packed with nutrients such as vitamin C, folic acid, calcium, potassium and many more.<br/>
 	</p>
-	</section>
-	<section id="carrot" class="level2" data-number="2.15">
+	
 	<h2 data-number="2.15" id="sigil_toc_id_18">Carrot</h2>
 	<p>Carrots’ reputation for helping eye sight is down to their high levels of beta carotene, which the body can convert to vitamin A for use in the skin, gut and immune system, as well as the eyes. Vitamin A, once in the retina of the eye, is turned into rhodopsin, a purple pigment that’s needed for night vision. On top of that, beta carotene antioxidant powers help protect against macular degeneration and cataracts. Beta carotene is just one carotenoid in carrots, another is alpha carotene which, with its beta cousin, helps reduce the risk of cancer and heart disease. Carrots are easy to digest, especially when cooked, and loaded with fibre, which is soothing for the digestive tract and boosts detoxification.</p>
 	<p>Another boost for the skin comes from the mineral silica, as well as the vitamin C in carrots.</p>
-	<div class="center">
-	<div id="tab:table9">
+	
 	<table>
 	<caption>Carrots Calories 41 per 100g</caption>
 	<thead>
@@ -1307,10 +1270,7 @@ LCARS &#149; Online
 	</tr>
 	</tbody>
 	</table>
-	</div>
-	</div>
-	</section>
-	<section id="celery" class="level2" data-number="2.16">
+	
 	<h2 data-number="2.16" id="sigil_toc_id_19">Celery</h2>
 	Celery is a low-calorie, nutrient-dense vegetable that provides a range of important vitamins, minerals, and other nutrients. <br/>
 	Here are some of the key nutritional benefits of celery:<br/>
@@ -1324,23 +1284,16 @@ LCARS &#149; Online
 		<li>Low in calories: Celery is very low in calories, with one medium-sized stalk containing only about 10 calories. This makes it a good choice for people who are watching their calorie intake or trying to maintain a healthy weight.<br/></li>
 	</ul>
 	
-	</section>
-	<section id="cherries" class="level2" data-number="2.17">
 	<h2 data-number="2.17" id="sigil_toc_id_20">Cherries</h2>
-	</section>
-	<section id="chicken" class="level2" data-number="2.18">
+	
 	<h2 data-number="2.18" id="sigil_toc_id_21">Chicken</h2>
-	</section>
-	<section id="chocolate" class="level2" data-number="2.19">
+
 	<h2 data-number="2.19" id="sigil_toc_id_22">Chocolate</h2>
 	<p>Cocoa rich chocolate may reduce blood pressure in people with hypertension or prehypertension. Choose minimum 70% cocoa and consume a single square each day.</p>
 	<p>Chocolate’s major ingredient, cocoa, is source of theobromine, which mildly stimulates the nervous system. Chocolate contains small amounts of mood-enhancing phenethylamine, too. It also has a high content of antioxidants including polyphenolic flavonoids, which reduce inflammation, keep blood vessels healthy and lower the risk of cancer That said, regular consumption of fats and sugars in chocolate is linked to health problems, so eat organic, dark chocolate, which contains more cocoa and therefore less sugar and fat.</p>
-	</section>
-	<section id="coconut" class="level2" data-number="2.20">
-	<h2 data-number="2.20" id="sigil_toc_id_23">Coconut</h2>
-	</section>
 	
-	<section>
+	<h2 data-number="2.20" id="sigil_toc_id_23">Coconut</h2>
+	
 	<h2 id="sigil_toc_id_71">Cranberries</h2>
 	Cranberries are a nutrient-dense fruit that offer several health benefits. Here are some of the key nutritional benefits of cranberries:
 	
@@ -1415,14 +1368,6 @@ LCARS &#149; Online
 	</table>
 	
 	
-	
-	
-	</section>
-	
-	
-	
-	
-	<section id="cucumber" class="level2" data-number="2.21">
 	<h2 data-number="2.21" id="sigil_toc_id_24">Cucumber</h2>
 	<p>
 	Here are some of the key nutrients found in cucumbers:<br/>
@@ -1444,15 +1389,12 @@ LCARS &#149; Online
 	<br/>
 	Cucumbers are a good source of silica. Silica is a mineral that is important for the health of our connective tissues, including skin, hair, nails, and bones. While the exact amount of silica in cucumbers can vary depending on factors like soil quality and growing conditions, studies have shown that cucumbers are a relatively good source of silica compared to other vegetables. One cup of sliced cucumbers contains approximately 8.3 mg of silica, which is about 6% of the recommended daily intake for adults. <br/>
 	
-	Ccumbers also contain molybdenum, although the amount can vary depending on factors such as soil quality and growing conditions. Molybdenum is a trace mineral that is important for a variety of functions in the body, including the metabolism of certain amino acids and the processing of waste products in the liver. While molybdenum deficiency is rare, it is important to ensure that you are getting enough of this nutrient through your diet. One cup of sliced cucumbers contains approximately 2.5 micrograms of molybdenum, which is about 5% of the recommended daily intake for adults. <br/>
+	Cucumbers also contain molybdenum, although the amount can vary depending on factors such as soil quality and growing conditions. Molybdenum is a trace mineral that is important for a variety of functions in the body, including the metabolism of certain amino acids and the processing of waste products in the liver. While molybdenum deficiency is rare, it is important to ensure that you are getting enough of this nutrient through your diet. One cup of sliced cucumbers contains approximately 2.5 micrograms of molybdenum, which is about 5% of the recommended daily intake for adults. <br/>
 	<br/>
 	Cucumbers contain some Vitamin K which is important for bone health.<br/>
 	Buy organic cucumbers as non-organic ones can be high in pesticides.<br/>
 	<p></p>
-	</section>
-	
-	
-	<section id="Collagen">
+
 	<h2 id="sigil_toc_id_70">Collagen</h2>
 	
 	If you're looking to boost your collagen production naturally, there are several nutrient-rich foods you can include in your diet:<br/>
@@ -1469,12 +1411,7 @@ LCARS &#149; Online
 	<br/>
 	Incorporating a variety of these foods into your diet can help support collagen production and promote overall health.<br/>
 	<br/>
-	</section>
 	
-	
-	
-	
-	<section id="eggs" class="level2" data-number="2.22">
 	<h2 data-number="2.22" id="sigil_toc_id_25">Eggs</h2>
 	<p>Whole eggs are nutritionally rich, supplying almost every nutrient you need. They are useful sources of some of the hard to get nutrients like vitamins D and B12 as well as the mineral iodine.<br/>
 	 Eggs are regarded as a ‘complete’ source of <b>protein</b> as they contain all nine essential amino acids, which we must obtain from our diet.<br/>
@@ -1482,8 +1419,6 @@ LCARS &#149; Online
 	</p>
 	
 	
-	</section>
-	<section id="fermented-foods" class="level2" data-number="2.23">
 	<h2 data-number="2.23" id="sigil_toc_id_26">Fermented Foods</h2>
 	<p>Fermented foods are rich in probiotics, which are beneficial bacteria that play an important role in maintaining gut health.<br/>
 	Eating probiotics can have a modest effect on high blood pressure, according to that research.<br/>
@@ -1495,21 +1430,18 @@ LCARS &#149; Online
 	Miso.<br/>
 	Tempeh.<br/>
 	</p>
-	</section>
-	<section id="fish" class="level2" data-number="2.24">
+	
 	<h2 data-number="2.24" id="sigil_toc_id_27">Fish</h2>
 	<p>Excellent source of protein.<br/>
 	Oily fish are rich in omega 3 essential fatty acids (EFAs), DHA (docosahexaenoic acid) and EPA (eicosapentaenoic acid). These fats known to reduce heart attacks, blood clotting and blood pressure.<br/>
 	DHA especially important in the brain and nervous system.<br/>
 	Good source of Choline (B vitamin) Good source of Sulfur.</p>
-	</section>
-	<section id="flavonoids" class="level2" data-number="2.25">
+
 	<h2 data-number="2.25" id="sigil_toc_id_28">Flavonoids</h2>
 	<p>Six sub-classes:</p>
-	<section id="flavones" class="level3" data-number="2.25.1">
+	
 	<h3 data-number="2.25.1" id="sigil_toc_id_29">Flavones</h3>
-	</section>
-	<section id="flavanols" class="level3" data-number="2.25.2">
+	
 	<h3 data-number="2.25.2" id="sigil_toc_id_30">Flavanols</h3>
 	<p>Quercetin.The most widely found flavonoid through food sources like onions, broccoli, berries, grapes, capers, shallots, tomatos, cherries, nuts, seeds, various citrus fruits and wine.<br/>
 	Quercetin shows several pharmacological activities such as anti-allergic, anti-bacterial, anti-oxidant, anti-viral, anti-inflammatory and anti-carcinogenic properties.<br/>
@@ -1518,21 +1450,16 @@ LCARS &#149; Online
 	Quercetin reduces the risk of cardiovascular diseases and can decrease blood pressure.<br/>
 	ref: An Overview of a versatile compound: Quercetin, International Journal of Pharmaceutical Sciences Review and Research, www.globalresearchonline.net<br/>
 	</p>
-	</section>
-	<section id="flavanones" class="level3" data-number="2.25.3">
+	
 	<h3 data-number="2.25.3" id="sigil_toc_id_31">Flavanones</h3>
-	</section>
-	<section id="flavanols-catechin" class="level3" data-number="2.25.4">
+	
 	<h3 data-number="2.25.4" id="sigil_toc_id_32">Flavanols (catechin)</h3>
-	</section>
-	<section id="anthocynadins" class="level3" data-number="2.25.5">
+	
 	<h3 data-number="2.25.5" id="sigil_toc_id_33">Anthocynadins</h3>
-	</section>
-	<section id="isoflavones" class="level3" data-number="2.25.6">
+	
+	
 	<h3 data-number="2.25.6" id="sigil_toc_id_34">Isoflavones</h3>
-	</section>
-	</section>
-	<section id="garlic" class="level2" data-number="2.26">
+	
 	<h2 data-number="2.26" id="sigil_toc_id_35">Garlic</h2>
 	<p>Garlic’s main ingredient is Allicin, shown to offer a variety of health benefits such as better blood pressure control, prevention of atherosclerosis, lowering of cholesterol and blood sugar.<br/>
 	Garlic is known for its lipid-lowering effect and for its benefit against the atherosclerotic disease process.<br/>
@@ -1541,19 +1468,16 @@ LCARS &#149; Online
 	A typical serving size of 1-3 cloves (3-9 grams) of garlic provides no significant nutritional value. When expressed per 100 grams, garlic contains several nutrients in rich amounts, including Vitamin B6 (1.2350mg or 95% DV), Vitamin C (31.2mg or 38% DV), Manganese (1.672mg or 80% DV) and Phosphorus (153mg or 22% DV). Per 100g serving, Garlic is also a source of B vitamins Thiamine (B1) and Panthothenic Acid (B5).<br/>
 	The protective effect of garlic on atherosclerosis has been attributed to its capacity to reduce lipid content in the arterial wall. Garlic causes direct antiatherogenic (preventative) and antiatherosclerotic (causing regression) effects at the level of artery wall. <br/>
 	</p>
-	</section>
-	<section id="globe-artichoke" class="level2" data-number="2.27">
+
 	<h2 data-number="2.27" id="sigil_toc_id_36">Globe artichoke</h2>
 	<p>This vegetable is a member of the thistle family.<br/>
 	Medicinally, it is best known for supporting the liver and gall bladder, i.e. it is useful in boosting detoxification and digestion. This is particularly due to natural chemicals it contains, such as cynarin, Recent studies have even shown extracts of artichoke to help relieve the symptoms of irritable bowel syndrome, such as nausea, pain, constipation and wind. It also has antifungal properties. Herbalists recommend globe artichoke for its diuretic properties - helping relieve water retention and high blood pressure. Another bonus for the cardiovascular system is that globe artichoke has been shown to reduce levels of LDL, the so-called bad cholesterol Antioxidant flavonoids from the artichoke, such as luteolin, help to prevent LDL oxidation, which may reduce the risk of atherosclerosis, or thickening and hardening of the arteries. When you buy globe artichokes, it is the unopened flower heads of the plant that are eaten - choose ones that feel heavy for their size.</p>
-	</section>
-	<section id="ginger" class="level2" data-number="2.28">
+	
 	<h2 data-number="2.28" id="sigil_toc_id_37">Ginger</h2>
 	<p>Good for digestion</p>
 	<p>Ginger has been used for centuries as a medicinal and spiritual deanser. In Ayurvedic and traditional Chinese medicine, it occurs in half of all prescriptions. The versatility of this hot, refreshing, juicy root makes it a good addition to both sweet and savoury dishes, as well as to a medicine cabinet. Ginger’s primary health uses are in calming the gut-it not only helps to quell nausea but also to soothe gripes, diarrhoea and wind.</p>
 	<p>Studies have suggested that it also has a role in preventing motion sickness and vomiting in pregnancy, as well as the ability to help ulcers heal. Several natural chemicals in ginger, including gingerols, inhibit inflammatory substances in the body, making it particularly useful for anyone with arthritis, asthma or other conditions involving inflammation. On the cardiovascular front, ginger reduces the stickiness of blood, tones the heart and reduces cholesterol levels. As well as for digestive upsets and respiratory tract infections, Western herbalists also recommend ginger as a stimulant that warms the body and boosts circulation.</p>
-	</section>
-	<section id="grapes" class="level2" data-number="2.29">
+	
 	<h2 data-number="2.29" id="sigil_toc_id_38">Grapes</h2>
 	<p>Grapes contain a wide variety of polyphenol compounds that protect against heart disease, cancer and ageing.<br/>
 	Saponins, pterostilbene, resveratrol cut the risk of heart disease by increasing HDL (good cholesterol) and reducing inflammation.<br/>
@@ -1564,8 +1488,7 @@ LCARS &#149; Online
 	Note though that grapes carry the risk of pesticide ingestion.<br/>
 	Raisins, which are dried grapes, do not contain as many nutrients as fresh grapes, but they do contain four times the amount of sugar.<br/>
 	</p>
-	</section>
-	<section id="grapefruit" class="level2" data-number="2.30">
+	
 	<h2 data-number="2.30" id="sigil_toc_id_39">Grapefruit</h2>
 	<p>Citrus x paradisi<br/>
 	The grapefruit is a subtropical citrus tree known for its relatively large, sour to semisweet and somewhat bitter fruit.<br/>
@@ -1578,7 +1501,7 @@ LCARS &#149; Online
 	Grapefruits contain the flavanone Naringenin, shown to have significant anti-oxidant properties.<br/>
 	Naringenin is being researched as a potential treatment for Alzheimer’s disease.<br/>
 	</p>
-	<div id="tab:table9">
+	
 	<table>
 	<caption>Grapefruit Calories 33 per 100g</caption>
 	<thead>
@@ -1694,20 +1617,16 @@ LCARS &#149; Online
 	</tr>
 	</tbody>
 	</table>
-	</div>
-	</section>
-	<section id="green-tea" class="level2" data-number="2.31">
+	
+	
 	<h2 data-number="2.31" id="sigil_toc_id_40">Green tea</h2>
 	<p>Good for age</p>
 	<p>The leaves for this delicate drink come from the same plant as black tea but they are lightly steamed when freshly cut, rather than left to dry out and turn black, so more of the goodness is preserved. There are several antioxidant chemicals called flavonoids in green tea that make it so beneficial, but the most effective is thought to be one called epigallocatechin gallate. Oxidants are an inevitable part of life, our bodies even produce them, but pollution, the sun, smoking, smoky atmospheres and fried foods expose us to even more. An excess of oxidants has been linked to chronic conditions such as heart disease and cancer, as well as accelerated ageing. Given that green tea can contain about eight times as much antioxidant power as black tea, a couple of cups a day is certain to offer some protection. Gut-wise, the tannins in tea can help stop diarrhoea. Remember though, that green tea does contain some caffeine, which can irritate the gut, stimulate the nervous system and make you restless.</p>
-	</section>
-	<section id="herbs" class="level2" data-number="2.32">
+	
 	<h2 data-number="2.32" id="sigil_toc_id_41">Herbs</h2>
-	</section>
-	<section id="honey" class="level2" data-number="2.33">
+	
 	<h2 data-number="2.33" id="sigil_toc_id_42">Honey</h2>
-	</section>
-	<section id="kiwi-fruit" class="level2" data-number="2.34">
+	
 	<h2 data-number="2.34" id="sigil_toc_id_43">Kiwi fruit</h2>
 	<p>Good for age</p>
 	<p>Kiwi fruit are loaded with antioxidants, including a member of the carotene family, lutein, as well as vitamins C and E.<br/>
@@ -1717,8 +1636,7 @@ LCARS &#149; Online
 	Eating kiwis can reduce blood pressure in people with mildly elevated levels according to the results of one study.<br/>
 	Kiwis are also digestive aids as they are high in fibre that’s useful for blood sugar control and for helping lower cholesterol and also because they contain an enzyme called actinidin, which helps digest proteins in food.<br/>
 	</p>
-	</section>
-	<section id="lentils-beans" class="level2" data-number="2.35">
+	
 	<h2 data-number="2.35" id="sigil_toc_id_44">Lentils &amp; Beans</h2>
 	<p>Good for Heart</p>
 	<p>Lentils and beans are an excellent source of vegetarian protein and fibre.<br/>
@@ -1726,12 +1644,10 @@ LCARS &#149; Online
 	Beans contain folic acid, which helps lower the chemical homocysteine, high levels of which are linked to heart disease, Alzheimer’s and depression.<br/>
 	All in all, beans and lentils are a low fat, low calorie, dense source of fibre, protein, vitamins and minerals.<br/>
 	</p>
-	</section>
-	<section id="mango" class="level2" data-number="2.36">
+	
 	<h2 data-number="2.36" id="sigil_toc_id_45">Mango</h2>
 	<p>Their bright orange-yellow colour gives away their beta carotene content. This is the plant form of vitamin A, which is needed for clear, unblemished skin, healthy lungs and intestines, and overall immunity. It complements the vitamin C in the fruit, which is important for the body to produce collagen, a protein in our skin and all connective tissue. Mangoes are a rich source of other antioxidants such as quercetin, which helps protect against allergies and respiratory problems. Like papaya, they contain enzymes that assist the digestion of food and cleansing of the bowel. They are also a good source of iron, potassium and magnesium, not to mention tryptophan, which the body can convert to the mood hormone, serotonin.</p>
-	</section>
-	<section id="mushrooms" class="level2" data-number="2.37">
+	
 	<h2 data-number="2.37" id="sigil_toc_id_46">Mushrooms</h2>
 	Mushrooms are a low-calorie, nutrient-dense food that provide a range of important vitamins, minerals, and other nutrients. <br/>
 	Here are some of the key nutritional benefits of mushrooms:<br/>
@@ -1747,14 +1663,13 @@ LCARS &#149; Online
 	
 	<br/>
 	In addition to these nutrients, mushrooms also contain several bioactive compounds that may have health benefits, including beta-glucans, ergothioneine, and polyphenols. These compounds have been linked to a range of health benefits, including improved immune function, reduced inflammation, and lower risk of chronic diseases such as cancer and cardiovascular disease. 
-	</section>
-	<section id="oats" class="level2" data-number="2.38">
+
 	<h2 data-number="2.38" id="sigil_toc_id_47">Oats</h2>
 	<p>In addition to being a good source of carbohydrates, they are high in both soluble and insoluble fibre. This means they are digested slowly and don’t raise blood sugar levels dramatically. Consequently, oats will keep both mood and energy levels even for a while after they are eaten - making them an ideal breakfast food. The fibre contributes to a healthy gut, not just keeping you regular but also binding to waste products. Studies have shown that oats can help lower cholesterol. Herbalists recommend oat extracts to help calm anxiety and depression, which is probably why oat tincture has been recommended for people trying to quit smoking. Oats are loaded with B vitamins, vitamin E and important minerals such as iron and zinc. All of these are needed for a healthy nervous system, as well as much, much more.<br/>
 	They are also one of the richest food sources of silicon heeded for healthy skin and bones.<br/>
 	One type of soluble fiber found in oats, Beta-Glucans,has been proven to lower cholesterol. Beta-Glucan may also lower blood pressure according to some research.<br/>
 	</p>
-	<div id="tab:table10">
+	
 	<table>
 	<caption>Oats Calories 389 per 100g</caption>
 	<thead>
@@ -1866,12 +1781,11 @@ LCARS &#149; Online
 	</tr>
 	</tbody>
 	</table>
-	</div>
-	</section>
-	<section id="onion" class="level2" data-number="2.39">
+	
+	
 	<h2 data-number="2.39" id="sigil_toc_id_48">Onion</h2>
 	<p>High in antioxidants and anti-inflammatory effects. Benefits may include reduced risk of cancer, lower blood sugar levels and improved bone health. Quercetin, a compound found in onion skin linked to lower blood pressure according to a 2019 study.</p>
-	<div id="tab:table11">
+	
 	<table>
 	<caption>Onions Calories 40 per 100g</caption>
 	<thead>
@@ -1951,10 +1865,8 @@ LCARS &#149; Online
 	</tr>
 	</tbody>
 	</table>
-	</div>
-	</section>
 	
-	<section>
+	
 	<h2 id="sigil_toc_id_72">Oranges</h2>
 	Oranges are a great source of many essential vitamins and minerals, including:
 	
@@ -2016,26 +1928,17 @@ LCARS &#149; Online
 	</table>
 	
 	
-	
-	</section>
-	
-	
-	
-	
-	<section id="papaya" class="level2" data-number="2.40">
 	<h2 data-number="2.40" id="sigil_toc_id_49">Papaya</h2>
 	<p>Good for Digestion</p>
 	<p>Even the peppery, bitter seeds can be eaten and are said to help get rid of worms. Papaya, particularly when unripe, is a wonderful digestive aid because of a powerful enzyme called papain, which helps break down proteins. The fruit is very soothing for the gut, helping to reduce inflammation and encouraging the elimination of gas and waste products. This is partly because of its rich fibre content, which also helps balance good bacteria in the gut and control cholesterol levels. The papain is also useful in helping calm inflammation elsewhere in the body, such as in the joints. As its colour suggests, papaya is full of beta carotene, as well as vitamin C.</p>
-	</section>
-	<section id="peaches" class="level2" data-number="2.41">
+	
 	<h2 data-number="2.41" id="sigil_toc_id_50">Peaches</h2>
 	<p>Similar to nectarines. Rich in vitamins and antioxidants, especially Vitamin C.<br/>
 	Not high in protein but one peach has 1.2g of protein.<br/>
 	Good source of fibre which is important for general health, as it can remove cholestrerol from the body, increases satiety and can help to stabilize blood sugars.<br/>
 	Peaches contain carotenoids which can be synthesized by the body into Vitamin A, which is essential for normal vision and immune health.<br/>
 	</p>
-	</section>
-	<section id="peanuts" class="level2" data-number="2.42">
+	
 	<h2 data-number="2.42" id="sigil_toc_id_51">Peanuts</h2>
 	
 	Peanuts are a nutrient-dense food that provide a range of important vitamins, minerals, and other nutrients. <br/>
@@ -2051,13 +1954,11 @@ LCARS &#149; Online
 	</ul>
 	
 	It's worth noting that peanuts are also high in calories, with one ounce (28g) containing around 160 calories. While peanuts can be a healthy addition to a balanced diet, it's important to enjoy them in moderation as part of an overall healthy eating pattern.<br/>
-	</section>
-	<section id="pear" class="level2" data-number="2.43">
+	
 	<h2 data-number="2.43" id="sigil_toc_id_52">Pear</h2>
 	<p>Good for digestion</p>
 	<p>Pears have much in common with their distant relative, the apple: many shapes, sizes, hues and health benefits. Pears are higher in the soluble fibre pectin than apples, which make them very cleansing and soothing for the whole digestive tract. Not only does pectin help keep the bowels moving well, it also binds to waste products and cancer-causing substances in the colon. When ripe, pears are very easy to break down, which makes them gentle on the digestion and a good source of energy that combined with the fibre, releases only gradually. Pears are generally considered one of the foods least likely to trigger an allergic reaction so they are an ideal fruit to introduce to babies being weaned and anyone with a sensitive system. Unlike many fruits, pears are best ripened after picking, so they turn buttery and don’t develop a grainy texture.</p>
-	</section>
-	<section id="bell-pepperssweet-pepper" class="level2" data-number="2.44">
+
 	<h2 data-number="2.44" id="sigil_toc_id_53">Bell Peppers(Sweet Pepper)</h2>
 	<p>Note that the nutritional content varies dependent on their color, with red varieties supplying more potassium, vitamin c and folate than their yellow, orange or green equivalents. However, immature green peppers are significantly richer than their mature red equivalent in the protective plant compounds known as polyphenols.<br/>
 	High in Vitamin B6.<br/>
@@ -2065,29 +1966,24 @@ LCARS &#149; Online
 	Bell peppers may reduce the risk of cataracts and macular degeneration as they contain two carotenoids called lutein and zeaxanthin, which appear to improve eye health.<br/>
 	Red peppers are especially rich in these carotenoids.<br/>
 	Green peppers are estimated to contain 9.9mg of Quercetin per 100g.</p>
-	</section>
-	<section id="pineapple" class="level2" data-number="2.45">
+	
 	<h2 data-number="2.45" id="sigil_toc_id_54">Pineapple</h2>
 	<p>Good for digestion</p>
 	<p>Fresh pineapple is rich in an enzyme called bromelain that may help digestion and reduce inflammation. Eaten with a meal, pineapple helps the breakdown of proteins. It is so efficient at this that it is used as a meat tenderiser. For its anti-inflammatory effects, pineapple is best eaten between meals; this way it can help relieve the swelling linked to arthritis and sore throats, as well as injuries or operations. Bromelain appears to thin mucus, so it’s useful for helping bronchitis, asthma and sinus problems. It also helps reduce the stickiness of blood, and has been shown to relieve angina and thrombosis. Pineapple’s high water content, combined with various acids it contains, gives it a diuretic action, which means it can be helpful for high blood pressure.</p>
-	</section>
-	<section id="pistachios" class="level2" data-number="2.46">
+	
 	<h2 data-number="2.46" id="sigil_toc_id_55">Pistachio’s</h2>
 	<p>According to one study including pistachio’s in your diet may reduce blood pressure as compounds in the nuts reduces the tightness of blood vessels. Other studies have found that other nuts such as almonds had a similar effect.<br/>
 	Toss them into salads, blend them into pesto’s or just snack on them.<br/>
 	</p>
-	</section>
-	<section id="prunes" class="level2" data-number="2.47">
+	
 	<h2 data-number="2.47" id="sigil_toc_id_56">Prunes</h2>
 	<p>Good for Age</p>
 	<p>Prunes have long been recognised as a very rich source of fibre that’s good for keeping your bowel movements regular, but there is much more to them than that. Prunes are one of the top foods for total antioxidant power. These vital chemicals in foods are essential for keeping your skin clear, improving your detoxification, protecting you from disease and generally keeping the inevitable ageing process in check. So don’t wait until your face looks like one to start eating prunes - even they won’t reverse wrinkles. However, scientists have shown that your diet can affect how wrinkly your skin becomes with age. There’s more - prunes are fat free and high in the important minerals potassium and iron. Remember that prunes are dried plums; the two words (the former French, the latter. Anglo-Saxon) were used interchangeably until recent times). So plump, fresh plums are also wonderfoods, just less so than prunes, weight for weight.</p>
-	</section>
-	<section id="pumpkin-seeds" class="level2" data-number="2.48">
+	
 	<h2 data-number="2.48" id="sigil_toc_id_57">Pumpkin Seeds</h2>
 	<p>Good for sex</p>
 	<p>Creamy and nutty, the seeds scooped from your Halloween pumpkin are about the most nutritious and delicious you can buy. They’re not only rich in essential fatty acids (EFAs) but also full of important micronutrients, like vitamin E, Iron and magnesium - all needed for good sexual health and fertility. EFAs are important in maintaining smooth soft, elastic skin that holds water well, so it doesn’t become easily dehydrated. The incorporation of EFAs into cell membranes means they are better able to receive hormonal messages. Pumpkin seeds are particularly rich in zinc, a mineral needed for sexual function, defence against infections, proper growth and the development of new cells. Zinc and EFAs have been linked to helping reduce prostate enlargement. The calcium and magnesium in pumpkin seeds are needed for healthy bones, nerves and muscles, while the cucurbitacins they contain have anti-inflammatory and anti-cancer properties. Pumpkin seeds are a good source of protein for vegetarians and contain vitamin B6, which has countless roles, including helping hormone balance in women.</p>
-	</section>
-	<section id="seaweed" class="level2" data-number="2.49">
+	
 	<h2 data-number="2.49" id="sigil_toc_id_58">Seaweed</h2>
 	<p>Seaweed contains a wide range of vitamins and minerals, including iodine, iron and calcium. Some types can even contain high amounts of vitamin B12. Moreover, its a good source of omega-3 fats.<br/>
 	Seaweed contains Iodine and Tyrosine, which support Thyroid function.<br/>
@@ -2102,8 +1998,7 @@ LCARS &#149; Online
 	The protein present in some seaweeds, such as Spirulina and Chlorella contain all of the essential amino acids.<br/>
 	Seaweed can also be a good source of omega-3 fats and vitamin B12.<br/>
 	Dried green and purple seaweed has been found to contain substantial amounts of vitamin B12.</p>
-	</section>
-	<section id="soluble-fibres" class="level2" data-number="2.50">
+	
 	<h2 data-number="2.50" id="sigil_toc_id_59">Soluble Fibres</h2>
 	<p>Sources of soluble fibre include almonds, alfalfa, apples, blackberries, broad beans, green peas, black beans,broccoli, soya beans, ground flax seeds, peanuts, oranges, peaches, sunflower seeds, carrots, spinach, avocado, apples, pears, bananas, sweet potatoes, onions, white rice, oats and lentils.<br/>
 	Soluble fibres lower lipid concentrations and prevent atherosclerosis.<br/>
@@ -2112,11 +2007,9 @@ LCARS &#149; Online
 	Eating more soluble fibre and increasing exercise reduces visceral or belly fat.<br/>
 	Like insoluble fibre, protein can accelerate weight loss by promoting fullness so include lean sources of protein such as skinless white chicken in your meals.<br/>
 	</p>
-	</section>
-	<section id="soya" class="level2" data-number="2.51">
+	
 	<h2 data-number="2.51" id="sigil_toc_id_60">Soya</h2>
-	</section>
-	<section id="spinach" class="level2" data-number="2.52">
+	
 	<h2 data-number="2.52" id="sigil_toc_id_61">Spinach</h2>
 	<p>Spinach is perhaps best known for its iron content, thanks to Popeye, although the iron in spinach is not in its most accessible form to humans (compared with meat, for example).<br/>
 	It is, however, a godsend for vegetarians and vegans, and a squeeze of lemon juice will provide vitamin C, which helps iron absorption.<br/>
@@ -2125,11 +2018,10 @@ LCARS &#149; Online
 	A substance called neoxanthin in spinach has been shown to help prostate health. Vitamin K, also contained in spinach, is important for bone health and blood clotting.<br/>
 	The green in leaves, including spinach, comes from the chlorophyll, a substance that, along with the fibre, acts as a powerful cleanser.<br/>
 	Leafy green vegetables like spinach, kale and cabbage are rich in nitrates, which help to manage blood pressure. To consume a daily dose of green vegetables, stir them into curries and stews.</p>
-	</section>
-	<section id="strawberries" class="level2" data-number="2.53">
+
 	<h2 data-number="2.53" id="sigil_toc_id_62">Strawberries</h2>
 	<p>Very high in Vitamin C, which is not only needed to protect against colds and cancer but also for clear skin and skin healing. Strawberries are similarly rich in the lesser-known vitamin K, needed for healthy bones and blood clotting. Their intense colour is due to anthocyanin, which protects all the body’s cells, including skin, from oxidant damage that contributes to chronic diseases such as heart disease and cancer. Anthocyanins help curb inflammation in conditions like eczema, asthma and arthritis, too. Another antioxidant with anti-cancer properties in strawberries (and most other berries) is ellagic acid. The body’s own antioxidant enzyme, superoxide dismutase, relies on manganese and this is also found in strawberries. The fruits antioxidants have also been shown to help protect the brain from age-related decline.</p>
-	<div id="tab:table12">
+	
 	<table>
 	<caption>Strawberries Calories 33 per 100g</caption>
 	<thead>
@@ -2217,19 +2109,15 @@ LCARS &#149; Online
 	</tr>
 	</tbody>
 	</table>
-	</div>
-	</section>
-	<section id="sunflower-and-sesame-seeds" class="level2" data-number="2.54">
+	
 	<h2 data-number="2.54" id="sigil_toc_id_63">Sunflower and sesame seeds</h2>
 	<p>Good for mind</p>
 	<p>Both seeds are good sources of vitamin E, plus omega 6 and monounsaturated fats, which all help minimise heart disease as well as boost the elasticity of skin. They are also rich in calcium and magnesium, needed for relaxation and contraction of muscles (including the heart) and bone health. Magnesium is required for each cell to produce energy, yet it is also considered the ’calming’ mineral. The zinc and selenium in sunflower and sesame seeds (as well sesamol and other chemicals) are important antioxidants. Low levels of zinc are associated with poor immunity, infertility, bad skin and depression. The vitamin B5 in the seeds is essential for a healthy response to stress. Sesame seeds, because of their Size, are often left undigested, which means that the nutrient content is missed. When chewed thoroughly though, or used as a paste (tahini) you can get their full benefits.</p>
-	</section>
-	<section id="sweet-potato" class="level2" data-number="2.55">
+	
 	<h2 data-number="2.55" id="sigil_toc_id_64">Sweet potato</h2>
 	<p>Good for skin</p>
 	<p>Unrelated to the common potato, the sweet potato is part of the morning glory family and grows on a vine. It is also much more nutritious. There are over 400 varieties but the orange. fresh, pink-skinned sweet potatoes - also known by their Maori name kumara - are a great source of antioxidants. The more orange, the more abundant is the beta carotene, the plant form of vitamin A. As such they are beneficial for the skin, es and lungs, and along with the vitamin C in the vegetable they provide support for the immune system. The sweetness comes from easily digestible sugars that make them a good source of energy, the release of which is somewhat tempered by the fibre content. The easy digestibility means that sweet potatoes are good for any inflammation in the gut, including ulcers. Ideally, cook them in their skins to maximise the conservation of nutrients. Sweet potatoes are wonderfully versatile and can be boiled, baked, roasted, steamed, mashed, and used in both savoury and sweet dishes.</p>
-	</section>
-	<section id="tomato" class="level2" data-number="2.56">
+
 	<h2 data-number="2.56" id="sigil_toc_id_65">Tomato</h2>
 	<p>Unlike many fruits and vegetables, some of the benefits of tomatoes are increased when they are cooked. This is because the heating process helps release certain nutrients, notably lycopene, phytoene and phytofluene carotenoids that give tomatoes their red colour and protective powers.<br/>
 	Lycopene has been shown to protect against cancer (especially prostate) and guard the skin and eyes from sun damage. As these carotenoids are fat soluble, they need to be eaten with a little fat to be absorbed (tomatoes with olive oil, for example).<br/>
@@ -2238,13 +2126,11 @@ LCARS &#149; Online
 	Tomato’s are rich in vitamin C.<br/>
 	Tomato is estimated to contain 1.6mg of Quercetin per 100g, for Cherry tomatoes it is 3.3mg per 100g.<br/>
 	</p>
-	</section>
-	<section id="yoghurt" class="level2" data-number="2.57">
+	
 	<h2 data-number="2.57" id="sigil_toc_id_66">Yoghurt</h2>
 	<p>Good for Mind</p>
 	<p>Ever since cows were first domesticated, humans have been eating fermented milk, and its benefits have long been recognised. Yoghurt is made by adding lactobacillus and bifidobacteria cultures to milk but it’s important to buy live yoghurts as some are <strong>pasteurised after the culture is added, killing it off</strong>. Live bacteria are well-known beneficial inhabitants of our digestive tracts as they help maintain the correct acidity, enhance immunity and aid digestion. Lactobacillus and bifidobacteria have also been shown to help lower cholesterol levels. Yoghurt is a good protein food, particularly for vegetarians. It contains tryptophan, the precursor of serotonin, the mood-booster. Some people who react badly to milk products are fine with yoghurt because bacteria ferment it by eating the milk sugar (lactose), making it more digestible.Like all milk products, yoghurt is a rich source of calcium, which is essential for healthy bones but also for muscles to work properly, and for nerves to fire their messages efficiently.</p>
-	</section>
-	<section id="walnuts" class="level2" data-number="2.58">
+
 	<h2 data-number="2.58" id="sigil_toc_id_67">Walnuts</h2>
 	<p>Loaded with essential fatty acids (EFAs), particularly omega 6s but also omega 3s and monounsaturates.<br/>
 	Omega 3’s lower LDL cholesterol, make blood less likely to clot and increase the elasticity of arteries.<br/>
@@ -2252,13 +2138,11 @@ LCARS &#149; Online
 	Walnuts are a source of the antioxidant ellagic acid.<br/>
 	Walnuts are also high in minerals, fibre and B vitamins.<br/>
 	</p>
-	</section>
-	<section id="watercress" class="level2" data-number="2.59">
+	
 	<h2 data-number="2.59" id="sigil_toc_id_68">Watercress</h2>
 	<p>Good for age</p>
 	<p>This peppery green has been eaten since ancient times and en used as a remedy for catarrh, bronchitis and scurvy. It is ese days, an under-rated food, although it’s packed with hose all-important antioxidants including members of the carotene family, lutein and zeaxanthin, as well as the powerful anti-inflammatory quercetin. Weight for weight, it is as rich as oranges in vitamin C, which is essential for keeping our skin regenerating well, our liver healthy and our defences strong. h spring from oxidant damage, we’re not just talking about hle external wrinkles, but also the health of our internal erans - essential for a long, healthy life. In common with ether members of the cruciferous family (like broccoli and cabbage) watercress contains glucosinolates, which help the liver’s detoxification capacity. One type in particular, phenylethyl isothiocyanate, has been shown to have anti cancer properties. Watercress also helps the release of bile from the gall bladder, which is important for fat digestion and works as a natural laxative.</p>
-	</section>
-	<section id="watermelon-and-melon" class="level2" data-number="2.60">
+	
 	<h2 data-number="2.60" id="sigil_toc_id_69">Watermelon and melon</h2>
 	<p>Loaded with water and beta-carotene. 90% of the flesh is water and so it makes a refreshing cleanser and diuretic.<br/>
 	The red flesh is rich in antioxidant nutrients such as water soluble vitamin C and fat soluble lycopene and beta carotene, all important for detoxification, fighting infections, protecting eyes and lungs, slowing ageing and countering inflammation. The seeds are loaded with yet more antioxidants such as zinc, selenium, vitaminc E and essential fats.<br/>
@@ -2271,10 +2155,11 @@ LCARS &#149; Online
 	https://www.nutritionvalue.org</code></pre>
 	
 	Nutrient tables generated with OpenAI question:<br/>
-	generate html table with borders of nutritional benefits of cranberries with rda % and include calories, carbohydrates, Pantothenic Acid and vitamin b6 and any nutrients with rda % above 4%
-	
-	</section>
-	</section>		
+	generate html table with borders of nutritional benefits of cranberries with rda % and include calories, carbohydrates, Pantothenic Acid and vitamin b6 and any nutrients with rda % above 4%]
+	</p>
+</div>
+</article>	
+
 
 
 <!-- End content area. -->
