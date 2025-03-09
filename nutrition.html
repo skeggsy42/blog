@@ -65,57 +65,85 @@
 }
 .index-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); /* Reduced minmax for more items */
-    gap: 10px; /* Reduced gap */
-    max-width: 100%; /* Allow full width of parent container */
-    margin: 10px auto; /* Added margin */
-    padding: 10px; /* Added padding */
-    box-sizing: border-box; /* Include padding and border in width */
-}
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 10px;
+    max-width: 100%;
+    margin: 10px auto;
+    padding: 10px;
+    box-sizing: border-box;
+  }
 
-.index-item {
-    background-color: #e0f7fa;
-    padding: 10px; /* Reduced padding */
-    border-radius: 5px; /* Reduced border radius */
+  .index-item {
+    padding: 10px;
+    border-radius: 5px;
     text-align: center;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1); /* Reduced shadow */
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    min-width: 80px; /* Reduced min-width */
-}
+    min-width: 80px;
+  }
 
-.index-item:hover {
-    transform: translateY(-3px); /* Reduced hover effect */
+  .index-item:hover {
+    transform: translateY(-3px);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-    background-color: #b2ebf2;
-}
+  }
 
-.index-item a {
+  .index-item a {
     text-decoration: none;
     color: #333;
     font-weight: bold;
     display: block;
-    font-size: 12px; /* Reduced font size */
-}
+    font-size: 12px;
+  }
 
-/* ... your existing color styles ... */
+  /* Funky Colors */
+  .index-item:nth-child(even) {
+    background-color: #ffe0b2; /* Light orange */
+  }
 
-/* Media query for larger screens */
-@media (min-width: 768px) {
+  .index-item:nth-child(even):hover {
+    background-color: #ffcc80;
+  }
+
+  .index-item:nth-child(3n) {
+    background-color: #c8e6c9; /* Light green */
+  }
+
+  .index-item:nth-child(3n):hover {
+    background-color: #a5d6a7;
+  }
+
+  .index-item:nth-child(5n) {
+    background-color: #d1c4e9; /* Light purple */
+  }
+
+  .index-item:nth-child(5n):hover {
+    background-color: #b39ddb;
+  }
+
+  /* Base background color */
+  .index-item {
+    background-color: #e0f7fa; /* Light blue background */
+  }
+
+  .index-item:hover {
+    background-color: #b2ebf2; /* Slightly darker on hover */
+  }
+
+  /* Media query for larger screens */
+  @media (min-width: 768px) {
     .index-container {
-        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); /* Further reduced minmax */
+      grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
     }
-}
+  }
 
-@media (min-width: 1024px) {
+  @media (min-width: 1024px) {
     .index-container {
-        grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); /* Further reduced minmax */
+      grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
     }
-}
+  }
 
 </style>
 
-
-</style>
 </head>
 <body>
 <div class="wrap">
