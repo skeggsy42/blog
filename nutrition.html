@@ -64,7 +64,61 @@
   	}
 }
 
+.index-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 15px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
 
+  .index-item {
+    background-color: #e0f7fa; /* Light blue background */
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .index-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: #b2ebf2; /* Slightly darker on hover */
+  }
+
+  .index-item a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    display: block;
+    padding: 5px;
+  }
+
+  /* Add some funky colors */
+  .index-item:nth-child(even) {
+    background-color: #ffe0b2; /* Light orange */
+  }
+
+  .index-item:nth-child(even):hover {
+    background-color: #ffcc80;
+  }
+
+  .index-item:nth-child(3n) {
+    background-color: #c8e6c9; /* Light green */
+  }
+
+  .index-item:nth-child(3n):hover {
+    background-color: #a5d6a7;
+  }
+
+  .index-item:nth-child(5n) {
+    background-color: #d1c4e9; /* Light purple */
+  }
+
+  .index-item:nth-child(5n):hover {
+    background-color: #b39ddb;
+  }
 
 
 </style>
@@ -158,73 +212,73 @@ LCARS &#149; Online
 <div class="nutrition-container">
 <article class="nutrition-content">
 	
-	<a href="#post-1">Almonds</a><br />	
-	<a href="#post-2">Apples</a><br />	
-	<a href="#post-3">Apricots</a><br />	
-	<a href="#post-4">Asparagus</a><br />		
-	<a href="#post-5">Aubergine</a><br />		
-	<a href="#post-6">Avocado</a><br />		
-	<a href="#post-7">Banana</a><br />		
-	<a href="#post-8">Beetroot</a><br />		
-	<a href="#post-9">Blueberries</a><br />		
-	<a href="#post-10">Brazil Nuts</a><br />		
-	<a href="#post-11">Broccoli</a><br />		
-	<a href="#post-12">Brown Rice</a><br />		
-	<a href="#post-13">Buckwheat</a><br />		
-	<a href="#post-14">Cabbage</a><br />		
-	<a href="#post-15">Carrots</a><br />		
-	<a href="#post-16">Celery</a><br />		
-	<a href="#post-17">Cherries</a><br />		
-	<a href="#post-18">Chicken</a><br />		
-	<a href="#post-19">Chocolate</a><br />		
-	<a href="#post-20">Coconut</a><br />		
-	<a href="#post-21">Cranberries</a><br />		
-    <a href="#post-22">Cucumber</a><br />		
-	<a href="#post-23">Collagen</a><br />		
-	<a href="#post-24">Eggs</a><br />
-	<a href="#post-25">Fermented Foods</a><br />		
-	<a href="#post-26">Fish</a><br />		
-	<a href="#post-27">Flavonoids</a><br />		
-	<a href="#post-28">Garlic</a><br />		
-	<a href="#post-29">Globe Artichoke</a><br />		
-	<a href="#post-30">Ginger</a><br />		
-	<a href="#post-30">Ginger</a><br />			
-	<a href="#post-31">Grapes</a><br />			
-	<a href="#post-32">Grapefruit</a><br />
-	<a href="#post-33">Green Tea</a><br />
-	<a href="#post-34">Herbs</a><br />
-	<a href="#post-35">Honey</a><br />
-	<a href="#post-36">Kiwi</a><br />
-	<a href="#post-37">Lentils</a><br />
-	<a href="#post-38">Mango</a><br />
-	<a href="#post-39">Mushrooms</a><br />
-	<a href="#post-40">Oats</a><br />
-	<a href="#post-41">Onion</a><br />
-	<a href="#post-42">Oranges</a><br />
-	<a href="#post-43">Papaya</a><br />
-	<a href="#post-44">Peaches</a><br />
-	<a href="#post-45">Peanuts</a><br />
-	<a href="#post-46">Pear</a><br />
-	<a href="#post-47">Sweet Pepper</a><br />
-	<a href="#post-48">Pineapple</a><br />
-	<a href="#post-49">Pistaccio</a><br />
-	<a href="#post-50">Prune</a><br />
-	<a href="#post-51">Pumpkin</a><br />
-	<a href="#post-52">Radishes</a><br />
-	<a href="#post-53">Seaweed</a><br />
-	<a href="#post-54">Soluble Fibres</a><br />
-	<a href="#post-55">Soya</a><br />
-	<a href="#post-56">Spinach</a><br />
-	<a href="#post-57">Strawberry</a><br />
-	<a href="#post-58">Sunflower and sesame seeds</a><br />
-	<a href="#post-59">Sweet Potato</a><br />
-	<a href="#post-60">Tomato</a><br />
-	<a href="#post-61">Yoghurt</a><br />
-	<a href="#post-62">Walnuts</a><br />
-	<a href="#post-63">Watercress</a><br />
-	<a href="#post-64">Watermelon</a><br />
-	<a href="#post-65"></a><br />
-	<a href="#post-66"></a><br />
+    <div class="index-container">
+		<div class="index-item"><a href="#post-1">Almonds</a></div>
+		<div class="index-item"><a href="#post-2">Apples</a></div>
+		<div class="index-item"><a href="#post-3">Apricots</a></div>
+		<div class="index-item"><a href="#post-4">Asparagus</a></div>
+		<div class="index-item"><a href="#post-5">Aubergine</a></div>
+		<div class="index-item"><a href="#post-6">Avocado</a></div>
+		<div class="index-item"><a href="#post-7">Banana</a></div>
+		<div class="index-item"><a href="#post-8">Beetroot</a></div>
+		<div class="index-item"><a href="#post-9">Blueberries</a></div>
+		<div class="index-item"><a href="#post-10">Brazil Nuts</a></div>
+		<div class="index-item"><a href="#post-11">Broccoli</a></div>
+		<div class="index-item"><a href="#post-12">Brown Rice</a></div>
+		<div class="index-item"><a href="#post-13">Buckwheat</a></div>
+		<div class="index-item"><a href="#post-14">Cabbage</a></div>
+		<div class="index-item"><a href="#post-15">Carrots</a></div>
+		<div class="index-item"><a href="#post-16">Celery</a></div>
+		<div class="index-item"><a href="#post-17">Cherries</a></div>
+		<div class="index-item"><a href="#post-18">Chicken</a></div>
+		<div class="index-item"><a href="#post-19">Chocolate</a></div>
+		<div class="index-item"><a href="#post-20">Coconut</a></div>
+		<div class="index-item"><a href="#post-21">Cranberries</a></div>
+		<div class="index-item"><a href="#post-22">Cucumber</a></div>
+		<div class="index-item"><a href="#post-23">Collagen</a></div>
+		<div class="index-item"><a href="#post-24">Eggs</a></div>
+		<div class="index-item"><a href="#post-25">Fermented Foods</a></div>
+		<div class="index-item"><a href="#post-26">Fish</a></div>
+		<div class="index-item"><a href="#post-27">Flavonoids</a></div>
+		<div class="index-item"><a href="#post-28">Garlic</a></div>
+		<div class="index-item"><a href="#post-29">Globe Artichoke</a></div>
+		<div class="index-item"><a href="#post-30">Ginger</a></div>
+		<div class="index-item"><a href="#post-31">Grapes</a></div>
+		<div class="index-item"><a href="#post-32">Grapefruit</a></div>
+		<div class="index-item"><a href="#post-33">Green Tea</a></div>
+		<div class="index-item"><a href="#post-34">Herbs</a></div>
+		<div class="index-item"><a href="#post-35">Honey</a></div>
+		<div class="index-item"><a href="#post-36">Kiwi</a></div>
+		<div class="index-item"><a href="#post-37">Lentils</a></div>
+		<div class="index-item"><a href="#post-38">Mango</a></div>
+		<div class="index-item"><a href="#post-39">Mushrooms</a></div>
+		<div class="index-item"><a href="#post-40">Oats</a></div>
+		<div class="index-item"><a href="#post-41">Onion</a></div>
+		<div class="index-item"><a href="#post-42">Oranges</a></div>
+		<div class="index-item"><a href="#post-43">Papaya</a></div>
+		<div class="index-item"><a href="#post-44">Peaches</a></div>
+		<div class="index-item"><a href="#post-45">Peanuts</a></div>
+		<div class="index-item"><a href="#post-46">Pear</a></div>
+		<div class="index-item"><a href="#post-47">Sweet Pepper</a></div>
+		<div class="index-item"><a href="#post-48">Pineapple</a></div>
+		<div class="index-item"><a href="#post-49">Pistachio</a></div>
+		<div class="index-item"><a href="#post-50">Prune</a></div>
+		<div class="index-item"><a href="#post-51">Pumpkin</a></div>
+		<div class="index-item"><a href="#post-52">Radishes</a></div>
+		<div class="index-item"><a href="#post-53">Seaweed</a></div>
+		<div class="index-item"><a href="#post-54">Soluble Fibres</a></div>
+		<div class="index-item"><a href="#post-55">Soya</a></div>
+		<div class="index-item"><a href="#post-56">Spinach</a></div>
+		<div class="index-item"><a href="#post-57">Strawberry</a></div>
+		<div class="index-item"><a href="#post-58">Sunflower and sesame seeds</a></div>
+		<div class="index-item"><a href="#post-59">Sweet Potato</a></div>
+		<div class="index-item"><a href="#post-60">Tomato</a></div>
+		<div class="index-item"><a href="#post-61">Yoghurt</a></div>
+		<div class="index-item"><a href="#post-62">Walnuts</a></div>
+		<div class="index-item"><a href="#post-63">Watercress</a></div>
+		<div class="index-item"><a href="#post-64">Watermelon</a></div>
+	  </div>
+	
 	<div id="post-1" class="lcars-text-bar">
 		<span>Almonds</span>
 	</div>	
