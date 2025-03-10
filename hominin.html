@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hominin Lineage Diagram</title>
+<style>
+  .node {
+    position: absolute;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+  }
+  .line {
+    position: absolute;
+    border-bottom: 1px solid black;
+  }
+</style>
+</head>
+<body>
+
+<div id="diagram">
+  <div class="node" id="ancestor" style="top: 50px; left: 300px;">Common Ancestor (e.g., Homo heidelbergensis or close relative)</div>
+
+  <div class="line" style="top: 150px; left: 350px; width: 300px;"></div>
+
+  <div class="node" id="neanderdenis" style="top: 200px; left: 100px;">Neanderthal/Denisovan Lineage</div>
+  <div class="node" id="sapiens" style="top: 200px; left: 500px;">Homo sapiens Lineage</div>
+
+  <div class="line" style="top: 300px; left: 250px; width: 200px;"></div>
+
+  <div class="node" id="neanderthal" style="top: 350px; left: 100px;">Neanderthals</div>
+  <div class="node" id="denisovan" style="top: 350px; left: 300px;">Denisovans</div>
+
+  <script>
+    // Adjust line positions based on node positions
+    function adjustLines() {
+      const ancestor = document.getElementById("ancestor");
+      const neanderdenis = document.getElementById("neanderdenis");
+      const sapiens = document.getElementById("sapiens");
+      const neanderthal = document.getElementById("neanderthal");
+      const denisovan = document.getElementById("denisovan");
+
+      const line1 = document.querySelector(".line:nth-of-type(1)");
+      const line2 = document.querySelector(".line:nth-of-type(2)");
+
+      line1.style.left = (ancestor.offsetLeft + ancestor.offsetWidth / 2) - (neanderdenis.offsetLeft + sapiens.offsetLeft)/2 + (neanderdenis.offsetLeft + sapiens.offsetLeft)/2 - line1.offsetWidth/2 + "px";
+      line1.style.width = (sapiens.offsetLeft - neanderdenis.offsetLeft) + "px";
+
+      line2.style.left = (neanderdenis.offsetLeft + neanderdenis.offsetWidth / 2) - (neanderthal.offsetLeft + denisovan.offsetLeft)/2 + (neanderthal.offsetLeft + denisovan.offsetLeft)/2 - line2.offsetWidth/2 + "px";
+      line2.style.width = (denisovan.offsetLeft - neanderthal.offsetLeft) + "px";
+
+    }
+
+    adjustLines();
+    window.addEventListener('resize', adjustLines);
+
+  </script>
+</div>
+
+</body>
+</html>
