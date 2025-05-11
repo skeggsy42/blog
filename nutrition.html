@@ -40,23 +40,24 @@
 
 /* Define a container for your nutrition content */
 	.nutrition-container {
-  		max-width: 600px !important; /* Adjust this value to your desired maximum width */
+  		width: 100%;
+		max-width: 600px !important; /* Adjust this value to your desired maximum width */
   		margin: auto !important; /* Center the container on the page */	
 		float: left;
-		white-space: text-wrap !important;
+		white-space: normal !important;
 	}
 
 /* Define styles for your nutrition content */
 	body .nutrition-content {
 		font-size: 14px;
 		color:white;
-		white-space: text-wrap !important;
+		white-space: normal !important;
 		
   		/* Your existing styles for the nutrition content go here */
 	}
 
 	/* Define a media query for smaller screens */
-	@media screen and (max-width: 390px) {
+	@media screen and (max-width: 480px) {
   	/* Adjust styles for smaller screens */
   	.nutrition-container {
     	max-width: 300px !important; /* Allow the container to take full width on smaller screens */
